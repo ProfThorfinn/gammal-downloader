@@ -1,0 +1,4961 @@
+{
+  "course": {
+    "title": "Data Structures",
+    "titleId": "data-structures",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Elevate your coding expertise with our Data Structures course on Gammal Tech. Building on the foundational knowledge from our C++ Programming course, this essential training will give you a deep understanding of data organization and manipulation. Mastering data structures is key to developing efficient algorithms, optimizing performance, and solving complex problems. Our expert instruction will equip you with the skills needed to excel in the tech industry and enhance your career prospects. Don\u2019t miss this critical step in your programming journey. Enroll now and take your skills to the next level!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 10,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/fc202d482311c839b0efc20d9539d11a.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/fc202d482311c839b0efc20d9539d11a.jpeg",
+      "name": "\/fc202d482311c839b0efc20d9539d11a.jpeg"
+    },
+    "bgcolor": null,
+    "price": 199,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 632,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/q6V8HVkHp41x2WUK7",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "data_structures",
+      "apple_store_id": "data_structures",
+      "slug": "data-structures"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505720.724174,
+    "modified": 1730737452.221146,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "00349b9d35b92c26f829cad07542c191c0540bf9e418182f3c3ee5935a4cdc0f",
+    "id": "65001af83d914a771608e132",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=data-structures&unit=6507154b320c235b8e0a1898Unit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "data-_course_introduction": {
+        "title": "Course Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507154b320c235b8e0a1898",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_course_introduction",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_recursion": {
+        "title": "Recursion",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507155cbf1243241e045d1e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040672253e7d94e40d5b21",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592248c3f422d23ed0a64d3",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507155cbf1243241e045d1d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660406a831bbcf658f09aaf6",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659225086831ddde65052c35",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507155cbf1243241e045d1c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660406e4dc2bf8740e0daa0d",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592253173ede7bd470ddf97",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507155cbf1243241e045d1b",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660407226cfd3b1155011943",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659225497650928ee602b5cd",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_recursion",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_dynamic_memory_allocation": {
+        "title": "Dynamic Memory Allocation",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507156cbcb6c916a6002474",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6604074ec1055ebce0048071",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "65922568e009c1a9a601775c",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507156cbcb6c916a6002473",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040776dc2b02514204ef53",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "65922585f838b557680d045d",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507156bbcb6c916a6002472",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660407af37daa0acc80fd8f6",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659225a7bed0dc76ae01b8ba",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507156bbcb6c916a6002471",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040804868e9529c40b7333",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659226241aa7bb46ab09c913",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507156bbcb6c916a6002470",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Database and Data Modeling",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660408712dde79165f04caa1",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592264138c4f3f0f10b8c5d",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718c52325d63009042e02",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660408ccf2cbd402e1067ec5",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592265e652034ae3f072728",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718cee793ac49e405b9a1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660408ffbc9c53c8a5010666",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592267b108deac4e101bee4",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_dynamic_memory_allocation",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_linked_lists": {
+        "title": "Linked Lists",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650718d88eeb5647160aa9ef",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040953a0bb3cdbd70aa0dd",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592269d30c1fd295e01c6ba",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718fa9378aad38a08e24c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660409aa9317d30cfe0dc695",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659226b8e637a0757b018e23",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718f6d2aeb32bad0dcbd0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040b26bdbb77d7f80e6dc7",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659226e18ea5b7f7b30653d7",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718f4fc5c0993e50acb71",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040b597ea65f146e0147af",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659226fd02e1d01bb70d7f69",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071e607fbca9c45e05355e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040b87e9e7a637930ac3af",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659227209bc08b820d09e821",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718f1c120e5a5ed0fee96",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040cbf1e15ff64c401f363",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "65922739e8d000f5bb021ff8",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718ef0033ebd09409530c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040dd735e2f91c7503dd91",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "659227573003ec470106776c",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718eda2dba6d4a10aa739",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040e4b17a677121b0b5e35",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592277252f09abcfc0cb2c4",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650718eb36fb33a6d50f3562",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66040e92321013be32001d39",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6592278b8077ce44c80bf66e",
+            "icon": "pdf",
+            "subtitle": "practice problem-solving in coding",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_linked_lists",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_memory_management_and_error_handling": {
+        "title": "Memory Management and Error Handling",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca7",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660427381a4577105801a097",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66042764487ad483dc0375d4",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca5",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6604279de49dbe18560cd406",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660427c78e28bd77c808fc95",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca3",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6604281d79ef0fe7bf04f027",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6604286b584c476bc608b5d6",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507190a6a25a381750e1ca1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660434e2325e1315240dd197",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_memory_management_and_error_handling",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-__stacks_and_queues": {
+        "title": " Stacks and Queues",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb77",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043528866fd47a960d1091",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb76",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660439f5ae0bf389160dee4b",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb75",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043a2392fa78a6e7095b5e",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb74",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043a8afec64a8c4e0158e1",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb73",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043b7ba59a43b77f0a206b",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb72",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043be8f5ff368a27024067",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb71",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043c59c76524fc6a07673d",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650720aa2861ed0a8f094d24",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043c90749171bc26006c9b",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071919425acbb34b02fb70",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043cdd0ca80b865301194b",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-__stacks_and_queues",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_trees": {
+        "title": "Trees",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b5d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043d03d81529eb0004d340",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b5c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043d388fd30dca530c0b1c",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b5b",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043d5cfd91d28cec063c39",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b5a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043d8b569c92bd3d0e8db2",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b59",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043dc8235a91ad0507a435",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b58",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043e6dd0ab6ada17059db9",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507192a30784f38d8030b57",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043ebc9a5f81802f0c9b1a",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_trees",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_heaps_and_hashing": {
+        "title": "Heaps and Hashing",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e107a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043f023fb896344c0f706d",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e1079",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043f281b4842a18b08c204",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e1078",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66043fe397bc4385ac0807d0",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e1077",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66044017817811fea20c9999",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e1076",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6604404935a2ceaf280fccdd",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e1075",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "66044078d6dbe08ad60a6fe8",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65071939b9b1e30f980e1074",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "660440a2d18dad7b6300e7cc",
+            "icon": "pdf",
+            "subtitle": "Data Structures Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_heaps_and_hashing",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "data-_course_summary": {
+        "title": "Course Summary",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507194a94cef088160519dd",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "DateTime now",
+            "courseTitle": "Data Structures",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c6cddfab6cf5c1705dd12",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "data-_course_summary",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 123,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c6cddfab6cf5c1705dd11": {
+        "title": "Data Structures",
+        "type": "usage_course",
+        "unitId": "661c6cddfab6cf5c1705dd12",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "data-structures",
+        "courseImage": "\/fc202d482311c839b0efc20d9539d11a.jpeg",
+        "id": "data-structures"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "659227573003ec470106776c": {
+        "title": "Problem Solving (DS18)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-Problem Solving DS18.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-Problem Solving DS18.pdf",
+          "pdf_name": "1-Problem Solving DS18.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077143.307903,
+        "modified": 1727911609.593444,
+        "id": "659227573003ec470106776c",
+        "modifiedF": "2024-10-03 02:26:49",
+        "hasData": true
+      },
+      "66040e4b17a677121b0b5e35": {
+        "title": "Exercise (DS19)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-DS lesson 19.pdf",
+          "pages": "20",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-DS lesson 19.pdf",
+          "pdf_name": "1-DS lesson 19.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541835.620455,
+        "modified": 1725639620.595942,
+        "id": "66040e4b17a677121b0b5e35",
+        "modifiedF": "2024-09-06 19:20:20",
+        "hasData": true
+      },
+      "661c6cddfab6cf5c1705dd12": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_course_summary",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c6cddfab6cf5c1705dd11",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713138909.923161,
+        "modified": 1713138909.923161,
+        "id": "661c6cddfab6cf5c1705dd12",
+        "modifiedF": "2024-04-15 01:55:09",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "66043e6dd0ab6ada17059db9": {
+        "title": "Exercise (DS42)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-DS lesson 42.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-DS lesson 42.pdf",
+          "pdf_name": "1-DS lesson 42.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554157.431645,
+        "modified": 1713131529.04898,
+        "id": "66043e6dd0ab6ada17059db9",
+        "modifiedF": "2024-04-14 23:52:09",
+        "hasData": true
+      },
+      "660407226cfd3b1155011943": {
+        "title": "Exercise (DS4)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-DS lesson 4.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-DS lesson 4.pdf",
+          "pdf_name": "1-DS lesson 4.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540002.895566,
+        "modified": 1713131501.17966,
+        "id": "660407226cfd3b1155011943",
+        "modifiedF": "2024-04-14 23:51:41",
+        "hasData": true
+      },
+      "660440a2d18dad7b6300e7cc": {
+        "title": "Exercise (DS50)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 50.pdf",
+          "pages": "14",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 50.pdf",
+          "pdf_name": "DS lesson 50.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554722.433943,
+        "modified": 1711554790.527057,
+        "id": "660440a2d18dad7b6300e7cc",
+        "modifiedF": "2024-03-27 17:53:10",
+        "hasData": true
+      },
+      "66044078d6dbe08ad60a6fe8": {
+        "title": "Exercise (DS49)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 49.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 49.pdf",
+          "pdf_name": "DS lesson 49.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554680.735302,
+        "modified": 1711554715.546108,
+        "id": "66044078d6dbe08ad60a6fe8",
+        "modifiedF": "2024-03-27 17:51:55",
+        "hasData": true
+      },
+      "6604404935a2ceaf280fccdd": {
+        "title": "Exercise (DS48)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 48.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 48.pdf",
+          "pdf_name": "DS lesson 48.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554633.489269,
+        "modified": 1711554673.21859,
+        "id": "6604404935a2ceaf280fccdd",
+        "modifiedF": "2024-03-27 17:51:13",
+        "hasData": true
+      },
+      "66044017817811fea20c9999": {
+        "title": "Exercise (DS47)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 47.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 47.pdf",
+          "pdf_name": "DS lesson 47.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554583.326396,
+        "modified": 1711554624.944557,
+        "id": "66044017817811fea20c9999",
+        "modifiedF": "2024-03-27 17:50:24",
+        "hasData": true
+      },
+      "66043fe397bc4385ac0807d0": {
+        "title": "Exercise (DS46)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 46.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 46.pdf",
+          "pdf_name": "DS lesson 46.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554531.956592,
+        "modified": 1711554574.10157,
+        "id": "66043fe397bc4385ac0807d0",
+        "modifiedF": "2024-03-27 17:49:34",
+        "hasData": true
+      },
+      "66043f281b4842a18b08c204": {
+        "title": "Exercise (DS45)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 45.pdf",
+          "pages": "20",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 45.pdf",
+          "pdf_name": "DS lesson 45.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554344.506014,
+        "modified": 1711554479.829737,
+        "id": "66043f281b4842a18b08c204",
+        "modifiedF": "2024-03-27 17:47:59",
+        "hasData": true
+      },
+      "66043f023fb896344c0f706d": {
+        "title": "Exercise (DS44)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 44.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 44.pdf",
+          "pdf_name": "DS lesson 44.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554306.702086,
+        "modified": 1711554339.652418,
+        "id": "66043f023fb896344c0f706d",
+        "modifiedF": "2024-03-27 17:45:39",
+        "hasData": true
+      },
+      "66043ebc9a5f81802f0c9b1a": {
+        "title": "Exercise (DS43)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 43.pdf",
+          "pages": "21",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 43.pdf",
+          "pdf_name": "DS lesson 43.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711554236.962791,
+        "modified": 1711554301.052318,
+        "id": "66043ebc9a5f81802f0c9b1a",
+        "modifiedF": "2024-03-27 17:45:01",
+        "hasData": true
+      },
+      "66043dc8235a91ad0507a435": {
+        "title": "Exercise (DS41)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 41.pdf",
+          "pages": "20",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 41.pdf",
+          "pdf_name": "DS lesson 41.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553992.617249,
+        "modified": 1711554037.962206,
+        "id": "66043dc8235a91ad0507a435",
+        "modifiedF": "2024-03-27 17:40:37",
+        "hasData": true
+      },
+      "66043d8b569c92bd3d0e8db2": {
+        "title": "Exercise (DS40)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 40.pdf",
+          "pages": "20",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 40.pdf",
+          "pdf_name": "DS lesson 40.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553931.717772,
+        "modified": 1711553986.537106,
+        "id": "66043d8b569c92bd3d0e8db2",
+        "modifiedF": "2024-03-27 17:39:46",
+        "hasData": true
+      },
+      "66043d5cfd91d28cec063c39": {
+        "title": "Exercise (DS39)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 39.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 39.pdf",
+          "pdf_name": "DS lesson 39.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553884.153406,
+        "modified": 1711553924.266804,
+        "id": "66043d5cfd91d28cec063c39",
+        "modifiedF": "2024-03-27 17:38:44",
+        "hasData": true
+      },
+      "66043d388fd30dca530c0b1c": {
+        "title": "Exercise (DS38)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 38.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 38.pdf",
+          "pdf_name": "DS lesson 38.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553848.65272,
+        "modified": 1711553876.638174,
+        "id": "66043d388fd30dca530c0b1c",
+        "modifiedF": "2024-03-27 17:37:56",
+        "hasData": true
+      },
+      "66043d03d81529eb0004d340": {
+        "title": "Exercise (DS37)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 37.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 37.pdf",
+          "pdf_name": "DS lesson 37.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553795.611001,
+        "modified": 1711553840.735546,
+        "id": "66043d03d81529eb0004d340",
+        "modifiedF": "2024-03-27 17:37:20",
+        "hasData": true
+      },
+      "66043cdd0ca80b865301194b": {
+        "title": "Exercise (DS36)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 36.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 36.pdf",
+          "pdf_name": "DS lesson 36.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553757.552831,
+        "modified": 1711553786.552388,
+        "id": "66043cdd0ca80b865301194b",
+        "modifiedF": "2024-03-27 17:36:26",
+        "hasData": true
+      },
+      "66043c90749171bc26006c9b": {
+        "title": "Exercise (DS35)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-DS lesson 35.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-DS lesson 35.pdf",
+          "pdf_name": "1-DS lesson 35.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553680.102708,
+        "modified": 1711553741.942845,
+        "id": "66043c90749171bc26006c9b",
+        "modifiedF": "2024-03-27 17:35:41",
+        "hasData": true
+      },
+      "66043c59c76524fc6a07673d": {
+        "title": "Exercise (DS34)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 34.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 34.pdf",
+          "pdf_name": "DS lesson 34.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553625.018566,
+        "modified": 1711553671.696964,
+        "id": "66043c59c76524fc6a07673d",
+        "modifiedF": "2024-03-27 17:34:31",
+        "hasData": true
+      },
+      "66043be8f5ff368a27024067": {
+        "title": "Exercise (DS33)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 33.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 33.pdf",
+          "pdf_name": "DS lesson 33.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553512.585038,
+        "modified": 1711553554.59239,
+        "id": "66043be8f5ff368a27024067",
+        "modifiedF": "2024-03-27 17:32:34",
+        "hasData": true
+      },
+      "66043b7ba59a43b77f0a206b": {
+        "title": "Exercise (DS32)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 32.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 32.pdf",
+          "pdf_name": "DS lesson 32.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553403.519129,
+        "modified": 1711553450.693876,
+        "id": "66043b7ba59a43b77f0a206b",
+        "modifiedF": "2024-03-27 17:30:50",
+        "hasData": true
+      },
+      "66043a8afec64a8c4e0158e1": {
+        "title": "Exercise (DS31)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 31.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 31.pdf",
+          "pdf_name": "DS lesson 31.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553162.892786,
+        "modified": 1711553292.71892,
+        "id": "66043a8afec64a8c4e0158e1",
+        "modifiedF": "2024-03-27 17:28:12",
+        "hasData": true
+      },
+      "66043a2392fa78a6e7095b5e": {
+        "title": "Exercise (DS30)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 30.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 30.pdf",
+          "pdf_name": "DS lesson 30.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553059.001099,
+        "modified": 1711553097.548869,
+        "id": "66043a2392fa78a6e7095b5e",
+        "modifiedF": "2024-03-27 17:24:57",
+        "hasData": true
+      },
+      "660439f5ae0bf389160dee4b": {
+        "title": "Exercise (DS29)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 29.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 29.pdf",
+          "pdf_name": "DS lesson 29.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711553013.272502,
+        "modified": 1711553051.717486,
+        "id": "660439f5ae0bf389160dee4b",
+        "modifiedF": "2024-03-27 17:24:11",
+        "hasData": true
+      },
+      "66043528866fd47a960d1091": {
+        "title": "Exercise (DS28)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 28.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 28.pdf",
+          "pdf_name": "DS lesson 28.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711551784.832914,
+        "modified": 1711552898.933045,
+        "id": "66043528866fd47a960d1091",
+        "modifiedF": "2024-03-27 17:21:38",
+        "hasData": true
+      },
+      "660434e2325e1315240dd197": {
+        "title": "Exercise (DS27)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 27.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 27.pdf",
+          "pdf_name": "DS lesson 27.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711551714.655217,
+        "modified": 1711551775.152291,
+        "id": "660434e2325e1315240dd197",
+        "modifiedF": "2024-03-27 17:02:55",
+        "hasData": true
+      },
+      "6604286b584c476bc608b5d6": {
+        "title": "Exercise (DS26)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 26.pdf",
+          "pages": "20",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 26.pdf",
+          "pdf_name": "DS lesson 26.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711548523.860618,
+        "modified": 1711548578.854087,
+        "id": "6604286b584c476bc608b5d6",
+        "modifiedF": "2024-03-27 16:09:38",
+        "hasData": true
+      },
+      "6604281d79ef0fe7bf04f027": {
+        "title": "Exercise (DS25)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 25.pdf",
+          "pages": "25",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 25.pdf",
+          "pdf_name": "DS lesson 25.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711548445.585078,
+        "modified": 1711548510.432398,
+        "id": "6604281d79ef0fe7bf04f027",
+        "modifiedF": "2024-03-27 16:08:30",
+        "hasData": true
+      },
+      "660427c78e28bd77c808fc95": {
+        "title": "Exercise (DS24)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 24.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 24.pdf",
+          "pdf_name": "DS lesson 24.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711548359.103422,
+        "modified": 1711548409.97943,
+        "id": "660427c78e28bd77c808fc95",
+        "modifiedF": "2024-03-27 16:06:49",
+        "hasData": true
+      },
+      "6604279de49dbe18560cd406": {
+        "title": "Exercise (DS23)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 23.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 23.pdf",
+          "pdf_name": "DS lesson 23.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711548317.214319,
+        "modified": 1711548345.478826,
+        "id": "6604279de49dbe18560cd406",
+        "modifiedF": "2024-03-27 16:05:45",
+        "hasData": true
+      },
+      "66042764487ad483dc0375d4": {
+        "title": "Exercise (DS22)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 22.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 22.pdf",
+          "pdf_name": "DS lesson 22.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711548260.190932,
+        "modified": 1711548292.806476,
+        "id": "66042764487ad483dc0375d4",
+        "modifiedF": "2024-03-27 16:04:52",
+        "hasData": true
+      },
+      "660427381a4577105801a097": {
+        "title": "Exercise (DS21)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 21.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 21.pdf",
+          "pdf_name": "DS lesson 21.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711548216.980251,
+        "modified": 1711548253.25426,
+        "id": "660427381a4577105801a097",
+        "modifiedF": "2024-03-27 16:04:13",
+        "hasData": true
+      },
+      "66040e92321013be32001d39": {
+        "title": "Exercise (DS20)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 20.pdf",
+          "pages": "17",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 20.pdf",
+          "pdf_name": "DS lesson 20.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541906.300388,
+        "modified": 1711541946.0642,
+        "id": "66040e92321013be32001d39",
+        "modifiedF": "2024-03-27 14:19:06",
+        "hasData": true
+      },
+      "66040dd735e2f91c7503dd91": {
+        "title": "Exercise (DS18)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 18.pdf",
+          "pages": "19",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 18.pdf",
+          "pdf_name": "DS lesson 18.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541719.068774,
+        "modified": 1711541770.841981,
+        "id": "66040dd735e2f91c7503dd91",
+        "modifiedF": "2024-03-27 14:16:10",
+        "hasData": true
+      },
+      "66040cbf1e15ff64c401f363": {
+        "title": "Exercise (DS17)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 17.pdf",
+          "pages": "19",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 17.pdf",
+          "pdf_name": "DS lesson 17.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541439.863074,
+        "modified": 1711541495.574494,
+        "id": "66040cbf1e15ff64c401f363",
+        "modifiedF": "2024-03-27 14:11:35",
+        "hasData": true
+      },
+      "66040b87e9e7a637930ac3af": {
+        "title": "Exercise (DS16)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 16.pdf",
+          "pages": "13",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 16.pdf",
+          "pdf_name": "DS lesson 16.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541127.346094,
+        "modified": 1711541180.94719,
+        "id": "66040b87e9e7a637930ac3af",
+        "modifiedF": "2024-03-27 14:06:20",
+        "hasData": true
+      },
+      "66040b597ea65f146e0147af": {
+        "title": "Exercise (DS15)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 15.pdf",
+          "pages": "14",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 15.pdf",
+          "pdf_name": "DS lesson 15.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541081.407443,
+        "modified": 1711541120.269126,
+        "id": "66040b597ea65f146e0147af",
+        "modifiedF": "2024-03-27 14:05:20",
+        "hasData": true
+      },
+      "66040b26bdbb77d7f80e6dc7": {
+        "title": "Exercise (DS14)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 14.pdf",
+          "pages": "14",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 14.pdf",
+          "pdf_name": "DS lesson 14.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711541030.717701,
+        "modified": 1711541075.046341,
+        "id": "66040b26bdbb77d7f80e6dc7",
+        "modifiedF": "2024-03-27 14:04:35",
+        "hasData": true
+      },
+      "660409aa9317d30cfe0dc695": {
+        "title": "Exercise (DS13)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 13.pdf",
+          "pages": "20",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 13.pdf",
+          "pdf_name": "DS lesson 13.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540650.122644,
+        "modified": 1711540714.210598,
+        "id": "660409aa9317d30cfe0dc695",
+        "modifiedF": "2024-03-27 13:58:34",
+        "hasData": true
+      },
+      "66040953a0bb3cdbd70aa0dd": {
+        "title": "Exercise (DS12)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 12.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 12.pdf",
+          "pdf_name": "DS lesson 12.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540563.139149,
+        "modified": 1711540635.78744,
+        "id": "66040953a0bb3cdbd70aa0dd",
+        "modifiedF": "2024-03-27 13:57:15",
+        "hasData": true
+      },
+      "660408ffbc9c53c8a5010666": {
+        "title": "Exercise (DS11)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 11.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 11.pdf",
+          "pdf_name": "DS lesson 11.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540479.024597,
+        "modified": 1711540532.443992,
+        "id": "660408ffbc9c53c8a5010666",
+        "modifiedF": "2024-03-27 13:55:32",
+        "hasData": true
+      },
+      "660408ccf2cbd402e1067ec5": {
+        "title": "Exercise (DS10)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 10.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 10.pdf",
+          "pdf_name": "DS lesson 10.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540428.652212,
+        "modified": 1711540464.830026,
+        "id": "660408ccf2cbd402e1067ec5",
+        "modifiedF": "2024-03-27 13:54:24",
+        "hasData": true
+      },
+      "660408712dde79165f04caa1": {
+        "title": "Exercise (DS9)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 9.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 9.pdf",
+          "pdf_name": "DS lesson 9.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540337.468047,
+        "modified": 1711540404.22031,
+        "id": "660408712dde79165f04caa1",
+        "modifiedF": "2024-03-27 13:53:24",
+        "hasData": true
+      },
+      "66040804868e9529c40b7333": {
+        "title": "Exercise (DS8)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 8.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 8.pdf",
+          "pdf_name": "DS lesson 8.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540228.730283,
+        "modified": 1711540258.461114,
+        "id": "66040804868e9529c40b7333",
+        "modifiedF": "2024-03-27 13:50:58",
+        "hasData": true
+      },
+      "660407af37daa0acc80fd8f6": {
+        "title": "Exercise (DS7)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 7.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 7.pdf",
+          "pdf_name": "DS lesson 7.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540143.249018,
+        "modified": 1711540215.977052,
+        "id": "660407af37daa0acc80fd8f6",
+        "modifiedF": "2024-03-27 13:50:15",
+        "hasData": true
+      },
+      "66040776dc2b02514204ef53": {
+        "title": "Exercise (DS6)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 6.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 6.pdf",
+          "pdf_name": "DS lesson 6.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540086.872947,
+        "modified": 1711540127.288585,
+        "id": "66040776dc2b02514204ef53",
+        "modifiedF": "2024-03-27 13:48:47",
+        "hasData": true
+      },
+      "6604074ec1055ebce0048071": {
+        "title": "Exercise (DS5)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 5.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 5.pdf",
+          "pdf_name": "DS lesson 5.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711540046.632722,
+        "modified": 1711540077.01502,
+        "id": "6604074ec1055ebce0048071",
+        "modifiedF": "2024-03-27 13:47:57",
+        "hasData": true
+      },
+      "660406e4dc2bf8740e0daa0d": {
+        "title": "Exercise (DS3)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 3.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 3.pdf",
+          "pdf_name": "DS lesson 3.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711539940.069191,
+        "modified": 1711539985.502414,
+        "id": "660406e4dc2bf8740e0daa0d",
+        "modifiedF": "2024-03-27 13:46:25",
+        "hasData": true
+      },
+      "660406a831bbcf658f09aaf6": {
+        "title": "Exercise (DS2)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 2.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 2.pdf",
+          "pdf_name": "DS lesson 2.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711539880.345273,
+        "modified": 1711539927.288846,
+        "id": "660406a831bbcf658f09aaf6",
+        "modifiedF": "2024-03-27 13:45:27",
+        "hasData": true
+      },
+      "66040672253e7d94e40d5b21": {
+        "title": "Exercise (DS1)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/DS lesson 1.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/DS lesson 1.pdf",
+          "pdf_name": "DS lesson 1.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1711539826.057098,
+        "modified": 1711539873.123589,
+        "id": "66040672253e7d94e40d5b21",
+        "modifiedF": "2024-03-27 13:44:33",
+        "hasData": true
+      },
+      "6592278b8077ce44c80bf66e": {
+        "title": "Problem Solving (DS20)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS20.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS20.pdf",
+          "pdf_name": "Problem Solving DS20.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077195.747874,
+        "modified": 1704077214.766257,
+        "id": "6592278b8077ce44c80bf66e",
+        "modifiedF": "2024-01-01 04:46:54",
+        "hasData": true
+      },
+      "6592277252f09abcfc0cb2c4": {
+        "title": "Problem Solving (DS19)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS19.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS19.pdf",
+          "pdf_name": "Problem Solving DS19.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077170.783076,
+        "modified": 1704077192.567933,
+        "id": "6592277252f09abcfc0cb2c4",
+        "modifiedF": "2024-01-01 04:46:32",
+        "hasData": true
+      },
+      "65922739e8d000f5bb021ff8": {
+        "title": "Problem Solving (DS17)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS17.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS17.pdf",
+          "pdf_name": "Problem Solving DS17.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077113.611808,
+        "modified": 1704077138.306819,
+        "id": "65922739e8d000f5bb021ff8",
+        "modifiedF": "2024-01-01 04:45:38",
+        "hasData": true
+      },
+      "659227209bc08b820d09e821": {
+        "title": "Problem Solving (DS16)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS16.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS16.pdf",
+          "pdf_name": "Problem Solving DS16.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077088.919932,
+        "modified": 1704077108.375824,
+        "id": "659227209bc08b820d09e821",
+        "modifiedF": "2024-01-01 04:45:08",
+        "hasData": true
+      },
+      "659226fd02e1d01bb70d7f69": {
+        "title": "Problem Solving (DS15)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS15.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS15.pdf",
+          "pdf_name": "Problem Solving DS15.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077053.454557,
+        "modified": 1704077079.292837,
+        "id": "659226fd02e1d01bb70d7f69",
+        "modifiedF": "2024-01-01 04:44:39",
+        "hasData": true
+      },
+      "659226e18ea5b7f7b30653d7": {
+        "title": "Problem Solving (DS14)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS14.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS14.pdf",
+          "pdf_name": "Problem Solving DS14.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704077025.279499,
+        "modified": 1704077046.820568,
+        "id": "659226e18ea5b7f7b30653d7",
+        "modifiedF": "2024-01-01 04:44:06",
+        "hasData": true
+      },
+      "659226b8e637a0757b018e23": {
+        "title": "Problem Solving (DS13)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS13.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS13.pdf",
+          "pdf_name": "Problem Solving DS13.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076984.990877,
+        "modified": 1704077011.637842,
+        "id": "659226b8e637a0757b018e23",
+        "modifiedF": "2024-01-01 04:43:31",
+        "hasData": true
+      },
+      "6592269d30c1fd295e01c6ba": {
+        "title": "Problem Solving (DS12)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS12.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS12.pdf",
+          "pdf_name": "Problem Solving DS12.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076957.331647,
+        "modified": 1704076980.648658,
+        "id": "6592269d30c1fd295e01c6ba",
+        "modifiedF": "2024-01-01 04:43:00",
+        "hasData": true
+      },
+      "6592267b108deac4e101bee4": {
+        "title": "Problem Solving (DS11)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS11.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS11.pdf",
+          "pdf_name": "Problem Solving DS11.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076923.1161,
+        "modified": 1704076945.448896,
+        "id": "6592267b108deac4e101bee4",
+        "modifiedF": "2024-01-01 04:42:25",
+        "hasData": true
+      },
+      "6592265e652034ae3f072728": {
+        "title": "Problem Solving (DS10)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS10.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS10.pdf",
+          "pdf_name": "Problem Solving DS10.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076894.760843,
+        "modified": 1704076917.8772,
+        "id": "6592265e652034ae3f072728",
+        "modifiedF": "2024-01-01 04:41:57",
+        "hasData": true
+      },
+      "6592264138c4f3f0f10b8c5d": {
+        "title": "Problem Solving (DS9)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS9.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS9.pdf",
+          "pdf_name": "Problem Solving DS9.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076865.34704,
+        "modified": 1704076883.273696,
+        "id": "6592264138c4f3f0f10b8c5d",
+        "modifiedF": "2024-01-01 04:41:23",
+        "hasData": true
+      },
+      "659226241aa7bb46ab09c913": {
+        "title": "Problem Solving (DS8)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS8.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS8.pdf",
+          "pdf_name": "Problem Solving DS8.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076836.956757,
+        "modified": 1704076852.930611,
+        "id": "659226241aa7bb46ab09c913",
+        "modifiedF": "2024-01-01 04:40:52",
+        "hasData": true
+      },
+      "659225a7bed0dc76ae01b8ba": {
+        "title": "Problem Solving (DS7)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS7.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS7.pdf",
+          "pdf_name": "Problem Solving DS7.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076711.295407,
+        "modified": 1704076818.52457,
+        "id": "659225a7bed0dc76ae01b8ba",
+        "modifiedF": "2024-01-01 04:40:18",
+        "hasData": true
+      },
+      "65922585f838b557680d045d": {
+        "title": "Problem Solving (DS6)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS6.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS6.pdf",
+          "pdf_name": "Problem Solving DS6.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076677.088052,
+        "modified": 1704076698.978497,
+        "id": "65922585f838b557680d045d",
+        "modifiedF": "2024-01-01 04:38:18",
+        "hasData": true
+      },
+      "65922568e009c1a9a601775c": {
+        "title": "Problem Solving (DS5)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS5.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS5.pdf",
+          "pdf_name": "Problem Solving DS5.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076648.531807,
+        "modified": 1704076668.287377,
+        "id": "65922568e009c1a9a601775c",
+        "modifiedF": "2024-01-01 04:37:48",
+        "hasData": true
+      },
+      "659225497650928ee602b5cd": {
+        "title": "Problem Solving (DS4)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS4.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS4.pdf",
+          "pdf_name": "Problem Solving DS4.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076617.85969,
+        "modified": 1704076637.340679,
+        "id": "659225497650928ee602b5cd",
+        "modifiedF": "2024-01-01 04:37:17",
+        "hasData": true
+      },
+      "6592253173ede7bd470ddf97": {
+        "title": "Problem Solving (DS3)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS3.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS3.pdf",
+          "pdf_name": "Problem Solving DS3.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076593.040371,
+        "modified": 1704076610.125086,
+        "id": "6592253173ede7bd470ddf97",
+        "modifiedF": "2024-01-01 04:36:50",
+        "hasData": true
+      },
+      "659225086831ddde65052c35": {
+        "title": "Problem Solving (DS2)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS2.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS2.pdf",
+          "pdf_name": "Problem Solving DS2.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076552.99811,
+        "modified": 1704076574.685193,
+        "id": "659225086831ddde65052c35",
+        "modifiedF": "2024-01-01 04:36:14",
+        "hasData": true
+      },
+      "6592248c3f422d23ed0a64d3": {
+        "title": "Problem Solving (DS1)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving DS1.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving DS1.pdf",
+          "pdf_name": "Problem Solving DS1.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704076428.846425,
+        "modified": 1704076544.226405,
+        "id": "6592248c3f422d23ed0a64d3",
+        "modifiedF": "2024-01-01 04:35:44",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e1074": {
+        "title": "Lesson (50) Hash Table 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ffe83f2d-9a24-47a2-a899-cad1b3deca3f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.741919,
+        "modified": 1698924916.810948,
+        "id": "65071939b9b1e30f980e1074",
+        "modifiedF": "2023-11-02 13:35:16",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e1075": {
+        "title": "Lesson (49) Hash Table 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a1e25a46-40ef-424a-a05a-c279ba1628b3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.774347,
+        "modified": 1698924909.026181,
+        "id": "65071939b9b1e30f980e1075",
+        "modifiedF": "2023-11-02 13:35:09",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e1076": {
+        "title": "Lesson (48) How Many Letters?",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3cb6af5c-2682-4326-8686-fc162bfe7a6a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.804019,
+        "modified": 1698924904.458482,
+        "id": "65071939b9b1e30f980e1076",
+        "modifiedF": "2023-11-02 13:35:04",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e1077": {
+        "title": "Lesson (47) Hash Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b4360e58-58da-4455-8cdd-d6d45b9b4d20?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.833285,
+        "modified": 1698924899.178443,
+        "id": "65071939b9b1e30f980e1077",
+        "modifiedF": "2023-11-02 13:34:59",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e1078": {
+        "title": "Lesson (46) Hash Function",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/69f15a2a-d66c-4db5-9eef-6db515aa4304?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.864679,
+        "modified": 1698924894.937592,
+        "id": "65071939b9b1e30f980e1078",
+        "modifiedF": "2023-11-02 13:34:54",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e1079": {
+        "title": "Lesson (45) Heap 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/21e765e3-b89b-43c7-8e00-7c25af7be6f4?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.89546,
+        "modified": 1698924888.729829,
+        "id": "65071939b9b1e30f980e1079",
+        "modifiedF": "2023-11-02 13:34:48",
+        "hasData": true
+      },
+      "65071939b9b1e30f980e107a": {
+        "title": "Lesson (44) Heap 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_heaps_and_hashing",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/12640e34-ab33-4fff-b19c-bfdf5d177171?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964025.925662,
+        "modified": 1698924879.962864,
+        "id": "65071939b9b1e30f980e107a",
+        "modifiedF": "2023-11-02 13:34:39",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b57": {
+        "title": "Lesson (43) BST Delete Node 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5eac804c-e5e7-4bf6-a36b-c1a380b2a22e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.284094,
+        "modified": 1698924870.851811,
+        "id": "6507192a30784f38d8030b57",
+        "modifiedF": "2023-11-02 13:34:30",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b58": {
+        "title": "Lesson (42) BST Delete Node 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6d4e66f4-8a8a-4c48-a4ae-4ac258a6bf5e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.311207,
+        "modified": 1698924866.658997,
+        "id": "6507192a30784f38d8030b58",
+        "modifiedF": "2023-11-02 13:34:26",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b59": {
+        "title": "Lesson (41) Binary Search Tree 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/903da655-1850-4e0f-977b-8704719e3a3e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.337206,
+        "modified": 1698924862.085271,
+        "id": "6507192a30784f38d8030b59",
+        "modifiedF": "2023-11-02 13:34:22",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b5a": {
+        "title": "Lesson (40) Binary Search Tree 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/be34ce0f-76ad-4e97-ba05-94587099ce06?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.368323,
+        "modified": 1698924849.076682,
+        "id": "6507192a30784f38d8030b5a",
+        "modifiedF": "2023-11-02 13:34:09",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b5b": {
+        "title": "Lesson (39) Binary Search Tree 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a50c68da-fd7a-4b8c-929e-d92d1fab95f1?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.399345,
+        "modified": 1698924843.632313,
+        "id": "6507192a30784f38d8030b5b",
+        "modifiedF": "2023-11-02 13:34:03",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b5c": {
+        "title": "Lesson (38) Trees 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2f6b2e5b-d69b-40e2-99f7-12c34773d838?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.433247,
+        "modified": 1698924837.645968,
+        "id": "6507192a30784f38d8030b5c",
+        "modifiedF": "2023-11-02 13:33:57",
+        "hasData": true
+      },
+      "6507192a30784f38d8030b5d": {
+        "title": "Lesson (37) Trees 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_trees",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4706ef75-8af6-48ef-8c2e-06251e39f29a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964010.465478,
+        "modified": 1698924831.89401,
+        "id": "6507192a30784f38d8030b5d",
+        "modifiedF": "2023-11-02 13:33:51",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb70": {
+        "title": "Lesson (36) List",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/67c63a0c-fb87-439c-b7d9-b32e3c64ad9d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.431455,
+        "modified": 1698924823.48075,
+        "id": "65071919425acbb34b02fb70",
+        "modifiedF": "2023-11-02 13:33:43",
+        "hasData": true
+      },
+      "650720aa2861ed0a8f094d24": {
+        "title": "Lesson (35) Deque 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/32775e0b-bf69-4946-aa9c-5c9efe744eaf?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694965930.693114,
+        "modified": 1698924816.914518,
+        "id": "650720aa2861ed0a8f094d24",
+        "modifiedF": "2023-11-02 13:33:36",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb71": {
+        "title": "Lesson (34) Deque 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c25688e0-cf9e-421c-8f54-25b35eba6226?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.462609,
+        "modified": 1698924810.96551,
+        "id": "65071919425acbb34b02fb71",
+        "modifiedF": "2023-11-02 13:33:30",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb72": {
+        "title": "Lesson (33) Queue 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d4accceb-4535-4b5f-9960-34075d9ec036?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.493131,
+        "modified": 1698924800.319416,
+        "id": "65071919425acbb34b02fb72",
+        "modifiedF": "2023-11-02 13:33:20",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb73": {
+        "title": "Lesson (32) Queue 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/96f22514-6a31-4b74-b37b-99b61922ed2b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.523576,
+        "modified": 1698924792.10665,
+        "id": "65071919425acbb34b02fb73",
+        "modifiedF": "2023-11-02 13:33:12",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb74": {
+        "title": "Lesson (31) Queue 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7620c08d-5ed6-4130-9c6f-6827e5fbb9e3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.551044,
+        "modified": 1698924785.94878,
+        "id": "65071919425acbb34b02fb74",
+        "modifiedF": "2023-11-02 13:33:05",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb75": {
+        "title": "Lesson (30) Stack 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/dea36e32-117f-4b9d-8a14-1bd6c975aec2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.58276,
+        "modified": 1698924781.525221,
+        "id": "65071919425acbb34b02fb75",
+        "modifiedF": "2023-11-02 13:33:01",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb76": {
+        "title": "Lesson (29) Stack 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a171f89f-b380-40d4-b9c2-778c6f2c0f9f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.620538,
+        "modified": 1698924777.41121,
+        "id": "65071919425acbb34b02fb76",
+        "modifiedF": "2023-11-02 13:32:57",
+        "hasData": true
+      },
+      "65071919425acbb34b02fb77": {
+        "title": "Lesson (28) Stack 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-__stacks_and_queues",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/cd778b70-fc65-4aee-acac-8ad22d3e3094?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963993.653038,
+        "modified": 1698924771.843976,
+        "id": "65071919425acbb34b02fb77",
+        "modifiedF": "2023-11-02 13:32:51",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca1": {
+        "title": "Lesson (27) Memory Leak 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2098998a-d895-44ff-8085-99ec6c28ee16?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.016405,
+        "modified": 1698924758.910084,
+        "id": "6507190a6a25a381750e1ca1",
+        "modifiedF": "2023-11-02 13:32:38",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca2": {
+        "title": "Lesson (26) Delete Node",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/77a7f06a-aabb-4192-8cd2-aa3de6ec90b1?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.045031,
+        "modified": 1698924754.400708,
+        "id": "6507190a6a25a381750e1ca2",
+        "modifiedF": "2023-11-02 13:32:34",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca3": {
+        "title": "Lesson (25) Linked List (C++)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/250374db-9017-49de-95eb-372276e86b2f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.069781,
+        "modified": 1698924750.171371,
+        "id": "6507190a6a25a381750e1ca3",
+        "modifiedF": "2023-11-02 13:32:30",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca4": {
+        "title": "Lesson (24) Destructor",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/eb37c284-e30c-418c-8b60-1b4111d3ed6b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.098979,
+        "modified": 1698924696.662723,
+        "id": "6507190a6a25a381750e1ca4",
+        "modifiedF": "2023-11-02 13:31:36",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca5": {
+        "title": "Lesson (23) Exception",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/eb772ac0-b104-4df7-a863-0ec6fceb69a0?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.126128,
+        "modified": 1698924691.501151,
+        "id": "6507190a6a25a381750e1ca5",
+        "modifiedF": "2023-11-02 13:31:31",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca6": {
+        "title": "Lesson (22) new & delete",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/55534240-32f4-4a07-8581-38ce4c5b40d8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.155528,
+        "modified": 1698924612.571302,
+        "id": "6507190a6a25a381750e1ca6",
+        "modifiedF": "2023-11-02 13:30:12",
+        "hasData": true
+      },
+      "6507190a6a25a381750e1ca7": {
+        "title": "Lesson (21) Memory Leak",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_memory_management_and_error_handling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a42a05a6-13ee-4fd8-b8c5-1970ab95b433?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963978.182773,
+        "modified": 1698924607.769855,
+        "id": "6507190a6a25a381750e1ca7",
+        "modifiedF": "2023-11-02 13:30:07",
+        "hasData": true
+      },
+      "650718eb36fb33a6d50f3562": {
+        "title": "Lesson (20) Recursion 2 (Explanation)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/304452cf-a750-4ec2-8daa-4f5dd8102751?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963947.679322,
+        "modified": 1698924592.125251,
+        "id": "650718eb36fb33a6d50f3562",
+        "modifiedF": "2023-11-02 13:29:52",
+        "hasData": true
+      },
+      "650718eda2dba6d4a10aa739": {
+        "title": "Lesson (19) Double Circular Linked List",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5f375435-d6ed-48f8-87f8-980d6f405e51?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963949.920676,
+        "modified": 1698924587.081786,
+        "id": "650718eda2dba6d4a10aa739",
+        "modifiedF": "2023-11-02 13:29:47",
+        "hasData": true
+      },
+      "650718ef0033ebd09409530c": {
+        "title": "Lesson (18) Circular Linked List",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6af3f52f-19a7-4fbc-86e2-a4bc6cd80105?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963951.650558,
+        "modified": 1698924582.282535,
+        "id": "650718ef0033ebd09409530c",
+        "modifiedF": "2023-11-02 13:29:42",
+        "hasData": true
+      },
+      "650718f1c120e5a5ed0fee96": {
+        "title": "Lesson (17) Double Linked List",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/aecd7345-2bd8-4cc7-8cd2-0ce0ada48b92?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963953.38834,
+        "modified": 1698924502.086218,
+        "id": "650718f1c120e5a5ed0fee96",
+        "modifiedF": "2023-11-02 13:28:22",
+        "hasData": true
+      },
+      "65071e607fbca9c45e05355e": {
+        "title": "Lesson (16) Recursion Explanation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6cc4119e-d834-47e0-b1f6-4b2882470404?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694965344.170182,
+        "modified": 1698924493.862093,
+        "id": "65071e607fbca9c45e05355e",
+        "modifiedF": "2023-11-02 13:28:13",
+        "hasData": true
+      },
+      "650718f4fc5c0993e50acb71": {
+        "title": "Lesson (15) Linked List (Recursion)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a4dfefc0-ff0c-4d7d-84ee-1ae466b8aea2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963956.195721,
+        "modified": 1698924487.644322,
+        "id": "650718f4fc5c0993e50acb71",
+        "modifiedF": "2023-11-02 13:28:07",
+        "hasData": true
+      },
+      "650718f6d2aeb32bad0dcbd0": {
+        "title": "Lesson (14) Linked List Types",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/10cade53-059d-46d0-8bad-b51eb865e742?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963958.060966,
+        "modified": 1698924481.964526,
+        "id": "650718f6d2aeb32bad0dcbd0",
+        "modifiedF": "2023-11-02 13:28:01",
+        "hasData": true
+      },
+      "650718fa9378aad38a08e24c": {
+        "title": "Lesson (13) Linked List 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3fc41980-fc04-4b09-b99e-2eeb69c39403?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963962.113068,
+        "modified": 1698924473.93822,
+        "id": "650718fa9378aad38a08e24c",
+        "modifiedF": "2023-11-02 13:27:53",
+        "hasData": true
+      },
+      "650718d88eeb5647160aa9ef": {
+        "title": "Lesson (12) Linked List 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_linked_lists",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/04752d1c-76bb-4422-941f-302c3ceeb414?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963928.190763,
+        "modified": 1698924468.803304,
+        "id": "650718d88eeb5647160aa9ef",
+        "modifiedF": "2023-11-02 13:27:48",
+        "hasData": true
+      },
+      "650718cee793ac49e405b9a1": {
+        "title": "Lesson (11) Dynamic Memory Allocation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a2eff923-dc8b-4a83-8d76-685c9a281855?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963918.958982,
+        "modified": 1698924454.938,
+        "id": "650718cee793ac49e405b9a1",
+        "modifiedF": "2023-11-02 13:27:34",
+        "hasData": true
+      },
+      "650718c52325d63009042e02": {
+        "title": "Lesson (10) Implementing Vector",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ccbb50db-13af-47d6-b2c8-b42f39fcea75?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963909.595449,
+        "modified": 1698924448.745089,
+        "id": "650718c52325d63009042e02",
+        "modifiedF": "2023-11-02 13:27:28",
+        "hasData": true
+      },
+      "6507156bbcb6c916a6002470": {
+        "title": "Lesson (9) realloc()",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/dcfe9b57-4732-48e4-b6ab-44e24394388d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963051.938675,
+        "modified": 1698924442.353805,
+        "id": "6507156bbcb6c916a6002470",
+        "modifiedF": "2023-11-02 13:27:22",
+        "hasData": true
+      },
+      "6507156bbcb6c916a6002471": {
+        "title": "Lesson (8) free()",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/504b5233-0e5a-4db1-90a7-51c21e4dbe63?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963051.966474,
+        "modified": 1698924437.638481,
+        "id": "6507156bbcb6c916a6002471",
+        "modifiedF": "2023-11-02 13:27:17",
+        "hasData": true
+      },
+      "6507156bbcb6c916a6002472": {
+        "title": "Lesson (7) calloc()",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6823bffd-36d4-422d-82e6-c4303fd557dc?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963051.995614,
+        "modified": 1698924432.936435,
+        "id": "6507156bbcb6c916a6002472",
+        "modifiedF": "2023-11-02 13:27:12",
+        "hasData": true
+      },
+      "6507156cbcb6c916a6002473": {
+        "title": "Lesson (6) malloc() Part 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/76454d78-d432-461d-9ae3-28a886e1bcc3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963052.022486,
+        "modified": 1698924425.583469,
+        "id": "6507156cbcb6c916a6002473",
+        "modifiedF": "2023-11-02 13:27:05",
+        "hasData": true
+      },
+      "6507156cbcb6c916a6002474": {
+        "title": "Lesson (5) malloc() Part 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_dynamic_memory_allocation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a2bf3f59-e9c3-48ae-b6a3-d2640c19884a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963052.051763,
+        "modified": 1698924419.910209,
+        "id": "6507156cbcb6c916a6002474",
+        "modifiedF": "2023-11-02 13:26:59",
+        "hasData": true
+      },
+      "6507155cbf1243241e045d1b": {
+        "title": "Lesson (4) Recursion Part 4",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/63583b74-9bff-4073-89f6-726de4815a19?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963036.126751,
+        "modified": 1698924388.730747,
+        "id": "6507155cbf1243241e045d1b",
+        "modifiedF": "2023-11-02 13:26:28",
+        "hasData": true
+      },
+      "6507155cbf1243241e045d1c": {
+        "title": "Lesson (3) Recursion Part 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a472100f-3aba-42b3-a756-f70e674202f5?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963036.153833,
+        "modified": 1698924371.507154,
+        "id": "6507155cbf1243241e045d1c",
+        "modifiedF": "2023-11-02 13:26:11",
+        "hasData": true
+      },
+      "6507155cbf1243241e045d1d": {
+        "title": "Lesson (2) Recursion Part 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5dadb09d-ea3d-4991-97f7-89afef8e8c91?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963036.176443,
+        "modified": 1698924364.594081,
+        "id": "6507155cbf1243241e045d1d",
+        "modifiedF": "2023-11-02 13:26:04",
+        "hasData": true
+      },
+      "6507155cbf1243241e045d1e": {
+        "title": "Lesson (1) Recursion Part 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_recursion",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ef881b8a-e753-42f6-a6b1-3fda51109405?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963036.201514,
+        "modified": 1698924357.420568,
+        "id": "6507155cbf1243241e045d1e",
+        "modifiedF": "2023-11-02 13:25:57",
+        "hasData": true
+      },
+      "6507154b320c235b8e0a1898": {
+        "title": "Introduction  to Data Structure",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_course_introduction",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d0ebaa96-9205-4f72-9ee0-cc1d4fea1bed?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694963019.842283,
+        "modified": 1695027409.029477,
+        "id": "6507154b320c235b8e0a1898",
+        "modifiedF": "2023-09-18 11:56:49",
+        "hasData": true
+      },
+      "6507194a94cef088160519dd": {
+        "title": "Summary",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "data-structures",
+        "courseSection": "data-_course_summary",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/111e4bb2-161b-44fb-9214-5218f0243ae6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694964042.416559,
+        "modified": 1694966383.220225,
+        "id": "6507194a94cef088160519dd",
+        "modifiedF": "2023-09-17 18:59:43",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

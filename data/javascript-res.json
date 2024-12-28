@@ -1,0 +1,1441 @@
+{
+  "course": {
+    "title": "JavaScript",
+    "titleId": "javascript",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal web programmer with our comprehensive JavaScript course on Gammal Tech. Prerequisite: Completion of the CSS course. Learn how to make your web pages interactive and dynamic with JavaScript, mastering the essential skills for front-end development. This course is designed to equip you with the knowledge and confidence to enhance your web development skills and create professional, interactive websites. Don\u2019t miss the opportunity to elevate your career and turn your web programming aspirations into reality. Enroll now and start your journey to becoming a skilled web developer!",
+    "goals": null,
+    "points": null,
+    "authors": [],
+    "quotes": null,
+    "order": null,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/ed5e8ddd055ebde90893f144e4766e6a.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/ed5e8ddd055ebde90893f144e4766e6a.jpeg",
+      "name": "\/ed5e8ddd055ebde90893f144e4766e6a.jpeg"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 633,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription-v2",
+        "yearly-subscription",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/9ASTBukyt59cGjcs8",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "javascript",
+      "apple_store_id": "javascript",
+      "slug": "javascript"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1698148324.864096,
+    "modified": 1730737362.546533,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "fe76026bd004a41cb2360ed46146794e9ecfb7c985a19a486b1d5d4666fd1c4f",
+    "id": "6537afe4222fa829a406ca8b",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "cpp_javascript_introduction_and_basics__6537b019952cf": {
+        "title": "JavaScript Introduction and Basics",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d53",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Tracing 2",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d52",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Tracing 1",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d51",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Page Design",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d50",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Page Design",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d4f",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Tracing 3",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d4e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Tracing 4",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d4d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Tracing 5",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d4c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d4b",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d4a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d49",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d48",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Page Design",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d47",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d46",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d45",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "cpp_cv_project__6537b01aa3bd2": {
+        "title": "CV Project",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6537b01b4bb4ecd3df056d62",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01b4bb4ecd3df056d61",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d60",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d5f",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d5e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d5d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d5c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d5b",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d5a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d59",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d58",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "attachments": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d57",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d56",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d55",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6537b01a4bb4ecd3df056d54",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c6db2be68e8c8d00c4728",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "cpp_cv_project__6537b01aa3bd2",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 31,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c6db1be68e8c8d00c4727": {
+        "title": "JavaScript",
+        "type": "usage_course",
+        "unitId": "661c6db2be68e8c8d00c4728",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "javascript",
+        "courseImage": "\/ed5e8ddd055ebde90893f144e4766e6a.jpeg",
+        "id": "javascript"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "661c6db2be68e8c8d00c4728": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c6db1be68e8c8d00c4727",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139122.038057,
+        "modified": 1713139122.038057,
+        "id": "661c6db2be68e8c8d00c4728",
+        "modifiedF": "2024-04-15 01:58:42",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "6537b01a4bb4ecd3df056d54": {
+        "title": "Lesson (30) CV Project Part 15",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9089577e-9e08-4657-a402-ca9082d9a299?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.682739,
+        "modified": 1698923513.941021,
+        "id": "6537b01a4bb4ecd3df056d54",
+        "modifiedF": "2023-11-02 13:11:53",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d55": {
+        "title": "Lesson (29) CV Project Part 14",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2b38719a-858f-4de9-b202-f2a4717db215?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.703859,
+        "modified": 1698923508.677845,
+        "id": "6537b01a4bb4ecd3df056d55",
+        "modifiedF": "2023-11-02 13:11:48",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d56": {
+        "title": "Lesson (28) CV Project Part 13",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ace3e773-da0e-4c48-a882-5b315009b0e9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.734485,
+        "modified": 1698923502.73498,
+        "id": "6537b01a4bb4ecd3df056d56",
+        "modifiedF": "2023-11-02 13:11:42",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d57": {
+        "title": "Lesson (27) CV Project Part 12",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/177bcc72-1d63-4e03-9356-73dcbd4e2271?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.762586,
+        "modified": 1698923496.486419,
+        "id": "6537b01a4bb4ecd3df056d57",
+        "modifiedF": "2023-11-02 13:11:36",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d58": {
+        "title": "Lesson (26) CV Project Part 11",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4bb4f0e2-cbd9-4bf0-b097-5559603ac3cd?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.788878,
+        "modified": 1698923496.448933,
+        "id": "6537b01a4bb4ecd3df056d58",
+        "modifiedF": "2023-11-02 13:11:36",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d59": {
+        "title": "Lesson (25) CV Project Part 10",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f6572676-667d-4f9b-aa99-1476ecd37774?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.821676,
+        "modified": 1698923472.024274,
+        "id": "6537b01a4bb4ecd3df056d59",
+        "modifiedF": "2023-11-02 13:11:12",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d5a": {
+        "title": "Lesson (24) CV Project Part 9",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/098e93ee-a570-4e52-be60-7ae0f2188f30?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.844265,
+        "modified": 1698923466.805315,
+        "id": "6537b01a4bb4ecd3df056d5a",
+        "modifiedF": "2023-11-02 13:11:06",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d5b": {
+        "title": "Lesson (23) CV Project Part 8",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e4db2996-9020-4af1-8828-6ae62e0ec52c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.864906,
+        "modified": 1698923461.46924,
+        "id": "6537b01a4bb4ecd3df056d5b",
+        "modifiedF": "2023-11-02 13:11:01",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d5c": {
+        "title": "Lesson (22) CV Project Part 7",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f2559891-c1b3-4264-a19c-07a0ea817724?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.885689,
+        "modified": 1698923455.91162,
+        "id": "6537b01a4bb4ecd3df056d5c",
+        "modifiedF": "2023-11-02 13:10:55",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d5d": {
+        "title": "Lesson (21) CV Project Part 6",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ee14c888-6663-4ec7-8d56-e2e80a0ffc7f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.910918,
+        "modified": 1698923450.942909,
+        "id": "6537b01a4bb4ecd3df056d5d",
+        "modifiedF": "2023-11-02 13:10:50",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d5e": {
+        "title": "Lesson (20) CV Project Part 5",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/dbc81992-bb27-400c-946f-04fa8ddff794?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.939248,
+        "modified": 1698923446.048899,
+        "id": "6537b01a4bb4ecd3df056d5e",
+        "modifiedF": "2023-11-02 13:10:46",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d5f": {
+        "title": "Lesson (19) CV Project Part 4",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e1348381-f301-4c6c-a7de-77cc2ca34607?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.964895,
+        "modified": 1698923440.113654,
+        "id": "6537b01a4bb4ecd3df056d5f",
+        "modifiedF": "2023-11-02 13:10:40",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d60": {
+        "title": "Lesson (18) CV Project Part 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a3bd6267-060c-4492-9d22-c744a8f34478?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.990117,
+        "modified": 1698923431.322133,
+        "id": "6537b01a4bb4ecd3df056d60",
+        "modifiedF": "2023-11-02 13:10:31",
+        "hasData": true
+      },
+      "6537b01b4bb4ecd3df056d61": {
+        "title": "Lesson (17) CV Project Part 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/20d12a1b-8788-4ebc-b41b-6a57990a5ea3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148379.012058,
+        "modified": 1698923417.020567,
+        "id": "6537b01b4bb4ecd3df056d61",
+        "modifiedF": "2023-11-02 13:10:17",
+        "hasData": true
+      },
+      "6537b01b4bb4ecd3df056d62": {
+        "title": "Lesson (16) CV Project Part 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_cv_project__6537b01aa3bd2",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/04f33ff8-d094-4ea4-bc20-2a94666c1d01?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148379.040825,
+        "modified": 1698923411.902532,
+        "id": "6537b01b4bb4ecd3df056d62",
+        "modifiedF": "2023-11-02 13:10:11",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d45": {
+        "title": "Lesson (15) JavaScript Model",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/26d2a106-1af5-4a7d-9e39-15f61456a2e6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.254076,
+        "modified": 1698923395.234521,
+        "id": "6537b01a4bb4ecd3df056d45",
+        "modifiedF": "2023-11-02 13:09:55",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d46": {
+        "title": "Lesson (14) JavaScript HTML DOM",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/50a7dedd-3581-43c2-a055-ab0bc22ce05c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.272927,
+        "modified": 1698923387.776256,
+        "id": "6537b01a4bb4ecd3df056d46",
+        "modifiedF": "2023-11-02 13:09:47",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d47": {
+        "title": "Lesson (13) JavaScript for Loop",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c50753ec-904a-4165-9602-61ec13809143?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.291213,
+        "modified": 1698923382.886894,
+        "id": "6537b01a4bb4ecd3df056d47",
+        "modifiedF": "2023-11-02 13:09:42",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d48": {
+        "title": "Lesson (12) JavaScript Objects",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a3b5c7c8-4867-448a-a227-41a0b09a01a2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.309772,
+        "modified": 1698923376.222804,
+        "id": "6537b01a4bb4ecd3df056d48",
+        "modifiedF": "2023-11-02 13:09:36",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d49": {
+        "title": "Lesson (11) JavaScript Arrays",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/76ad9593-a30f-470e-9447-80cacebc4673?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.332035,
+        "modified": 1698923369.765062,
+        "id": "6537b01a4bb4ecd3df056d49",
+        "modifiedF": "2023-11-02 13:09:29",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d4a": {
+        "title": "Lesson (10) JavaScript Function",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d2a7f3e5-74ba-40cf-b6b3-68fd9d8d2590?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.357605,
+        "modified": 1698923364.588566,
+        "id": "6537b01a4bb4ecd3df056d4a",
+        "modifiedF": "2023-11-02 13:09:24",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d4b": {
+        "title": "Lesson (9) JavaScript Strict Mode",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ba4fb3ed-e34c-470d-8007-ba84675fcb83?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.389237,
+        "modified": 1698923359.719863,
+        "id": "6537b01a4bb4ecd3df056d4b",
+        "modifiedF": "2023-11-02 13:09:19",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d4c": {
+        "title": "Lesson (8) JavaScript True or False",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/369717ab-526a-4026-9d17-8aadfed1a64d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.438037,
+        "modified": 1698923354.588865,
+        "id": "6537b01a4bb4ecd3df056d4c",
+        "modifiedF": "2023-11-02 13:09:14",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d4d": {
+        "title": "Lesson (7) JavaScript Switch",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d5f51240-1c7c-47c1-ae39-9e7919556a70?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.476051,
+        "modified": 1698923349.490221,
+        "id": "6537b01a4bb4ecd3df056d4d",
+        "modifiedF": "2023-11-02 13:09:09",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d4e": {
+        "title": "Lesson (6) JavaScript Decision Making",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/29e12626-7b96-4155-ba3c-387230fc006b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.501162,
+        "modified": 1698923341.351088,
+        "id": "6537b01a4bb4ecd3df056d4e",
+        "modifiedF": "2023-11-02 13:09:01",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d4f": {
+        "title": "Lesson (5) JavaScript Strings",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/99232675-b610-4180-b949-edaabf9eac41?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.525644,
+        "modified": 1698923333.712144,
+        "id": "6537b01a4bb4ecd3df056d4f",
+        "modifiedF": "2023-11-02 13:08:53",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d50": {
+        "title": "Lesson (4) Flexbox Layout 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/980e4374-8cf5-4305-86fa-b07ff164dbee?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.551646,
+        "modified": 1698923328.73767,
+        "id": "6537b01a4bb4ecd3df056d50",
+        "modifiedF": "2023-11-02 13:08:48",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d51": {
+        "title": "Lesson (3) Flexbox Layout",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/52cab94a-a567-46a5-9c7c-df2ec3a62dd7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.58436,
+        "modified": 1698923323.575834,
+        "id": "6537b01a4bb4ecd3df056d51",
+        "modifiedF": "2023-11-02 13:08:43",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d52": {
+        "title": "Lesson (2) JavaScript Organizing Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/41ceda02-91fb-44ce-8472-98391a487f36?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.622695,
+        "modified": 1698923318.624476,
+        "id": "6537b01a4bb4ecd3df056d52",
+        "modifiedF": "2023-11-02 13:08:38",
+        "hasData": true
+      },
+      "6537b01a4bb4ecd3df056d53": {
+        "title": "Lesson (1) JavaScript Intro",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "javascript",
+        "courseSection": "cpp_javascript_introduction_and_basics__6537b019952cf",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/69aa45f4-a285-4f6b-b70a-dddafb1a171e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1698148378.644058,
+        "modified": 1698923311.056515,
+        "id": "6537b01a4bb4ecd3df056d53",
+        "modifiedF": "2023-11-02 13:08:31",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

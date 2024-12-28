@@ -1,0 +1,1960 @@
+{
+  "course": {
+    "title": "CSS",
+    "titleId": "css",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal web designer with our comprehensive CSS course on Gammal Tech. Prerequisite: Completion of the HTML course. Learn how to style and layout web pages, creating visually stunning and responsive designs with CSS. This course is designed to equip you with the knowledge and confidence to enhance your web development skills and build professional websites. Don\u2019t miss the opportunity to elevate your career and turn your web design aspirations into reality. Enroll now and start your journey to becoming a skilled web designer!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 1,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/d25156e6865d746e4cdb91dc7dbc3070.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/d25156e6865d746e4cdb91dc7dbc3070.jpeg",
+      "name": "\/d25156e6865d746e4cdb91dc7dbc3070.jpeg"
+    },
+    "bgcolor": null,
+    "price": 77,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 631,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/myArrXcvrSbcd8CN9",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "css",
+      "apple_store_id": "css",
+      "slug": "css"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505945.543201,
+    "modified": 1730737362.176433,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "8e7fedcc1447c78b154808764cf8d339fb9f4eba9ba1f13e6061251befc44032",
+    "id": "65001bd91482ddf23a055906",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=css&unit=6506bea3b816c025c506797cUnit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "css_introduction_to_css": {
+        "title": "Introduction to CSS",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506bea3b816c025c506797c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_introduction_to_css",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_css_basics": {
+        "title": "CSS Basics",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506bf3dc996d3a2410ce910",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Css",
+            "courseTitle": "CSS",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506bf601827396a9c0394e5",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506bf5e147dc2b4b30002b4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_css_basics",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_css_transformation_and_styling": {
+        "title": "CSS Transformation and Styling",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506bf6fef4504fcfb065625",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506bf6e23e6c2a086071729",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506bf800d1d0c358d0690d2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0085ac382668c0e44da",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506bff9faafe6368804a025",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c005600a162e30043730",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0035e8b2b808705b51c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c03e6e465de7610af982",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c00c9e3d454e8d0d6d48",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0692e736cbeb805e964",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_css_transformation_and_styling",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_advanced_css_techniques": {
+        "title": "Advanced CSS Techniques",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506c073aef813121f07612e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c098e12715af0c00412e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0968cb6974d89015330",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0949522b8959e0bc4b2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c092605c83068b0718bc",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0bf30d05aa6e40be2ba",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_advanced_css_techniques",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_interactive_css": {
+        "title": "Interactive CSS",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506c0cd415b95c04f088da5",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0dde41de3e9fd064943",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0db8af4b0270b0407b4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0d9e212e270150ce343",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c0d6210de4886c082c0e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_interactive_css",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_navigation_and_interactivity": {
+        "title": "Navigation and Interactivity",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506c168e064792ba60056e0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c171a1e245e71a0f6390",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c17aa82e8ec9820b4c0e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c17e54172443580f2548",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c178c93e58da740c1914",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c17489bb8db3860f9d7a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1a2d67c3a62080cd428",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_navigation_and_interactivity",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_css_animations_and_transitions": {
+        "title": "CSS Animations and Transitions",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506c1b55fe9abd86003c774",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1afb6097ea9150ea95c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1c2fd2e9d3dac020e88",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1c0e491605754083f19",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1bda3500ed0b902d5f6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1b90483ea9b50029c63",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_css_animations_and_transitions",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_advanced_css_selectors": {
+        "title": "Advanced CSS Selectors",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506c1f10c590a616c0fd48c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c200d828acf37d0abe68",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_advanced_css_selectors",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "css_css_project_": {
+        "title": "CSS project ",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506c1fd4cb2b3cc310d1a54",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506c1fb54476a68520ed63a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c6ded36641cb752052616",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "css_css_project_",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 43,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c6dec36641cb752052615": {
+        "title": "CSS",
+        "type": "usage_course",
+        "unitId": "661c6ded36641cb752052616",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "css",
+        "courseImage": "\/d25156e6865d746e4cdb91dc7dbc3070.jpeg",
+        "id": "css"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "661c6ded36641cb752052616": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "css",
+        "courseSection": "css_css_project_",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c6dec36641cb752052615",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139181.176043,
+        "modified": 1713139181.176043,
+        "id": "661c6ded36641cb752052616",
+        "modifiedF": "2024-04-15 01:59:41",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "6506c1fb54476a68520ed63a": {
+        "title": "Lesson (41) Project Part 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_project_",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bbc71447-4282-403c-80cf-dc465abdb7c9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941691.404946,
+        "modified": 1699185910.654473,
+        "id": "6506c1fb54476a68520ed63a",
+        "modifiedF": "2023-11-05 14:05:10",
+        "hasData": true
+      },
+      "6506c1fd4cb2b3cc310d1a54": {
+        "title": "Lesson (40) Project Part 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_project_",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7a5a5d92-f42d-44a2-bbdd-7433433ab191?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941693.725914,
+        "modified": 1699185906.833964,
+        "id": "6506c1fd4cb2b3cc310d1a54",
+        "modifiedF": "2023-11-05 14:05:06",
+        "hasData": true
+      },
+      "6506c200d828acf37d0abe68": {
+        "title": "Lesson (39) Responsive Design",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_selectors",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bab55fc0-30ea-42cd-8cb0-e57d392ab6df?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941696.084941,
+        "modified": 1699185893.584215,
+        "id": "6506c200d828acf37d0abe68",
+        "modifiedF": "2023-11-05 14:04:53",
+        "hasData": true
+      },
+      "6506c1f10c590a616c0fd48c": {
+        "title": "Lesson (38) Combinator Selectors",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_selectors",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ba54ce14-b67e-454c-92eb-2dab717b3f13?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941681.436044,
+        "modified": 1699185888.951337,
+        "id": "6506c1f10c590a616c0fd48c",
+        "modifiedF": "2023-11-05 14:04:48",
+        "hasData": true
+      },
+      "6506c1b90483ea9b50029c63": {
+        "title": "Lesson (37) Animation Basics",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_animations_and_transitions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/65a6915f-1aa1-4489-83a7-c6cb83bd50c8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941625.980879,
+        "modified": 1699185882.680959,
+        "id": "6506c1b90483ea9b50029c63",
+        "modifiedF": "2023-11-05 14:04:42",
+        "hasData": true
+      },
+      "6506c1bda3500ed0b902d5f6": {
+        "title": "Lesson (36) ScaleX",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_animations_and_transitions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/38eafe3d-3bf0-49cc-a85e-ec17e20f6136?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941629.87329,
+        "modified": 1699185877.461897,
+        "id": "6506c1bda3500ed0b902d5f6",
+        "modifiedF": "2023-11-05 14:04:37",
+        "hasData": true
+      },
+      "6506c1c0e491605754083f19": {
+        "title": "Lesson (35) Multi-Transform",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_animations_and_transitions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c2915823-87a3-4e6a-8344-1521a8d2841b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941632.234338,
+        "modified": 1699185872.973153,
+        "id": "6506c1c0e491605754083f19",
+        "modifiedF": "2023-11-05 14:04:32",
+        "hasData": true
+      },
+      "6506c1c2fd2e9d3dac020e88": {
+        "title": "Lesson (34) Matrix",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_animations_and_transitions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2e166004-c078-462e-b917-504944cd7af6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941634.878759,
+        "modified": 1699185869.18258,
+        "id": "6506c1c2fd2e9d3dac020e88",
+        "modifiedF": "2023-11-05 14:04:29",
+        "hasData": true
+      },
+      "6506c1afb6097ea9150ea95c": {
+        "title": "Lesson (33) Transformation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_animations_and_transitions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d835db6b-b297-47d3-97e9-11667036ae65?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941615.048558,
+        "modified": 1699185865.100833,
+        "id": "6506c1afb6097ea9150ea95c",
+        "modifiedF": "2023-11-05 14:04:25",
+        "hasData": true
+      },
+      "6506c1b55fe9abd86003c774": {
+        "title": "Lesson (32) Delay",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_animations_and_transitions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/416efb29-e062-41df-864b-0bc5e533d775?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941621.623067,
+        "modified": 1699185860.243574,
+        "id": "6506c1b55fe9abd86003c774",
+        "modifiedF": "2023-11-05 14:04:20",
+        "hasData": true
+      },
+      "6506c1a2d67c3a62080cd428": {
+        "title": "Lesson (31) Transition Basics",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b27b9401-ac09-4145-a8de-c7b1b61c7c36?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941602.997767,
+        "modified": 1699185852.952942,
+        "id": "6506c1a2d67c3a62080cd428",
+        "modifiedF": "2023-11-05 14:04:12",
+        "hasData": true
+      },
+      "6506c17489bb8db3860f9d7a": {
+        "title": "Lesson (30) Before and After",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/02c76f2d-27ac-4315-aab6-46df335923f5?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941556.554079,
+        "modified": 1699185839.713519,
+        "id": "6506c17489bb8db3860f9d7a",
+        "modifiedF": "2023-11-05 14:03:59",
+        "hasData": true
+      },
+      "6506c178c93e58da740c1914": {
+        "title": "Lesson (29) Pseudo-elements",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7d391a69-bbf7-484f-a986-261354ec5b56?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941560.259285,
+        "modified": 1699185834.806875,
+        "id": "6506c178c93e58da740c1914",
+        "modifiedF": "2023-11-05 14:03:54",
+        "hasData": true
+      },
+      "6506c17e54172443580f2548": {
+        "title": "Lesson (28) nth-child Selector",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/003f5a3c-070d-4dbd-bbe1-6a2be01b6b49?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941566.265723,
+        "modified": 1699185828.325387,
+        "id": "6506c17e54172443580f2548",
+        "modifiedF": "2023-11-05 14:03:48",
+        "hasData": true
+      },
+      "6506c17aa82e8ec9820b4c0e": {
+        "title": "Lesson (27) Collapse",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/44fea540-a5a9-48d4-a401-8fa1bbdf1e1c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941562.524271,
+        "modified": 1699185822.346346,
+        "id": "6506c17aa82e8ec9820b4c0e",
+        "modifiedF": "2023-11-05 14:03:42",
+        "hasData": true
+      },
+      "6506c171a1e245e71a0f6390": {
+        "title": "Lesson (26) Focus",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0711962b-7671-4a5c-acdd-b227cad894f8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941553.436276,
+        "modified": 1699185818.458007,
+        "id": "6506c171a1e245e71a0f6390",
+        "modifiedF": "2023-11-05 14:03:38",
+        "hasData": true
+      },
+      "6506c168e064792ba60056e0": {
+        "title": "Lesson (25) Fixing Navigation Bars",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_navigation_and_interactivity",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ea4bd417-3821-4011-88d0-c41fb76da12e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941544.038762,
+        "modified": 1699185813.612539,
+        "id": "6506c168e064792ba60056e0",
+        "modifiedF": "2023-11-05 14:03:33",
+        "hasData": true
+      },
+      "6506c0d6210de4886c082c0e": {
+        "title": "Lesson (24) Align-self",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_interactive_css",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/685f24e8-1336-41d4-9524-416a1f585e2b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941398.169359,
+        "modified": 1699185806.633225,
+        "id": "6506c0d6210de4886c082c0e",
+        "modifiedF": "2023-11-05 14:03:26",
+        "hasData": true
+      },
+      "6506c0d9e212e270150ce343": {
+        "title": "Lesson (23) Spacearound",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_interactive_css",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7dc8dc1a-28ec-4c63-af2f-db5c8d356197?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941401.286301,
+        "modified": 1699185802.544167,
+        "id": "6506c0d9e212e270150ce343",
+        "modifiedF": "2023-11-05 14:03:22",
+        "hasData": true
+      },
+      "6506c0db8af4b0270b0407b4": {
+        "title": "Lesson (22) Flex",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_interactive_css",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0f0e9865-e32f-4bdf-9446-e0bf032d4a21?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941403.497494,
+        "modified": 1699185798.129199,
+        "id": "6506c0db8af4b0270b0407b4",
+        "modifiedF": "2023-11-05 14:03:18",
+        "hasData": true
+      },
+      "6506c0dde41de3e9fd064943": {
+        "title": "Lesson (21) Z-Index",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_interactive_css",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/77a951f3-fb29-40b0-bc3f-ce42ee6832f3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941405.455859,
+        "modified": 1699185793.759753,
+        "id": "6506c0dde41de3e9fd064943",
+        "modifiedF": "2023-11-05 14:03:13",
+        "hasData": true
+      },
+      "6506c0cd415b95c04f088da5": {
+        "title": "Lesson (20) Feedback",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_interactive_css",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a0abbb00-4553-463e-ade3-fb64ce9f51c2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941389.623639,
+        "modified": 1699185781.490581,
+        "id": "6506c0cd415b95c04f088da5",
+        "modifiedF": "2023-11-05 14:03:01",
+        "hasData": true
+      },
+      "6506c0bf30d05aa6e40be2ba": {
+        "title": "Lesson (19) Relative Positioning",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_techniques",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f4476f41-cd02-46cf-bf3e-853719b86cdd?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941375.714157,
+        "modified": 1699185766.678469,
+        "id": "6506c0bf30d05aa6e40be2ba",
+        "modifiedF": "2023-11-05 14:02:46",
+        "hasData": true
+      },
+      "6506c092605c83068b0718bc": {
+        "title": "Lesson (18) Sticky Positioning",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_techniques",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d7a0efb7-f329-4eca-bb50-6892ea8797ea?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941330.37068,
+        "modified": 1699185762.137425,
+        "id": "6506c092605c83068b0718bc",
+        "modifiedF": "2023-11-05 14:02:42",
+        "hasData": true
+      },
+      "6506c0949522b8959e0bc4b2": {
+        "title": "Lesson (17) Smooth Scrolling",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_techniques",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3574084f-24fa-4cb4-8591-9f6fdacd1b07?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941332.900108,
+        "modified": 1699185757.63783,
+        "id": "6506c0949522b8959e0bc4b2",
+        "modifiedF": "2023-11-05 14:02:37",
+        "hasData": true
+      },
+      "6506c0968cb6974d89015330": {
+        "title": "Lesson (16) Reset",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_techniques",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9a52d996-f581-4da2-9e56-c5ef7ce79526?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941334.705827,
+        "modified": 1699185754.241312,
+        "id": "6506c0968cb6974d89015330",
+        "modifiedF": "2023-11-05 14:02:34",
+        "hasData": true
+      },
+      "6506c098e12715af0c00412e": {
+        "title": "Lesson (15) Float",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_techniques",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8faac84e-20fc-4ec5-b685-fc59b21a5db9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941336.392421,
+        "modified": 1699185748.979729,
+        "id": "6506c098e12715af0c00412e",
+        "modifiedF": "2023-11-05 14:02:28",
+        "hasData": true
+      },
+      "6506c073aef813121f07612e": {
+        "title": "Lesson (14) Opacity",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_advanced_css_techniques",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b7cf3fb3-bb6c-4919-8507-5c99a8833f6e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941299.702005,
+        "modified": 1699185744.920149,
+        "id": "6506c073aef813121f07612e",
+        "modifiedF": "2023-11-05 14:02:24",
+        "hasData": true
+      },
+      "6506c0692e736cbeb805e964": {
+        "title": "Lesson (13) Box Sizing",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7690155b-b175-47e5-a5f1-4e0eb573f0b9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941289.49665,
+        "modified": 1699185728.973368,
+        "id": "6506c0692e736cbeb805e964",
+        "modifiedF": "2023-11-05 14:02:08",
+        "hasData": true
+      },
+      "6506c00c9e3d454e8d0d6d48": {
+        "title": "Lesson (12) Overlay",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5344f959-6d33-44eb-bdb9-43da64da0228?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941196.101455,
+        "modified": 1699185724.708322,
+        "id": "6506c00c9e3d454e8d0d6d48",
+        "modifiedF": "2023-11-05 14:02:04",
+        "hasData": true
+      },
+      "6506c03e6e465de7610af982": {
+        "title": "Lesson (11) Watermark",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2f44f5ca-40a7-4c1d-9053-c933781ce97c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941246.643264,
+        "modified": 1699185721.293208,
+        "id": "6506c03e6e465de7610af982",
+        "modifiedF": "2023-11-05 14:02:01",
+        "hasData": true
+      },
+      "6506c0035e8b2b808705b51c": {
+        "title": "Lesson (10) Margin",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/dfa7eb66-0a8a-4235-b281-aa2a9d8ba21d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941187.080659,
+        "modified": 1699185718.261218,
+        "id": "6506c0035e8b2b808705b51c",
+        "modifiedF": "2023-11-05 14:01:58",
+        "hasData": true
+      },
+      "6506c005600a162e30043730": {
+        "title": "Lesson (9) Outline",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bcb25c65-c50a-482d-b1d3-59ef08f034ef?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941189.962089,
+        "modified": 1699185713.275619,
+        "id": "6506c005600a162e30043730",
+        "modifiedF": "2023-11-05 14:01:53",
+        "hasData": true
+      },
+      "6506bff9faafe6368804a025": {
+        "title": "Lesson (8) Framework",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5288032a-9616-46af-b987-ba6900a570c7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941177.027291,
+        "modified": 1699185708.461541,
+        "id": "6506bff9faafe6368804a025",
+        "modifiedF": "2023-11-05 14:01:48",
+        "hasData": true
+      },
+      "6506c0085ac382668c0e44da": {
+        "title": "Lesson (7) Font",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/78417d7a-8dba-4b5d-979b-1d94f939fb5e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941192.390949,
+        "modified": 1699185699.205161,
+        "id": "6506c0085ac382668c0e44da",
+        "modifiedF": "2023-11-05 14:01:39",
+        "hasData": true
+      },
+      "6506bf800d1d0c358d0690d2": {
+        "title": "Lesson (6) Shadow",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8e7d1894-2f5b-4666-8907-f1cfb26c470a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941056.677203,
+        "modified": 1699185695.035577,
+        "id": "6506bf800d1d0c358d0690d2",
+        "modifiedF": "2023-11-05 14:01:35",
+        "hasData": true
+      },
+      "6506bf6e23e6c2a086071729": {
+        "title": "Lesson (5) Decoration",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7c767ee0-0c76-4657-953b-6f4d9ac57849?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941038.537009,
+        "modified": 1699185690.840083,
+        "id": "6506bf6e23e6c2a086071729",
+        "modifiedF": "2023-11-05 14:01:30",
+        "hasData": true
+      },
+      "6506bf6fef4504fcfb065625": {
+        "title": "Lesson (4) Transform",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_transformation_and_styling",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e3e3923b-d2a5-46d6-ae73-7ebfc57289cd?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941039.140779,
+        "modified": 1699185686.628313,
+        "id": "6506bf6fef4504fcfb065625",
+        "modifiedF": "2023-11-05 14:01:26",
+        "hasData": true
+      },
+      "6506bf5e147dc2b4b30002b4": {
+        "title": "Lesson (3) RGB",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/71718b97-577b-4a0e-af30-15eb6bdc4c2d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941022.220518,
+        "modified": 1699185680.741278,
+        "id": "6506bf5e147dc2b4b30002b4",
+        "modifiedF": "2023-11-05 14:01:20",
+        "hasData": true
+      },
+      "6506bf601827396a9c0394e5": {
+        "title": "Lesson (2) Simple Selector",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/22d6393f-5aa9-405a-9441-3450977a9983?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694941024.658223,
+        "modified": 1699185675.607911,
+        "id": "6506bf601827396a9c0394e5",
+        "modifiedF": "2023-11-05 14:01:15",
+        "hasData": true
+      },
+      "6506bf3dc996d3a2410ce910": {
+        "title": "Lesson (1) Syntax",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_css_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/17ba53e8-80cf-4480-9014-1707cb5fc2a7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694940989.688483,
+        "modified": 1699185673.536572,
+        "id": "6506bf3dc996d3a2410ce910",
+        "modifiedF": "2023-11-05 14:01:13",
+        "hasData": true
+      },
+      "6506bea3b816c025c506797c": {
+        "title": "Introduction to Css",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "css",
+        "courseSection": "css_introduction_to_css",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7f9416b4-2a35-43bf-9b0c-37de2b7d82c6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694940835.31057,
+        "modified": 1695027335.931704,
+        "id": "6506bea3b816c025c506797c",
+        "modifiedF": "2023-09-18 11:55:35",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

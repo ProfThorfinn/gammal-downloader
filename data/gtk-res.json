@@ -1,0 +1,834 @@
+{
+  "course": {
+    "title": "GTK",
+    "titleId": "gtk",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal GUI developer with our comprehensive GTK course on Gammal Tech. Prerequisites: Completion of the C, C++, HTML, and CSS courses. GTK is a free and open-source cross-platform widget toolkit for creating graphical user interfaces. Learn how to build modern, responsive, and visually appealing applications with GTK. This course is designed to equip you with the knowledge and confidence to enhance your development skills and create professional GUI applications. Don\u2019t miss the opportunity to elevate your career and turn your GUI development aspirations into reality. Enroll now and start your journey to becoming a skilled GTK developer!",
+    "goals": null,
+    "points": null,
+    "authors": [],
+    "quotes": null,
+    "order": null,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/5ce005726ae5c9a9c5a259329acfc6bb.png?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/5ce005726ae5c9a9c5a259329acfc6bb.png",
+      "name": "\/5ce005726ae5c9a9c5a259329acfc6bb.png"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 611,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/3TqWtPkJg7kv2Evy9",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "free",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": false,
+      "wrappedSectionTitles": false,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      }
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "gtk",
+      "apple_store_id": "gtk",
+      "slug": "gtk"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1714778590.508629,
+    "modified": 1730737363.448416,
+    "customMetadata": null,
+    "user": {
+      "id": "64feadd69c9acdc9870a67ba",
+      "username": "AbdurRahman ElGammal"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "7cc368301c912729d5df2758b86219feb1dd8a8029f066e8fb42081ee3565d6f",
+    "id": "663571de3abf5b93ff0f8b65",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=gtk&unit=66357365cdbebaf9dd076f0fUnit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "c-pro_introduction__66357365eb02d": {
+        "title": "Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "66357365cdbebaf9dd076f0f",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "c-pro_introduction__66357365eb02d",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "gtk_installation": {
+        "title": "Setup Essentials",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6635743434fd812d210e2cd8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6635745422bdfcb67c079144",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "gtk_installation",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "gtk_design": {
+        "title": "Coursework",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "663574bb84a9370d5f080fe3",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "663575b9a1a25e10a401ebc6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "663575eacb36eb18670c6164",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6635760c90bc60042c05b639",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6635771e43f844995c0318bb",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "663577506652ca18080f6caf",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6635777fb989e062e80d27a4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "663577f3d1ed42c4de098d16",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Color Filtered",
+            "courseTitle": "Flutter",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "gtk_design",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "gtk_certificate": {
+        "title": "Certificate",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "certificateCompletion_v2",
+            "id": "66379008ba02fc4e470633dc",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "gtk_certificate",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 12,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "66379008ba02fc4e470633db": {
+        "title": "GTK",
+        "type": "usage_course",
+        "unitId": "66379008ba02fc4e470633dc",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "gtk",
+        "courseImage": "\/5ce005726ae5c9a9c5a259329acfc6bb.png",
+        "id": "gtk"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "66379008ba02fc4e470633dc": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_certificate",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "66379008ba02fc4e470633db",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714917384.441789,
+        "modified": 1714917384.441789,
+        "id": "66379008ba02fc4e470633dc",
+        "modifiedF": "2024-05-05 16:56:24",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "663577f3d1ed42c4de098d16": {
+        "title": "Lesson 8 Final",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/09eba50e-fe14-4862-81b9-7a65dd7897df?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714780147.347801,
+        "modified": 1714780180.140741,
+        "id": "663577f3d1ed42c4de098d16",
+        "modifiedF": "2024-05-04 02:49:40",
+        "hasData": true
+      },
+      "6635777fb989e062e80d27a4": {
+        "title": "Lesson 7 input\/output",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/07779f45-b28a-476a-bafd-febd38464556?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714780031.060909,
+        "modified": 1714780091.301058,
+        "id": "6635777fb989e062e80d27a4",
+        "modifiedF": "2024-05-04 02:48:11",
+        "hasData": true
+      },
+      "663577506652ca18080f6caf": {
+        "title": "Lesson 6 Glade",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a20cff87-8968-4ceb-a9e7-423281d337b0?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779984.919872,
+        "modified": 1714780024.511222,
+        "id": "663577506652ca18080f6caf",
+        "modifiedF": "2024-05-04 02:47:04",
+        "hasData": true
+      },
+      "6635771e43f844995c0318bb": {
+        "title": "Lesson 5 CSS",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/67418e1c-84f3-42b5-88f4-35b5ff5bb5fb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779934.034178,
+        "modified": 1714779955.943081,
+        "id": "6635771e43f844995c0318bb",
+        "modifiedF": "2024-05-04 02:45:55",
+        "hasData": true
+      },
+      "6635760c90bc60042c05b639": {
+        "title": "Lesson 4 HTML",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/275be6c0-ea63-43e0-9238-ad0bb7db5ed2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779660.663327,
+        "modified": 1714779865.115689,
+        "id": "6635760c90bc60042c05b639",
+        "modifiedF": "2024-05-04 02:44:25",
+        "hasData": true
+      },
+      "663575eacb36eb18670c6164": {
+        "title": "Lesson 3 Building",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/fa6f1cf7-383e-4b94-9a86-f13792f25afb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779626.26757,
+        "modified": 1714779858.657082,
+        "id": "663575eacb36eb18670c6164",
+        "modifiedF": "2024-05-04 02:44:18",
+        "hasData": true
+      },
+      "663575b9a1a25e10a401ebc6": {
+        "title": "Lesson 2 Coding",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7cd5f841-274d-4816-9b23-ea3f7996d372?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779577.784952,
+        "modified": 1714779852.290438,
+        "id": "663575b9a1a25e10a401ebc6",
+        "modifiedF": "2024-05-04 02:44:12",
+        "hasData": true
+      },
+      "663574bb84a9370d5f080fe3": {
+        "title": "Lesson 1 Design",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4fa189b7-4e36-463b-9e33-d27b8f9ddce2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779323.087336,
+        "modified": 1714779846.998011,
+        "id": "663574bb84a9370d5f080fe3",
+        "modifiedF": "2024-05-04 02:44:06",
+        "hasData": true
+      },
+      "6635745422bdfcb67c079144": {
+        "title": "Mac Installation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_installation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/124fb4ff-f91d-4999-8354-868c9e3561cc?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779220.082858,
+        "modified": 1714779259.619075,
+        "id": "6635745422bdfcb67c079144",
+        "modifiedF": "2024-05-04 02:34:19",
+        "hasData": true
+      },
+      "6635743434fd812d210e2cd8": {
+        "title": "Windows Installation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "gtk_installation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/043b514f-5ec1-4958-b2e7-d622e4412745?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714779188.859719,
+        "modified": 1714779215.052065,
+        "id": "6635743434fd812d210e2cd8",
+        "modifiedF": "2024-05-04 02:33:35",
+        "hasData": true
+      },
+      "66357365cdbebaf9dd076f0f": {
+        "title": "Introduction Video",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "gtk",
+        "courseSection": "c-pro_introduction__66357365eb02d",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/449a1d6e-2f6e-4d90-ab8b-0f9ac7b8d210?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1714778981.965151,
+        "modified": 1714779014.481785,
+        "id": "66357365cdbebaf9dd076f0f",
+        "modifiedF": "2024-05-04 02:30:14",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

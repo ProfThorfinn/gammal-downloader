@@ -1,0 +1,1931 @@
+{
+  "course": {
+    "title": "Dart",
+    "titleId": "dart",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal developer with our comprehensive Dart course on Gammal Tech. Learn the powerful programming language used for building high-performance, cross-platform applications with Flutter. This course is designed to equip you with the knowledge and confidence to create fast, responsive, and beautiful apps for both mobile and web. Don\u2019t miss the opportunity to elevate your career and turn your app development aspirations into reality. Enroll now and start your journey to becoming a skilled Dart programmer!",
+    "goals": null,
+    "points": null,
+    "authors": [],
+    "quotes": null,
+    "order": 5,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/33233a814ff45ead7f8535b5a699888f.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/33233a814ff45ead7f8535b5a699888f.jpeg",
+      "name": "\/33233a814ff45ead7f8535b5a699888f.jpeg"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 631,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/qwMCo6Vw4rrmpR5K8",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "dart",
+      "apple_store_id": "dart",
+      "slug": "dart"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505883.423263,
+    "modified": 1730737362.950075,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "a6c784b1f30de0a717e89543f839c827c74dbfdcbc97cde30852607e43f32f31",
+    "id": "65001b9b47b44f07c1000506",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=dart&unit=6506cfb3e4fb04c28e0bc172Unit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "dart_introduction_to_dart": {
+        "title": "Introduction to Dart",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506cfb3e4fb04c28e0bc172",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart_introduction_to_dart",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "dart__dart_basics": {
+        "title": " Dart Basics",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506cfc732288729ea09909c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6702566aa3c6e8a8700e4f05",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506cfda1f805addce0000ca",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713dfc2fe21d2f059031e2b",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506cfd5ed6aae37b2031b93",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e02fca86cc10fb093001",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506cff15781d27ab902a508",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e08951be112289014e50",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506cfee5fc9fa6dd308b290",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e0f54af7e7557e024b32",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506cfeb85e4f5292e0a0ea2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e1816710ae164d0c2989",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506cfe8ca482a3b760ec936",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e2230e68ccfb5803ab41",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart__dart_basics",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "dart_control_structures": {
+        "title": "Control Structures",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506cfe402efcf8e7c06f492",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e2c4758e1a141a017199",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d060bb27de3362005a3e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e3129aa006e66a096b46",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d065c4946a94eb046d2e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e3432ad53409eb0833d0",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d06a8e8d8f45a003f1fc",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713e40ad3fca458d60a3fa5",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart_control_structures",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "dart__functions_in_dart": {
+        "title": " Functions in Dart",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d0813208fa28970db51a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6713fbe7551871994606177d",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart__functions_in_dart",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "dart_data_structures_in_dart": {
+        "title": "Data Structures in Dart",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d09bf4112b58ed08275f",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "67155487a09fc88e23030261",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d0beafddfee21c0265f3",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "671a6d211970c82b80025253",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d0bb530fea0d5c0a36f8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "671a6e16f47634145a010d8d",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d0b8994afc376d0e146c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "671a6eb27f764b9cb50e14fb",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart_data_structures_in_dart",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "dart_objectoriented_programming_oop_in_dart": {
+        "title": "Object-Oriented Programming (OOP) in Dart",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d0b40d8950851a06a31a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "671a76fa45efc57940052ce4",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d0eeadcf689421000d8d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6727f56dfba81fccf40676f0",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d0f364fa755c610c393c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6727f5a0221788982c0d76b9",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart_objectoriented_programming_oop_in_dart",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "dart__course_summary": {
+        "title": " Course Summary",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d0eb76bfe872c90f683e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Dart",
+            "courseTitle": "Dart",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c6ff9e506510d0504676c",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "dart__course_summary",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 41,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c6ff9e506510d0504676b": {
+        "title": "Dart",
+        "type": "usage_course",
+        "unitId": "661c6ff9e506510d0504676c",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "dart",
+        "courseImage": "\/33233a814ff45ead7f8535b5a699888f.jpeg",
+        "id": "dart"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "6727f5a0221788982c0d76b9": {
+        "title": "Arabic Document (Extends)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_objectoriented_programming_oop_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Arabic Document Extends.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Arabic Document Extends.pdf",
+          "default": true,
+          "pdf_name": "Arabic Document Extends.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1730672032.558451,
+        "modified": 1730672169.550525,
+        "id": "6727f5a0221788982c0d76b9",
+        "modifiedF": "2024-11-04 00:16:09",
+        "hasData": true
+      },
+      "6727f56dfba81fccf40676f0": {
+        "title": "Arabic Document (Constructors)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_objectoriented_programming_oop_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Arabic Document Constructors.pdf",
+          "pages": "6",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Arabic Document Constructors.pdf",
+          "default": true,
+          "pdf_name": "Arabic Document Constructors.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1730671981.682867,
+        "modified": 1730672027.054244,
+        "id": "6727f56dfba81fccf40676f0",
+        "modifiedF": "2024-11-04 00:13:47",
+        "hasData": true
+      },
+      "671a76fa45efc57940052ce4": {
+        "title": "Arabic Document (Classes)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_objectoriented_programming_oop_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Classes.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Classes.pdf",
+          "default": true,
+          "pdf_name": "Classes.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729787642.365341,
+        "modified": 1729787669.999465,
+        "id": "671a76fa45efc57940052ce4",
+        "modifiedF": "2024-10-24 19:34:29",
+        "hasData": true
+      },
+      "671a6eb27f764b9cb50e14fb": {
+        "title": "Arabic Document (Manipulating Lists and Strings)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Manipulating Lists and Strings.pdf",
+          "pages": "6",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Manipulating Lists and Strings.pdf",
+          "default": true,
+          "pdf_name": "Manipulating Lists and Strings.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729785522.721072,
+        "modified": 1729785559.39904,
+        "id": "671a6eb27f764b9cb50e14fb",
+        "modifiedF": "2024-10-24 18:59:19",
+        "hasData": true
+      },
+      "671a6e16f47634145a010d8d": {
+        "title": "Arabic Document (Anonymous and Built-in Functions)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Anonymous and Build-in Functions.pdf",
+          "pages": "5",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Anonymous and Build-in Functions.pdf",
+          "default": true,
+          "pdf_name": "Anonymous and Build-in Functions.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729785366.504792,
+        "modified": 1729785405.13029,
+        "id": "671a6e16f47634145a010d8d",
+        "modifiedF": "2024-10-24 18:56:45",
+        "hasData": true
+      },
+      "671a6d211970c82b80025253": {
+        "title": "Arabic Document (Maps)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Maps.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Maps.pdf",
+          "default": true,
+          "pdf_name": "Maps.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729785121.589418,
+        "modified": 1729785159.403358,
+        "id": "671a6d211970c82b80025253",
+        "modifiedF": "2024-10-24 18:52:39",
+        "hasData": true
+      },
+      "67155487a09fc88e23030261": {
+        "title": "Arabic Document (List)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/List.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/List.pdf",
+          "default": true,
+          "pdf_name": "List.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729451143.241277,
+        "modified": 1729451181.557123,
+        "id": "67155487a09fc88e23030261",
+        "modifiedF": "2024-10-20 22:06:21",
+        "hasData": true
+      },
+      "6713fbe7551871994606177d": {
+        "title": "Arabic Document (Functions)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__functions_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Functions.pdf",
+          "pages": "5",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Functions.pdf",
+          "default": true,
+          "pdf_name": "Functions.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729362919.847006,
+        "modified": 1729362948.912094,
+        "id": "6713fbe7551871994606177d",
+        "modifiedF": "2024-10-19 21:35:48",
+        "hasData": true
+      },
+      "6713e40ad3fca458d60a3fa5": {
+        "title": "Arabic Document (Switch Statements)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Switch Statements.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Switch Statements.pdf",
+          "default": true,
+          "pdf_name": "Switch Statements.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356810.687342,
+        "modified": 1729356842.28137,
+        "id": "6713e40ad3fca458d60a3fa5",
+        "modifiedF": "2024-10-19 19:54:02",
+        "hasData": true
+      },
+      "6713e3432ad53409eb0833d0": {
+        "title": "Arabic Document (Booleans)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Booleans.pdf",
+          "pages": "2",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Booleans.pdf",
+          "default": true,
+          "pdf_name": "Booleans.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356611.420763,
+        "modified": 1729356687.313395,
+        "id": "6713e3432ad53409eb0833d0",
+        "modifiedF": "2024-10-19 19:51:27",
+        "hasData": true
+      },
+      "6713e3129aa006e66a096b46": {
+        "title": "Arabic Document (Break and Continue)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Break and Continue.pdf",
+          "pages": "2",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Break and Continue.pdf",
+          "default": true,
+          "pdf_name": "Break and Continue.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356562.714442,
+        "modified": 1729356588.017781,
+        "id": "6713e3129aa006e66a096b46",
+        "modifiedF": "2024-10-19 19:49:48",
+        "hasData": true
+      },
+      "6713e2c4758e1a141a017199": {
+        "title": "Arabic Document (Loops)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Loops.pdf",
+          "pages": "4",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Loops.pdf",
+          "default": true,
+          "pdf_name": "Loops.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356484.66264,
+        "modified": 1729356512.315396,
+        "id": "6713e2c4758e1a141a017199",
+        "modifiedF": "2024-10-19 19:48:32",
+        "hasData": true
+      },
+      "6713e2230e68ccfb5803ab41": {
+        "title": "Arabic Document (Operators)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Operators.pdf",
+          "pages": "5",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Operators.pdf",
+          "default": true,
+          "pdf_name": "Operators.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356323.437135,
+        "modified": 1729356352.702479,
+        "id": "6713e2230e68ccfb5803ab41",
+        "modifiedF": "2024-10-19 19:45:52",
+        "hasData": true
+      },
+      "6713e1816710ae164d0c2989": {
+        "title": "Arabic Document (If Statement and Inline If)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/If Statement and Inline If.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/If Statement and Inline If.pdf",
+          "default": true,
+          "pdf_name": "If Statement and Inline If.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356161.034425,
+        "modified": 1729356189.740171,
+        "id": "6713e1816710ae164d0c2989",
+        "modifiedF": "2024-10-19 19:43:09",
+        "hasData": true
+      },
+      "6713e0f54af7e7557e024b32": {
+        "title": "Arabic Document (Null Safety)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Null Safety.pdf",
+          "pages": "1",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Null Safety.pdf",
+          "default": true,
+          "pdf_name": "Null Safety.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729356021.449254,
+        "modified": 1729356090.244646,
+        "id": "6713e0f54af7e7557e024b32",
+        "modifiedF": "2024-10-19 19:41:30",
+        "hasData": true
+      },
+      "6713e08951be112289014e50": {
+        "title": "Arabic Document (Strings)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Strings.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Strings.pdf",
+          "default": true,
+          "pdf_name": "Strings.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729355913.42914,
+        "modified": 1729355961.714572,
+        "id": "6713e08951be112289014e50",
+        "modifiedF": "2024-10-19 19:39:21",
+        "hasData": true
+      },
+      "6713e02fca86cc10fb093001": {
+        "title": "Arabic Document (Variables)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Variables.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Variables.pdf",
+          "default": true,
+          "pdf_name": "Variables.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729355823.182576,
+        "modified": 1729355859.709201,
+        "id": "6713e02fca86cc10fb093001",
+        "modifiedF": "2024-10-19 19:37:39",
+        "hasData": true
+      },
+      "6713dfc2fe21d2f059031e2b": {
+        "title": "Arabic Document (Main Elements)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Main Elements.pdf",
+          "pages": "3",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Main Elements.pdf",
+          "default": true,
+          "pdf_name": "Main Elements.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1729355714.478354,
+        "modified": 1729355763.690296,
+        "id": "6713dfc2fe21d2f059031e2b",
+        "modifiedF": "2024-10-19 19:36:03",
+        "hasData": true
+      },
+      "6702566aa3c6e8a8700e4f05": {
+        "title": "Arabic Document (Overview)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Overview.pdf",
+          "pages": "2",
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Overview.pdf",
+          "default": true,
+          "pdf_name": "Overview.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1728206442.790879,
+        "modified": 1728207008.279637,
+        "id": "6702566aa3c6e8a8700e4f05",
+        "modifiedF": "2024-10-06 12:30:08",
+        "hasData": true
+      },
+      "661c6ff9e506510d0504676c": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "dart",
+        "courseSection": "dart__course_summary",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c6ff9e506510d0504676b",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139705.733029,
+        "modified": 1713139705.733029,
+        "id": "661c6ff9e506510d0504676c",
+        "modifiedF": "2024-04-15 02:08:25",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "6506d0f364fa755c610c393c": {
+        "title": "Lesson (19) Extends",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_objectoriented_programming_oop_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8d586034-142a-4e4f-b73a-c2f214387b41?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945523.096884,
+        "modified": 1699183057.530994,
+        "id": "6506d0f364fa755c610c393c",
+        "modifiedF": "2023-11-05 13:17:37",
+        "hasData": true
+      },
+      "6506d0eeadcf689421000d8d": {
+        "title": "Lesson (18) Constructors (OOP)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_objectoriented_programming_oop_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8cffea68-92bf-48da-be5b-e209b766734d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945518.860099,
+        "modified": 1699183054.094265,
+        "id": "6506d0eeadcf689421000d8d",
+        "modifiedF": "2023-11-05 13:17:34",
+        "hasData": true
+      },
+      "6506d0b40d8950851a06a31a": {
+        "title": "Lesson (17) Classes (OOP)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_objectoriented_programming_oop_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ce2e55e9-6bf1-4cc8-a275-0aa2e1ea0cd8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945460.520545,
+        "modified": 1699183050.118235,
+        "id": "6506d0b40d8950851a06a31a",
+        "modifiedF": "2023-11-05 13:17:30",
+        "hasData": true
+      },
+      "6506d0b8994afc376d0e146c": {
+        "title": "Lesson (16) Manipulating Lists and Strings",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/24a99a85-a2f8-4d16-af9c-f8df62dbf7d2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945464.888441,
+        "modified": 1699183043.416623,
+        "id": "6506d0b8994afc376d0e146c",
+        "modifiedF": "2023-11-05 13:17:23",
+        "hasData": true
+      },
+      "6506d0bb530fea0d5c0a36f8": {
+        "title": "Lesson (15) Anonymous and Built-in Functions",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/827f10f5-3c5b-4ccc-bfec-aa894bf4a5c8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945467.892153,
+        "modified": 1699183039.899729,
+        "id": "6506d0bb530fea0d5c0a36f8",
+        "modifiedF": "2023-11-05 13:17:19",
+        "hasData": true
+      },
+      "6506d0beafddfee21c0265f3": {
+        "title": "Lesson (14) Maps",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/26089077-e482-472a-8c27-22084f8bf98d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945470.917101,
+        "modified": 1699183035.305822,
+        "id": "6506d0beafddfee21c0265f3",
+        "modifiedF": "2023-11-05 13:17:15",
+        "hasData": true
+      },
+      "6506d09bf4112b58ed08275f": {
+        "title": "Lesson (13) List",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_data_structures_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bc345140-4ad2-45cf-a4f8-234828e9be51?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945435.884591,
+        "modified": 1699183031.345311,
+        "id": "6506d09bf4112b58ed08275f",
+        "modifiedF": "2023-11-05 13:17:11",
+        "hasData": true
+      },
+      "6506d0813208fa28970db51a": {
+        "title": "Lesson (12) Functions",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__functions_in_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7251558b-4d39-425f-826b-b6664fd6b7b5?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945409.987831,
+        "modified": 1699183020.385067,
+        "id": "6506d0813208fa28970db51a",
+        "modifiedF": "2023-11-05 13:17:00",
+        "hasData": true
+      },
+      "6506d06a8e8d8f45a003f1fc": {
+        "title": "Lesson (11) Switch Statements",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a292e6ae-7607-4930-88cc-be918bd85b89?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945386.249529,
+        "modified": 1699183014.448002,
+        "id": "6506d06a8e8d8f45a003f1fc",
+        "modifiedF": "2023-11-05 13:16:54",
+        "hasData": true
+      },
+      "6506d065c4946a94eb046d2e": {
+        "title": "Lesson (10) Booleans",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/888a48e7-6df4-49e0-8c0f-e6c0ca73331c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945381.896212,
+        "modified": 1699183011.011646,
+        "id": "6506d065c4946a94eb046d2e",
+        "modifiedF": "2023-11-05 13:16:51",
+        "hasData": true
+      },
+      "6506d060bb27de3362005a3e": {
+        "title": "Lesson (9) Break and Continue",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5e52b8ea-c074-4f2b-9404-af5f24b96386?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945376.19301,
+        "modified": 1699183006.815586,
+        "id": "6506d060bb27de3362005a3e",
+        "modifiedF": "2023-11-05 13:16:46",
+        "hasData": true
+      },
+      "6506cfe402efcf8e7c06f492": {
+        "title": "Lesson (8) Loops",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/40130094-9539-4718-9fca-3187f7a22d53?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945252.157118,
+        "modified": 1699183002.737104,
+        "id": "6506cfe402efcf8e7c06f492",
+        "modifiedF": "2023-11-05 13:16:42",
+        "hasData": true
+      },
+      "6506cfe8ca482a3b760ec936": {
+        "title": "Lesson (7) Operators",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f9e22425-c120-4cce-a456-b5e42d97cfc3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945256.47105,
+        "modified": 1699182992.630304,
+        "id": "6506cfe8ca482a3b760ec936",
+        "modifiedF": "2023-11-05 13:16:32",
+        "hasData": true
+      },
+      "6506cfeb85e4f5292e0a0ea2": {
+        "title": "Lesson (6) If Statements and Inline If",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/dd9308d6-885e-4264-b19c-2594852607ae?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945259.867357,
+        "modified": 1699182988.23463,
+        "id": "6506cfeb85e4f5292e0a0ea2",
+        "modifiedF": "2023-11-05 13:16:28",
+        "hasData": true
+      },
+      "6506cfee5fc9fa6dd308b290": {
+        "title": "Lesson (5) Null Safety",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/75b3478e-0fa0-453b-afe2-062db70a34be?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945262.920034,
+        "modified": 1699182983.301181,
+        "id": "6506cfee5fc9fa6dd308b290",
+        "modifiedF": "2023-11-05 13:16:23",
+        "hasData": true
+      },
+      "6506cff15781d27ab902a508": {
+        "title": "Lesson (4) Strings",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6a490ff2-5901-40e0-b485-5f09d61dfc6c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945265.64084,
+        "modified": 1699182979.778724,
+        "id": "6506cff15781d27ab902a508",
+        "modifiedF": "2023-11-05 13:16:19",
+        "hasData": true
+      },
+      "6506cfd5ed6aae37b2031b93": {
+        "title": "Lesson (3) Variables",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2e8e4dad-1192-4993-adbc-b48b9a51de40?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945237.715975,
+        "modified": 1699182976.578207,
+        "id": "6506cfd5ed6aae37b2031b93",
+        "modifiedF": "2023-11-05 13:16:16",
+        "hasData": true
+      },
+      "6506cfda1f805addce0000ca": {
+        "title": "Lesson (2) Main Elements",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/fcb04370-5373-4ff2-a3e3-5f86b91369c5?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945242.349665,
+        "modified": 1699182973.492203,
+        "id": "6506cfda1f805addce0000ca",
+        "modifiedF": "2023-11-05 13:16:13",
+        "hasData": true
+      },
+      "6506cfc732288729ea09909c": {
+        "title": "Lesson (1) Overview",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__dart_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/33945931-b180-4e49-a220-b45553b29047?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945223.231924,
+        "modified": 1699182970.022888,
+        "id": "6506cfc732288729ea09909c",
+        "modifiedF": "2023-11-05 13:16:10",
+        "hasData": true
+      },
+      "6506d0eb76bfe872c90f683e": {
+        "title": "Summary",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart__course_summary",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8a0055f6-8400-46aa-a40a-7fd87be7d41a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945515.894572,
+        "modified": 1696334409.548765,
+        "id": "6506d0eb76bfe872c90f683e",
+        "modifiedF": "2023-10-03 15:00:09",
+        "hasData": true
+      },
+      "6506cfb3e4fb04c28e0bc172": {
+        "title": "Introduction to Dart",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "dart",
+        "courseSection": "dart_introduction_to_dart",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0811498d-e534-4de5-b140-7db3f6700fae?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694945203.179291,
+        "modified": 1695027368.860761,
+        "id": "6506cfb3e4fb04c28e0bc172",
+        "modifiedF": "2023-09-18 11:56:08",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

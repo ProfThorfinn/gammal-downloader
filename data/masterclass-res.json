@@ -1,0 +1,1191 @@
+{
+  "course": {
+    "title": "Masterclass",
+    "titleId": "masterclass",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "The masterclass on Gammal Tech offers unparalleled real-world experience designed to accelerate your tech career beyond that of your peers. Discover your internal drive for excellence with this transformative course. The knowledge and skills you gain will propel you further and faster than those with similar abilities, providing a distinct competitive edge in the industry. Elevate your career and achieve unprecedented success. Enroll now to take the definitive step towards becoming a tech leader.\n\n\u064a\u0642\u062f\u0651\u0645 \u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u0645\u0627\u0633\u062a\u0631\u0643\u0644\u0627\u0633 \u0639\u0644\u0649 \u062c\u0645\u0627\u0644 \u062a\u0643 \u062a\u062c\u0631\u0628\u0629 \u0648\u0627\u0642\u0639\u064a\u0629 \u0641\u0631\u064a\u062f\u0629 \u062a\u0647\u062f\u0641 \u0625\u0644\u0649 \u062a\u0633\u0631\u064a\u0639 \u0645\u0633\u0627\u0631\u0643 \u0627\u0644\u0645\u0647\u0646\u064a \u0641\u064a \u0645\u062c\u0627\u0644 \u0627\u0644\u062a\u0643\u0646\u0648\u0644\u0648\u062c\u064a\u0627 \u0628\u0637\u0631\u0642 \u062a\u062a\u0641\u0648\u0642 \u0628\u0647\u0627 \u0639\u0644\u0649 \u0623\u0642\u0631\u0627\u0646\u0643. \u0627\u0643\u062a\u0634\u0641 \u0627\u0644\u0634\u063a\u0641 \u0627\u0644\u062f\u0627\u062e\u0644\u064a \u0644\u0644\u062a\u0645\u064a\u0632 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0647\u0630\u0627 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u062a\u062d\u0648\u064a\u0644\u064a. \u0633\u062a\u0639\u0645\u0644 \u0627\u0644\u0645\u0639\u0631\u0641\u0629 \u0648\u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a \u0627\u0644\u062a\u064a \u0633\u062a\u0643\u062a\u0633\u0628\u0647\u0627 \u0639\u0644\u0649 \u062f\u0641\u0639\u0643 \u0646\u062d\u0648 \u0627\u0644\u0623\u0645\u0627\u0645 \u0628\u0633\u0631\u0639\u0629 \u063a\u064a\u0631 \u0645\u0633\u0628\u0648\u0642\u0629\u060c \u0645\u0645\u0627 \u064a\u0645\u0646\u062d\u0643 \u0645\u064a\u0632\u0629 \u062a\u0646\u0627\u0641\u0633\u064a\u0629 \u0648\u0627\u0636\u062d\u0629 \u0641\u064a \u0627\u0644\u0635\u0646\u0627\u0639\u0629. \u0627\u0631\u062a\u0642\u0650 \u0628\u0645\u0633\u062a\u0648\u0649 \u0645\u0633\u0627\u0631\u0643 \u0627\u0644\u0645\u0647\u0646\u064a \u0648\u062d\u0642\u0642 \u0646\u062c\u0627\u062d\u0627\u062a \u0644\u0645 \u064a\u0633\u0628\u0642 \u0644\u0647\u0627 \u0645\u062b\u064a\u0644.",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": null,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/17683da704ee9a41eafe522767c75f56.png?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/17683da704ee9a41eafe522767c75f56.png",
+      "name": "\/17683da704ee9a41eafe522767c75f56.png"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 600,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/DgTN6eMd2JcwoWHb6",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "masterclass",
+      "apple_store_id": "masterclass",
+      "slug": "masterclass"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1695322987.552686,
+    "modified": 1730736536.999624,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "ece1be8c26eeef19c1cabfdae4bab220136321800cdb3a4583cc1247a75b8096",
+    "id": "650c936b384631daee09aa9f",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=masterclass&unit=6649d4e466ac6a6c3e01cf89Unit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "maste_free_section": {
+        "title": "Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "6649d4e466ac6a6c3e01cf89",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "668a9bcaed3d74c4a009ed19",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "668a9c50807378c4960d7434",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "maste_free_section",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "maste_honored_guests": {
+        "title": "Honored Guests",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6654442fd5900aa0db0527b2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "665444cf444411857506f473",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6654453270afd63d4b038205",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "665445a5dc02e5d87d03d37b",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "665445e68da89f65100b0ef1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "66544670d444b6ce94002658",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6654469de18437db570135c0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "maste_honored_guests",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "maste_general": {
+        "title": "General",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "6649e6b52ea1ef1e4b046495",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "664cafb96209c9ba4a0438e4",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "665598d14daec7af790d33a1",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "664c52a701bd476d2d009a36",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "maste_general",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "maste_culture": {
+        "title": "Culture",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "6649dac36c9db1f3910b9845",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "6649dc08069e36c31108b1d4",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "6649dcb9ec17f19c3a05427f",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "6649e3c0414f53ca720f0b89",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "6649e4077d1b1b1d66049dd1",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "maste_culture",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "maste_certificate": {
+        "title": "Certification",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "certificateCompletion_v2",
+            "id": "6649e57476eafb7b64036ef2",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "maste_certificate",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 20,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "6649e57476eafb7b64036ef1": {
+        "title": "Masterclass",
+        "type": "usage_course",
+        "unitId": "6649e57476eafb7b64036ef2",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "masterclass",
+        "courseImage": "\/17683da704ee9a41eafe522767c75f56.png",
+        "id": "masterclass"
+      }
+    },
+    "videos": {
+      "668a9c50807378c4960d7434": {
+        "title": "volunteering",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 405,
+        "videoebookLink": null,
+        "videoLibraryId": "668a9857495d61038b0c7c63",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1720360016.851238,
+        "modified": 1720360045.384326,
+        "id": "668a9c50807378c4960d7434",
+        "modifiedF": "2024-07-07 16:47:25",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "668a9bcaed3d74c4a009ed19": {
+        "title": "Prompt Reply",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 413,
+        "videoebookLink": null,
+        "videoLibraryId": "668a98566c2043ed360902bd",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1720359882.514165,
+        "modified": 1720359930.726993,
+        "id": "668a9bcaed3d74c4a009ed19",
+        "modifiedF": "2024-07-07 16:45:30",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "665598d14daec7af790d33a1": {
+        "title": "Praise yours",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 339,
+        "videoebookLink": null,
+        "videoLibraryId": "665595b1b148b2b6d5001672",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716885713.875542,
+        "modified": 1716885974.114291,
+        "id": "665598d14daec7af790d33a1",
+        "modifiedF": "2024-05-28 11:46:14",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649e6b52ea1ef1e4b046495": {
+        "title": "Control the World",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1021,
+        "videoebookLink": null,
+        "videoLibraryId": "664c992bd9381e182e0fc703",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716119221.648511,
+        "modified": 1716301779.093313,
+        "id": "6649e6b52ea1ef1e4b046495",
+        "modifiedF": "2024-05-21 17:29:39",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "664cafb96209c9ba4a0438e4": {
+        "title": "Tax",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1193,
+        "videoebookLink": null,
+        "videoLibraryId": "664c3754ea4b0cd8ce0efddc",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716301753.175991,
+        "modified": 1716301753.175991,
+        "id": "664cafb96209c9ba4a0438e4",
+        "modifiedF": "2024-05-21 17:29:13",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "664c52a701bd476d2d009a36": {
+        "title": "Car Color",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 249,
+        "videoebookLink": null,
+        "videoLibraryId": "664c3189e478113723089506",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716277927.238316,
+        "modified": 1716277952.817213,
+        "id": "664c52a701bd476d2d009a36",
+        "modifiedF": "2024-05-21 10:52:32",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649e4077d1b1b1d66049dd1": {
+        "title": "Self Awareness",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 419,
+        "videoebookLink": null,
+        "videoLibraryId": "6649e39e9201874ca1060eef",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716118535.461689,
+        "modified": 1716119693.385721,
+        "id": "6649e4077d1b1b1d66049dd1",
+        "modifiedF": "2024-05-19 14:54:53",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649e3c0414f53ca720f0b89": {
+        "title": "Freelancing",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 727,
+        "videoebookLink": null,
+        "videoLibraryId": "6649e37d57d7d6c5fe0330b7",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716118464.246116,
+        "modified": 1716119684.828417,
+        "id": "6649e3c0414f53ca720f0b89",
+        "modifiedF": "2024-05-19 14:54:44",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649dcb9ec17f19c3a05427f": {
+        "title": "Ideology",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 854,
+        "videoebookLink": null,
+        "videoLibraryId": "6649dc272c99a2510e04cc26",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716116665.867559,
+        "modified": 1716117991.355131,
+        "id": "6649dcb9ec17f19c3a05427f",
+        "modifiedF": "2024-05-19 14:26:31",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649dc08069e36c31108b1d4": {
+        "title": "Early Adopters",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 481,
+        "videoebookLink": null,
+        "videoLibraryId": "6649dc1a2c86976bb407486d",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716116488.22091,
+        "modified": 1716117982.066673,
+        "id": "6649dc08069e36c31108b1d4",
+        "modifiedF": "2024-05-19 14:26:22",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649dac36c9db1f3910b9845": {
+        "title": "Multinational",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 651,
+        "videoebookLink": null,
+        "videoLibraryId": "6649d72cbb63d972f409b94d",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716116163.054854,
+        "modified": 1716116173.868074,
+        "id": "6649dac36c9db1f3910b9845",
+        "modifiedF": "2024-05-19 13:56:13",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "6649d4e466ac6a6c3e01cf89": {
+        "title": "Masterclass Intro",
+        "courseId": "650c936b384631daee09aa9f",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 843,
+        "videoebookLink": null,
+        "videoLibraryId": "6649c7f8b40ab3fd9808edb3",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716114660.987264,
+        "modified": 1716114680.860213,
+        "id": "6649d4e466ac6a6c3e01cf89",
+        "modifiedF": "2024-05-19 13:31:20",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      }
+    },
+    "ebooks": [],
+    "objects": {
+      "66544670d444b6ce94002658": {
+        "title": "Ramy Othman (Germany)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1c766592-416d-4314-917d-573f4c1d3414?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716799088.560646,
+        "modified": 1716799264.546231,
+        "id": "66544670d444b6ce94002658",
+        "modifiedF": "2024-05-27 11:41:04",
+        "hasData": true
+      },
+      "6654469de18437db570135c0": {
+        "title": "Mostafa Gabr (Be Productive)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/639e9e9d-b51d-47da-b9a9-048f2fa7df8a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716799133.908336,
+        "modified": 1716799245.261278,
+        "id": "6654469de18437db570135c0",
+        "modifiedF": "2024-05-27 11:40:45",
+        "hasData": true
+      },
+      "665445e68da89f65100b0ef1": {
+        "title": "Abdelrhman Nasr (Alexandria University)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/16a5ef51-a20e-428d-99f8-0f1855838f8b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716798950.959524,
+        "modified": 1716799167.866752,
+        "id": "665445e68da89f65100b0ef1",
+        "modifiedF": "2024-05-27 11:39:27",
+        "hasData": true
+      },
+      "665445a5dc02e5d87d03d37b": {
+        "title": "Essam Seddik (AASTMT)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a9dd5eb3-5823-4e54-bbe6-feecf89e73ce?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716798885.145169,
+        "modified": 1716798917.549125,
+        "id": "665445a5dc02e5d87d03d37b",
+        "modifiedF": "2024-05-27 11:35:17",
+        "hasData": true
+      },
+      "6654453270afd63d4b038205": {
+        "title": "Hend ElSharqawi (Mercedes Benz)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/66bb5f5b-b191-4026-8cd4-9fad1a8611d8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716798770.814586,
+        "modified": 1716798846.270305,
+        "id": "6654453270afd63d4b038205",
+        "modifiedF": "2024-05-27 11:34:06",
+        "hasData": true
+      },
+      "6654442fd5900aa0db0527b2": {
+        "title": "Galal Salama (Tesla)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b787af16-6712-493d-9fb7-d8fc555fd165?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716798511.57499,
+        "modified": 1716798753.870411,
+        "id": "6654442fd5900aa0db0527b2",
+        "modifiedF": "2024-05-27 11:32:33",
+        "hasData": true
+      },
+      "665444cf444411857506f473": {
+        "title": "Hussein Hesham (Microsoft)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_honored_guests",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2d560025-e035-4516-b45a-f0600e27fbb2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716798671.218437,
+        "modified": 1716798671.218437,
+        "id": "665444cf444411857506f473",
+        "modifiedF": "2024-05-27 11:31:11",
+        "hasData": true
+      },
+      "6649e57476eafb7b64036ef2": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "masterclass",
+        "courseSection": "maste_certificate",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "6649e57476eafb7b64036ef1",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1716118900.929205,
+        "modified": 1716118900.929205,
+        "id": "6649e57476eafb7b64036ef2",
+        "modifiedF": "2024-05-19 14:41:40",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

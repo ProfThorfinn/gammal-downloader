@@ -1,0 +1,4229 @@
+{
+  "course": {
+    "title": "Python",
+    "titleId": "python",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Unlock the power of Python with our must-join course on Gammal Tech. Python is one of the most powerful and versatile programming languages today, widely used in artificial intelligence (AI), machine learning (ML), data analysis, game development, web development, automation, and even quantum computing. Designed primarily for university professors and trainers to teach Python to their students, this course is also perfect for anyone eager to dive into the world of Python programming. Whether you're a beginner or looking to enhance your skills, our expert-led instruction will empower you to succeed. Don't miss out on mastering the language of the future!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 2,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/28d08e58d25e084008c03302551398cf.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/28d08e58d25e084008c03302551398cf.jpeg",
+      "name": "\/28d08e58d25e084008c03302551398cf.jpeg"
+    },
+    "bgcolor": null,
+    "price": 199,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 635,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/9DEQZy2W3Ghx9iDA8",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "python",
+      "apple_store_id": "python",
+      "slug": "python"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694096534.333702,
+    "modified": 1733150902.865007,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "8e20575b1c134c30c8be9d0528c3db33b1a37577de68f847c05c5cc75969ea33",
+    "id": "64f9dc96f5e65812980185c2",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=python&unit=6506e4fce23b6d22a40299a0Unit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "pytho__course_introduction": {
+        "title": " Course Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e4fce23b6d22a40299a0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho__course_introduction",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho__python_basics": {
+        "title": " Python Basics",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e56db03270f93f0331a0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c45f9cb257227da054a77",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6586f63c9aa84db186016ce5",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e598029d8c48610d73ca",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c465c80019c7a8a063310",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6586f7e83819f69ece0cf642",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e59643c326e69b04a1e0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4689177b9e1257085e60",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6586fb081c7cb174cc0ad539",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e594a4a25fccf60a7d5d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c46a93e0cd54cdd00d6ff",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6586fd0ce92d4467c2001c9f",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e5923590603d230604d2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c46c7eedd3d255d0559c3",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6587004fddd07a9e630a5981",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho__python_basics",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_control_structures": {
+        "title": "Control Structures",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e59009a75b2ff6093747",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c47a81c6c055e19068a61",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658708f6c8b15cb0b304986d",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e5bf37e6fe38f60501c2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c47c5474b718f240b4257",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "65870aff733821ed840d08c9",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e5bfc126f5c063001945",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c47e643440120e20db6d7",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "65870f798c9037acdf075625",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e5d44334a06bf2005d3a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c480831b89207ec08fde0",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658863d8b64d55679e0388d4",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_control_structures",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho__lists_and_tuples": {
+        "title": " Lists and Tuples",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e5dda67ed55073061630",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c490d5b182373800d8f77",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b647d777bf787b40c8818",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e5eac0d9f6dd8008d064",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4930dc28bb49480115f0",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b649e471123d5800c76db",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e5e6c9d8a183b802812d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c49535022091eb40e4802",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b64be729c8967b305d487",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e614b05a7a5d740b230e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4982b663fd5ef9083e19",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b64d8cc6cea8c0002ad29",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e60f72690aab23002ad6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c49ada0785cef11096587",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b64f8181950075905a30f",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho__lists_and_tuples",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_mathematical_and_random_operations": {
+        "title": "Mathematical and Random Operations",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e6294ec5d14ddd0929dc",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c49dd8c734616c9068609",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b734b5eb74a80460bd413",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e645c8901f3ebe037d37",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4a04f1b95e2b2b034aab",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658b736b849130d9040879e5",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_mathematical_and_random_operations",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_working_with_strings": {
+        "title": "Working with Strings",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e63b17387b1cf40cbd44",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4a2d6bfdc905c0084563",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f65d81a5735f6de0e9bab",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e67790c33182590c24e0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4a57e02ab5eef00c1aa1",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f66089a0082531b08c4ed",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e67a4334a06bf2005d46",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4ad0e1da190128085a3f",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f662ae2149a7d6c0c7b66",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e68a026497bdef055b20",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4b2bdcf33d3fd702e699",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f664b9c7bcbb22b050ee9",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e6884119ddc40e096cee",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4b547b835648750252b4",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f666abc36922e96005e0f",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_working_with_strings",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_sets_and_dictionaries": {
+        "title": "Sets and Dictionaries",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e6c38589269b2109bec0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4ba3e62e55058002d0d5",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f6689fbcf6d726e028b4d",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e6d5e1027ec79d0c988a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4bc737cc04949f0587e5",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f66a53bda83adaa08cefa",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_sets_and_dictionaries",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_functions": {
+        "title": "Functions",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e6d29182d038db0ab5aa",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4c0e303fb1dac6025d0f",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f66d25d3e2d9c97068a75",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e6f5530ebb04dc0dbe06",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4c3ad2596967090bf5e3",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f66e975fde0ebdd003ba5",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e6f352778410e3006d0e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4c5f32ab619abf028897",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f6702323cfa13c00192bd",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e6f1fe858ad4530c19ab",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4c80831c19393c022805",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f671875409123230a23c8",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_functions",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_objectoriented_programming_in_python": {
+        "title": "Object-Oriented Programming in Python",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e7096bff8217d8079aec",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4ca88cffc1286605a84d",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f673bf253aa0404038615",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e74e08c41aaf780862e2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4ccdb3956f1beb0e0b23",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f67516b18d0ecdc05fe16",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e74cd73f64468606f922",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4d011f030ae374002deb",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "658f676507240d7abd0275d7",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e74abf331921c40e8dc0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4d336d471e27c20415fc",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6591b088e14ef8c2fb0970a7",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506e748bf3648c99909b7d6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4d60caa3b0d30f03eab9",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6591b0a4d0e22775530c0a39",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_objectoriented_programming_in_python",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_error_handling_and_exceptions": {
+        "title": "Error Handling and Exceptions",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e74666387f3f8b070474",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4d896a67690d4604ca98",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6591b0be53c1744e6d04ad86",
+            "icon": "pdf",
+            "subtitle": "Problem-Solving Exercise",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_error_handling_and_exceptions",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "pytho_project": {
+        "title": "Project",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506e777515a35dc3f0132f0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "661c4dada752ed5fab07bdac",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c6d53e6c6d76cdf070f58",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "pytho_project",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 103,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c6d53e6c6d76cdf070f57": {
+        "title": "Python",
+        "type": "usage_course",
+        "unitId": "661c6d53e6c6d76cdf070f58",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "python",
+        "courseImage": "\/28d08e58d25e084008c03302551398cf.jpeg",
+        "id": "python"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "661c6d53e6c6d76cdf070f58": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "python",
+        "courseSection": "pytho_project",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c6d53e6c6d76cdf070f57",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139027.848823,
+        "modified": 1713139027.848823,
+        "id": "661c6d53e6c6d76cdf070f58",
+        "modifiedF": "2024-04-15 01:57:07",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "661c4dada752ed5fab07bdac": {
+        "title": "Exercise (PY34)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_project",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 34.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 34.pdf",
+          "pdf_name": "python lesson 34.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130925.250951,
+        "modified": 1713130961.502987,
+        "id": "661c4dada752ed5fab07bdac",
+        "modifiedF": "2024-04-14 23:42:41",
+        "hasData": true
+      },
+      "661c4d896a67690d4604ca98": {
+        "title": "Exercise (PY33)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_error_handling_and_exceptions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 33.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 33.pdf",
+          "pdf_name": "python lesson 33.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130889.570831,
+        "modified": 1713130916.326398,
+        "id": "661c4d896a67690d4604ca98",
+        "modifiedF": "2024-04-14 23:41:56",
+        "hasData": true
+      },
+      "661c4d60caa3b0d30f03eab9": {
+        "title": "Exercise (PY32)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 32.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 32.pdf",
+          "pdf_name": "python lesson 32.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130848.81844,
+        "modified": 1713130880.356234,
+        "id": "661c4d60caa3b0d30f03eab9",
+        "modifiedF": "2024-04-14 23:41:20",
+        "hasData": true
+      },
+      "661c4d336d471e27c20415fc": {
+        "title": "Exercise (PY31)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 31.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 31.pdf",
+          "pdf_name": "python lesson 31.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130803.576389,
+        "modified": 1713130842.388698,
+        "id": "661c4d336d471e27c20415fc",
+        "modifiedF": "2024-04-14 23:40:42",
+        "hasData": true
+      },
+      "661c4d011f030ae374002deb": {
+        "title": "Exercise (PY30)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 30.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 30.pdf",
+          "pdf_name": "python lesson 30.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130753.927669,
+        "modified": 1713130790.531427,
+        "id": "661c4d011f030ae374002deb",
+        "modifiedF": "2024-04-14 23:39:50",
+        "hasData": true
+      },
+      "661c4ccdb3956f1beb0e0b23": {
+        "title": "Exercise (PY29)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 29.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 29.pdf",
+          "pdf_name": "python lesson 29.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130701.744456,
+        "modified": 1713130748.34476,
+        "id": "661c4ccdb3956f1beb0e0b23",
+        "modifiedF": "2024-04-14 23:39:08",
+        "hasData": true
+      },
+      "661c4ca88cffc1286605a84d": {
+        "title": "Exercise (PY28)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 28.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 28.pdf",
+          "pdf_name": "python lesson 28.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130664.111142,
+        "modified": 1713130694.501274,
+        "id": "661c4ca88cffc1286605a84d",
+        "modifiedF": "2024-04-14 23:38:14",
+        "hasData": true
+      },
+      "661c4c80831c19393c022805": {
+        "title": "Exercise (PY27)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 27.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 27.pdf",
+          "pdf_name": "python lesson 27.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130624.751027,
+        "modified": 1713130653.000772,
+        "id": "661c4c80831c19393c022805",
+        "modifiedF": "2024-04-14 23:37:33",
+        "hasData": true
+      },
+      "661c4c5f32ab619abf028897": {
+        "title": "Exercise (PY26)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 26.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 26.pdf",
+          "pdf_name": "python lesson 26.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130591.500285,
+        "modified": 1713130616.90915,
+        "id": "661c4c5f32ab619abf028897",
+        "modifiedF": "2024-04-14 23:36:56",
+        "hasData": true
+      },
+      "661c4c3ad2596967090bf5e3": {
+        "title": "Exercise (PY25)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 25.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 25.pdf",
+          "pdf_name": "python lesson 25.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130554.578817,
+        "modified": 1713130582.756155,
+        "id": "661c4c3ad2596967090bf5e3",
+        "modifiedF": "2024-04-14 23:36:22",
+        "hasData": true
+      },
+      "661c4c0e303fb1dac6025d0f": {
+        "title": "Exercise (PY24)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 24.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 24.pdf",
+          "pdf_name": "python lesson 24.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130510.086351,
+        "modified": 1713130542.081803,
+        "id": "661c4c0e303fb1dac6025d0f",
+        "modifiedF": "2024-04-14 23:35:42",
+        "hasData": true
+      },
+      "661c4bc737cc04949f0587e5": {
+        "title": "Exercise (PY23)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_sets_and_dictionaries",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 23.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 23.pdf",
+          "pdf_name": "python lesson 23.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130439.499677,
+        "modified": 1713130467.242147,
+        "id": "661c4bc737cc04949f0587e5",
+        "modifiedF": "2024-04-14 23:34:27",
+        "hasData": true
+      },
+      "661c4ba3e62e55058002d0d5": {
+        "title": "Exercise (PY22)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_sets_and_dictionaries",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 22.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 22.pdf",
+          "pdf_name": "python lesson 22.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130403.362109,
+        "modified": 1713130426.776884,
+        "id": "661c4ba3e62e55058002d0d5",
+        "modifiedF": "2024-04-14 23:33:46",
+        "hasData": true
+      },
+      "661c4b547b835648750252b4": {
+        "title": "Exercise (PY21)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 21.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 21.pdf",
+          "pdf_name": "python lesson 21.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130324.095545,
+        "modified": 1713130348.964883,
+        "id": "661c4b547b835648750252b4",
+        "modifiedF": "2024-04-14 23:32:28",
+        "hasData": true
+      },
+      "661c4b2bdcf33d3fd702e699": {
+        "title": "Exercise (PY20)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 20.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 20.pdf",
+          "pdf_name": "python lesson 20.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130283.808254,
+        "modified": 1713130315.104764,
+        "id": "661c4b2bdcf33d3fd702e699",
+        "modifiedF": "2024-04-14 23:31:55",
+        "hasData": true
+      },
+      "661c4ad0e1da190128085a3f": {
+        "title": "Exercise (PY19)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 19.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 19.pdf",
+          "pdf_name": "python lesson 19.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130192.970498,
+        "modified": 1713130223.523942,
+        "id": "661c4ad0e1da190128085a3f",
+        "modifiedF": "2024-04-14 23:30:23",
+        "hasData": true
+      },
+      "661c4a57e02ab5eef00c1aa1": {
+        "title": "Exercise (PY18)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 18.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 18.pdf",
+          "pdf_name": "python lesson 18.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130071.304116,
+        "modified": 1713130099.410323,
+        "id": "661c4a57e02ab5eef00c1aa1",
+        "modifiedF": "2024-04-14 23:28:19",
+        "hasData": true
+      },
+      "661c4a2d6bfdc905c0084563": {
+        "title": "Exercise (PY17)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 17.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 17.pdf",
+          "pdf_name": "python lesson 17.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713130029.054519,
+        "modified": 1713130063.561658,
+        "id": "661c4a2d6bfdc905c0084563",
+        "modifiedF": "2024-04-14 23:27:43",
+        "hasData": true
+      },
+      "661c4a04f1b95e2b2b034aab": {
+        "title": "Exercise (PY16)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_mathematical_and_random_operations",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 16.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 16.pdf",
+          "pdf_name": "python lesson 16.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129988.685828,
+        "modified": 1713130018.807814,
+        "id": "661c4a04f1b95e2b2b034aab",
+        "modifiedF": "2024-04-14 23:26:58",
+        "hasData": true
+      },
+      "661c49dd8c734616c9068609": {
+        "title": "Exercise (PY15)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_mathematical_and_random_operations",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 15.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 15.pdf",
+          "pdf_name": "python lesson 15.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129949.513563,
+        "modified": 1713129979.219811,
+        "id": "661c49dd8c734616c9068609",
+        "modifiedF": "2024-04-14 23:26:19",
+        "hasData": true
+      },
+      "661c49ada0785cef11096587": {
+        "title": "Exercise (PY14)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 14.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 14.pdf",
+          "pdf_name": "python lesson 14.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129901.17979,
+        "modified": 1713129935.241597,
+        "id": "661c49ada0785cef11096587",
+        "modifiedF": "2024-04-14 23:25:35",
+        "hasData": true
+      },
+      "661c4982b663fd5ef9083e19": {
+        "title": "Exercise (PY13)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 13.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 13.pdf",
+          "pdf_name": "python lesson 13.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129858.490864,
+        "modified": 1713129891.76918,
+        "id": "661c4982b663fd5ef9083e19",
+        "modifiedF": "2024-04-14 23:24:51",
+        "hasData": true
+      },
+      "661c49535022091eb40e4802": {
+        "title": "Exercise (PY12)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 12.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 12.pdf",
+          "pdf_name": "python lesson 12.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129811.453432,
+        "modified": 1713129839.787843,
+        "id": "661c49535022091eb40e4802",
+        "modifiedF": "2024-04-14 23:23:59",
+        "hasData": true
+      },
+      "661c4930dc28bb49480115f0": {
+        "title": "Exercise (PY11)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 11.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 11.pdf",
+          "pdf_name": "python lesson 11.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129776.730529,
+        "modified": 1713129802.737964,
+        "id": "661c4930dc28bb49480115f0",
+        "modifiedF": "2024-04-14 23:23:22",
+        "hasData": true
+      },
+      "661c490d5b182373800d8f77": {
+        "title": "Exercise (PY10)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 10.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 10.pdf",
+          "pdf_name": "python lesson 10.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129741.504606,
+        "modified": 1713129768.914194,
+        "id": "661c490d5b182373800d8f77",
+        "modifiedF": "2024-04-14 23:22:48",
+        "hasData": true
+      },
+      "661c480831b89207ec08fde0": {
+        "title": "Exercise (PY9)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 9.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 9.pdf",
+          "pdf_name": "python lesson 9.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129480.853753,
+        "modified": 1713129509.915991,
+        "id": "661c480831b89207ec08fde0",
+        "modifiedF": "2024-04-14 23:18:29",
+        "hasData": true
+      },
+      "661c47e643440120e20db6d7": {
+        "title": "Exercise (PY8)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 8.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 8.pdf",
+          "pdf_name": "python lesson 8.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129446.775665,
+        "modified": 1713129472.442707,
+        "id": "661c47e643440120e20db6d7",
+        "modifiedF": "2024-04-14 23:17:52",
+        "hasData": true
+      },
+      "661c47c5474b718f240b4257": {
+        "title": "Exercise (PY7)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 7.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 7.pdf",
+          "pdf_name": "python lesson 7.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129413.767524,
+        "modified": 1713129438.511267,
+        "id": "661c47c5474b718f240b4257",
+        "modifiedF": "2024-04-14 23:17:18",
+        "hasData": true
+      },
+      "661c47a81c6c055e19068a61": {
+        "title": "Exercise (PY6)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 6.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 6.pdf",
+          "pdf_name": "python lesson 6.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129384.442206,
+        "modified": 1713129407.023572,
+        "id": "661c47a81c6c055e19068a61",
+        "modifiedF": "2024-04-14 23:16:47",
+        "hasData": true
+      },
+      "6591b0be53c1744e6d04ad86": {
+        "title": "Problem Solving (PY33)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_error_handling_and_exceptions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python33.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python33.pdf",
+          "pdf_name": "Problem Solving Python33.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704046782.342462,
+        "modified": 1713129364.36733,
+        "id": "6591b0be53c1744e6d04ad86",
+        "modifiedF": "2024-04-14 23:16:04",
+        "hasData": true
+      },
+      "6591b0a4d0e22775530c0a39": {
+        "title": "Problem Solving (PY32)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python32.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python32.pdf",
+          "pdf_name": "Problem Solving Python32.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704046756.462495,
+        "modified": 1713129358.699212,
+        "id": "6591b0a4d0e22775530c0a39",
+        "modifiedF": "2024-04-14 23:15:58",
+        "hasData": true
+      },
+      "6591b088e14ef8c2fb0970a7": {
+        "title": "Problem Solving (PY31)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python31.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python31.pdf",
+          "pdf_name": "Problem Solving Python31.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1704046728.35772,
+        "modified": 1713129352.909373,
+        "id": "6591b088e14ef8c2fb0970a7",
+        "modifiedF": "2024-04-14 23:15:52",
+        "hasData": true
+      },
+      "658f676507240d7abd0275d7": {
+        "title": "Problem Solving (PY30)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python30.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python30.pdf",
+          "pdf_name": "Problem Solving Python30.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896933.929543,
+        "modified": 1713129347.816699,
+        "id": "658f676507240d7abd0275d7",
+        "modifiedF": "2024-04-14 23:15:47",
+        "hasData": true
+      },
+      "658f67516b18d0ecdc05fe16": {
+        "title": "Problem Solving (PY29)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python29.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python29.pdf",
+          "pdf_name": "Problem Solving Python29.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896913.261705,
+        "modified": 1713129342.343144,
+        "id": "658f67516b18d0ecdc05fe16",
+        "modifiedF": "2024-04-14 23:15:42",
+        "hasData": true
+      },
+      "658f673bf253aa0404038615": {
+        "title": "Problem Solving (PY28)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python28.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python28.pdf",
+          "pdf_name": "Problem Solving Python28.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896891.126352,
+        "modified": 1713129337.543641,
+        "id": "658f673bf253aa0404038615",
+        "modifiedF": "2024-04-14 23:15:37",
+        "hasData": true
+      },
+      "658f671875409123230a23c8": {
+        "title": "Problem Solving (PY27)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python27.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python27.pdf",
+          "pdf_name": "Problem Solving Python27.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896856.581735,
+        "modified": 1713129330.982645,
+        "id": "658f671875409123230a23c8",
+        "modifiedF": "2024-04-14 23:15:30",
+        "hasData": true
+      },
+      "658f6702323cfa13c00192bd": {
+        "title": "Problem Solving (PY26)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python26.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python26.pdf",
+          "pdf_name": "Problem Solving Python26.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896834.132834,
+        "modified": 1713129324.75259,
+        "id": "658f6702323cfa13c00192bd",
+        "modifiedF": "2024-04-14 23:15:24",
+        "hasData": true
+      },
+      "658f66e975fde0ebdd003ba5": {
+        "title": "Problem Solving (PY25)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python25.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python25.pdf",
+          "pdf_name": "Problem Solving Python25.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896809.757963,
+        "modified": 1713129319.45206,
+        "id": "658f66e975fde0ebdd003ba5",
+        "modifiedF": "2024-04-14 23:15:19",
+        "hasData": true
+      },
+      "658f66d25d3e2d9c97068a75": {
+        "title": "Problem Solving (PY24)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python24.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python24.pdf",
+          "pdf_name": "Problem Solving Python24.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896786.196797,
+        "modified": 1713129312.357473,
+        "id": "658f66d25d3e2d9c97068a75",
+        "modifiedF": "2024-04-14 23:15:12",
+        "hasData": true
+      },
+      "658f66a53bda83adaa08cefa": {
+        "title": "Problem Solving (PY23)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_sets_and_dictionaries",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python23.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python23.pdf",
+          "pdf_name": "Problem Solving Python23.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896741.854026,
+        "modified": 1713129306.785059,
+        "id": "658f66a53bda83adaa08cefa",
+        "modifiedF": "2024-04-14 23:15:06",
+        "hasData": true
+      },
+      "658f6689fbcf6d726e028b4d": {
+        "title": "Problem Solving (PY22)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_sets_and_dictionaries",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python22.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python22.pdf",
+          "pdf_name": "Problem Solving Python22.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896713.002922,
+        "modified": 1713129301.902262,
+        "id": "658f6689fbcf6d726e028b4d",
+        "modifiedF": "2024-04-14 23:15:01",
+        "hasData": true
+      },
+      "658f666abc36922e96005e0f": {
+        "title": "Problem Solving (PY21)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python21.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python21.pdf",
+          "pdf_name": "Problem Solving Python21.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896682.046107,
+        "modified": 1713129295.617452,
+        "id": "658f666abc36922e96005e0f",
+        "modifiedF": "2024-04-14 23:14:55",
+        "hasData": true
+      },
+      "658f664b9c7bcbb22b050ee9": {
+        "title": "Problem Solving (PY20)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python20.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python20.pdf",
+          "pdf_name": "Problem Solving Python20.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896651.709148,
+        "modified": 1713129290.856932,
+        "id": "658f664b9c7bcbb22b050ee9",
+        "modifiedF": "2024-04-14 23:14:50",
+        "hasData": true
+      },
+      "658f662ae2149a7d6c0c7b66": {
+        "title": "Problem Solving (PY19)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python19.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python19.pdf",
+          "pdf_name": "Problem Solving Python19.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896618.475775,
+        "modified": 1713129284.348278,
+        "id": "658f662ae2149a7d6c0c7b66",
+        "modifiedF": "2024-04-14 23:14:44",
+        "hasData": true
+      },
+      "658f66089a0082531b08c4ed": {
+        "title": "Problem Solving (PY18)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python18.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python18.pdf",
+          "pdf_name": "Problem Solving Python18.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896584.829583,
+        "modified": 1713129277.909798,
+        "id": "658f66089a0082531b08c4ed",
+        "modifiedF": "2024-04-14 23:14:37",
+        "hasData": true
+      },
+      "658f65d81a5735f6de0e9bab": {
+        "title": "Problem Solving (PY17)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python17.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python17.pdf",
+          "pdf_name": "Problem Solving Python17.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703896536.852891,
+        "modified": 1713129272.35107,
+        "id": "658f65d81a5735f6de0e9bab",
+        "modifiedF": "2024-04-14 23:14:32",
+        "hasData": true
+      },
+      "658b736b849130d9040879e5": {
+        "title": "Problem Solving (PY16)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_mathematical_and_random_operations",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python16.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python16.pdf",
+          "pdf_name": "Problem Solving Python16.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703637867.28553,
+        "modified": 1713129266.655905,
+        "id": "658b736b849130d9040879e5",
+        "modifiedF": "2024-04-14 23:14:26",
+        "hasData": true
+      },
+      "658b734b5eb74a80460bd413": {
+        "title": "Problem Solving (PY15)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_mathematical_and_random_operations",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python15.pdf",
+          "pages": "4",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python15.pdf",
+          "pdf_name": "Problem Solving Python15.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703637835.472828,
+        "modified": 1713129261.868725,
+        "id": "658b734b5eb74a80460bd413",
+        "modifiedF": "2024-04-14 23:14:21",
+        "hasData": true
+      },
+      "658b64f8181950075905a30f": {
+        "title": "Problem Solving (PY14)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python14.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python14.pdf",
+          "pdf_name": "Problem Solving Python14.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703634168.158625,
+        "modified": 1713129254.579152,
+        "id": "658b64f8181950075905a30f",
+        "modifiedF": "2024-04-14 23:14:14",
+        "hasData": true
+      },
+      "658b64d8cc6cea8c0002ad29": {
+        "title": "Problem Solving (PY13)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python13.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python13.pdf",
+          "pdf_name": "Problem Solving Python13.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703634136.286529,
+        "modified": 1713129246.597619,
+        "id": "658b64d8cc6cea8c0002ad29",
+        "modifiedF": "2024-04-14 23:14:06",
+        "hasData": true
+      },
+      "658b64be729c8967b305d487": {
+        "title": "Problem Solving (PY12)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python12.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python12.pdf",
+          "pdf_name": "Problem Solving Python12.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703634110.239053,
+        "modified": 1713129240.92683,
+        "id": "658b64be729c8967b305d487",
+        "modifiedF": "2024-04-14 23:14:00",
+        "hasData": true
+      },
+      "658b649e471123d5800c76db": {
+        "title": "Problem Solving (PY11)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python11.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python11.pdf",
+          "pdf_name": "Problem Solving Python11.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703634078.795539,
+        "modified": 1713129235.584733,
+        "id": "658b649e471123d5800c76db",
+        "modifiedF": "2024-04-14 23:13:55",
+        "hasData": true
+      },
+      "658b647d777bf787b40c8818": {
+        "title": "Problem Solving (PY10)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python10.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python10.pdf",
+          "pdf_name": "Problem Solving Python10.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703634045.463626,
+        "modified": 1713129230.322014,
+        "id": "658b647d777bf787b40c8818",
+        "modifiedF": "2024-04-14 23:13:50",
+        "hasData": true
+      },
+      "658863d8b64d55679e0388d4": {
+        "title": "Problem Solving (PY9)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python9.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python9.pdf",
+          "pdf_name": "Problem Solving Python9.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703437272.637345,
+        "modified": 1713129221.431809,
+        "id": "658863d8b64d55679e0388d4",
+        "modifiedF": "2024-04-14 23:13:41",
+        "hasData": true
+      },
+      "65870f798c9037acdf075625": {
+        "title": "Problem Solving (PY8)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python8.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python8.pdf",
+          "pdf_name": "Problem Solving Python8.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703350137.433566,
+        "modified": 1713129216.460494,
+        "id": "65870f798c9037acdf075625",
+        "modifiedF": "2024-04-14 23:13:36",
+        "hasData": true
+      },
+      "65870aff733821ed840d08c9": {
+        "title": "Problem Solving (PY7)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python7.pdf",
+          "pages": "2",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python7.pdf",
+          "pdf_name": "Problem Solving Python7.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703348991.963887,
+        "modified": 1713129210.968623,
+        "id": "65870aff733821ed840d08c9",
+        "modifiedF": "2024-04-14 23:13:30",
+        "hasData": true
+      },
+      "658708f6c8b15cb0b304986d": {
+        "title": "Problem Solving (PY6)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python6.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python6.pdf",
+          "pdf_name": "Problem Solving Python6.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703348470.528556,
+        "modified": 1713129204.766622,
+        "id": "658708f6c8b15cb0b304986d",
+        "modifiedF": "2024-04-14 23:13:24",
+        "hasData": true
+      },
+      "661c46c7eedd3d255d0559c3": {
+        "title": "Exercise (PY5)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 5.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 5.pdf",
+          "pdf_name": "python lesson 5.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129159.879373,
+        "modified": 1713129195.94371,
+        "id": "661c46c7eedd3d255d0559c3",
+        "modifiedF": "2024-04-14 23:13:15",
+        "hasData": true
+      },
+      "661c46a93e0cd54cdd00d6ff": {
+        "title": "Exercise (PY4)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 4.pdf",
+          "pages": "7",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 4.pdf",
+          "pdf_name": "python lesson 4.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129129.872495,
+        "modified": 1713129151.016401,
+        "id": "661c46a93e0cd54cdd00d6ff",
+        "modifiedF": "2024-04-14 23:12:31",
+        "hasData": true
+      },
+      "661c4689177b9e1257085e60": {
+        "title": "Exercise (PY3)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/python lesson 3.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/python lesson 3.pdf",
+          "pdf_name": "python lesson 3.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129097.273408,
+        "modified": 1713129120.270896,
+        "id": "661c4689177b9e1257085e60",
+        "modifiedF": "2024-04-14 23:12:00",
+        "hasData": true
+      },
+      "6587004fddd07a9e630a5981": {
+        "title": "Problem Solving (PY5)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python5.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python5.pdf",
+          "pdf_name": "Problem Solving Python5.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703346255.13677,
+        "modified": 1713129089.117555,
+        "id": "6587004fddd07a9e630a5981",
+        "modifiedF": "2024-04-14 23:11:29",
+        "hasData": true
+      },
+      "6586fd0ce92d4467c2001c9f": {
+        "title": "Problem Solving (PY4)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python4.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python4.pdf",
+          "pdf_name": "Problem Solving Python4.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703345420.511399,
+        "modified": 1713129083.646255,
+        "id": "6586fd0ce92d4467c2001c9f",
+        "modifiedF": "2024-04-14 23:11:23",
+        "hasData": true
+      },
+      "661c465c80019c7a8a063310": {
+        "title": "Exercise (PY2)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Python lesson 2.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Python lesson 2.pdf",
+          "pdf_name": "Python lesson 2.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713129052.727407,
+        "modified": 1713129076.829,
+        "id": "661c465c80019c7a8a063310",
+        "modifiedF": "2024-04-14 23:11:16",
+        "hasData": true
+      },
+      "6586fb081c7cb174cc0ad539": {
+        "title": "Problem Solving (PY3)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python3.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python3.pdf",
+          "pdf_name": "Problem Solving Python3.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703344904.870948,
+        "modified": 1713129019.173008,
+        "id": "6586fb081c7cb174cc0ad539",
+        "modifiedF": "2024-04-14 23:10:19",
+        "hasData": true
+      },
+      "6586f7e83819f69ece0cf642": {
+        "title": "Problem Solving (PY2)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python2.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python2.pdf",
+          "pdf_name": "Problem Solving Python2.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703344104.622313,
+        "modified": 1713129008.832085,
+        "id": "6586f7e83819f69ece0cf642",
+        "modifiedF": "2024-04-14 23:10:08",
+        "hasData": true
+      },
+      "661c45f9cb257227da054a77": {
+        "title": "Exercise (PY1)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Python lesson 1.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Python lesson 1.pdf",
+          "pdf_name": "Python lesson 1.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713128953.704534,
+        "modified": 1713129000.979125,
+        "id": "661c45f9cb257227da054a77",
+        "modifiedF": "2024-04-14 23:10:00",
+        "hasData": true
+      },
+      "6586f63c9aa84db186016ce5": {
+        "title": "Problem Solving (PY1)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Problem Solving Python1.pdf",
+          "pages": "2",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Problem Solving Python1.pdf",
+          "pdf_name": "Problem Solving Python1.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1703343676.223137,
+        "modified": 1713128960.399545,
+        "id": "6586f63c9aa84db186016ce5",
+        "modifiedF": "2024-04-14 23:09:20",
+        "hasData": true
+      },
+      "6506e777515a35dc3f0132f0": {
+        "title": "Lesson (34) Project",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_project",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8af46c2a-3c0a-4029-be37-7d6e3234eea7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951287.732224,
+        "modified": 1698924149.384703,
+        "id": "6506e777515a35dc3f0132f0",
+        "modifiedF": "2023-11-02 13:22:29",
+        "hasData": true
+      },
+      "6506e74666387f3f8b070474": {
+        "title": "Lesson (33) Exceptions",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_error_handling_and_exceptions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a1e0c70e-01a8-459e-8727-beae22360656?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951238.091856,
+        "modified": 1698924132.500646,
+        "id": "6506e74666387f3f8b070474",
+        "modifiedF": "2023-11-02 13:22:12",
+        "hasData": true
+      },
+      "6506e748bf3648c99909b7d6": {
+        "title": "Lesson (32) Abstract Classes",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8862985e-fd12-42fd-b66f-b4bb2efd41b3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951240.409179,
+        "modified": 1698924117.413908,
+        "id": "6506e748bf3648c99909b7d6",
+        "modifiedF": "2023-11-02 13:21:57",
+        "hasData": true
+      },
+      "6506e74abf331921c40e8dc0": {
+        "title": "Lesson (31) Inheritance 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/77c0960d-2b32-48af-991d-c1c8c18ed8ee?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951242.460873,
+        "modified": 1698924112.112645,
+        "id": "6506e74abf331921c40e8dc0",
+        "modifiedF": "2023-11-02 13:21:52",
+        "hasData": true
+      },
+      "6506e74cd73f64468606f922": {
+        "title": "Lesson (30) Inheritance 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7d5f4607-af61-42ce-b9f1-d5ccd4acea94?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951244.369206,
+        "modified": 1698924098.157414,
+        "id": "6506e74cd73f64468606f922",
+        "modifiedF": "2023-11-02 13:21:38",
+        "hasData": true
+      },
+      "6506e74e08c41aaf780862e2": {
+        "title": "Lesson (29) Import",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/cccf74bb-907e-4dd8-8fd1-b3f726a024df?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951246.445157,
+        "modified": 1698924089.018593,
+        "id": "6506e74e08c41aaf780862e2",
+        "modifiedF": "2023-11-02 13:21:29",
+        "hasData": true
+      },
+      "6506e7096bff8217d8079aec": {
+        "title": "Lesson (28) OOP",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_objectoriented_programming_in_python",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3bd9747e-c900-4b5b-be36-17f0d7fd84d2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951177.864749,
+        "modified": 1698924083.045681,
+        "id": "6506e7096bff8217d8079aec",
+        "modifiedF": "2023-11-02 13:21:23",
+        "hasData": true
+      },
+      "6506e6f1fe858ad4530c19ab": {
+        "title": "Lesson (27) Global Variables",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f92c93a1-6d60-48d8-b060-3bd88b9c21e9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951153.920981,
+        "modified": 1698924059.89092,
+        "id": "6506e6f1fe858ad4530c19ab",
+        "modifiedF": "2023-11-02 13:20:59",
+        "hasData": true
+      },
+      "6506e6f352778410e3006d0e": {
+        "title": "Lesson (26) Functions 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5dc46431-dfe5-4038-a96b-c0dc4e1d78ba?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951155.957143,
+        "modified": 1698924052.219772,
+        "id": "6506e6f352778410e3006d0e",
+        "modifiedF": "2023-11-02 13:20:52",
+        "hasData": true
+      },
+      "6506e6f5530ebb04dc0dbe06": {
+        "title": "Lesson (25) Functions 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b0b0fd71-15f4-4310-abeb-a7af2ee2eaa8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951157.903294,
+        "modified": 1698924045.659494,
+        "id": "6506e6f5530ebb04dc0dbe06",
+        "modifiedF": "2023-11-02 13:20:45",
+        "hasData": true
+      },
+      "6506e6d29182d038db0ab5aa": {
+        "title": "Lesson (24) Functions 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_functions",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2169d187-0ec2-4c7d-bf0f-7cf97d6cc9fb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951122.891425,
+        "modified": 1698924040.096626,
+        "id": "6506e6d29182d038db0ab5aa",
+        "modifiedF": "2023-11-02 13:20:40",
+        "hasData": true
+      },
+      "6506e6d5e1027ec79d0c988a": {
+        "title": "Lesson (23) Dictionary",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_sets_and_dictionaries",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0fa96fe8-4bb2-49a4-97f3-10cbd41080e7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951125.197632,
+        "modified": 1698924009.645258,
+        "id": "6506e6d5e1027ec79d0c988a",
+        "modifiedF": "2023-11-02 13:20:09",
+        "hasData": true
+      },
+      "6506e6c38589269b2109bec0": {
+        "title": "Lesson (22) Set",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_sets_and_dictionaries",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/46577fad-a6f8-446a-9ca7-7f905a671079?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951107.172877,
+        "modified": 1698924003.385548,
+        "id": "6506e6c38589269b2109bec0",
+        "modifiedF": "2023-11-02 13:20:03",
+        "hasData": true
+      },
+      "6506e6884119ddc40e096cee": {
+        "title": "Lesson (21) Startswith",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/123df968-b2e1-4431-83a6-5f5b9b884648?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951048.517777,
+        "modified": 1698923996.992031,
+        "id": "6506e6884119ddc40e096cee",
+        "modifiedF": "2023-11-02 13:19:56",
+        "hasData": true
+      },
+      "6506e68a026497bdef055b20": {
+        "title": "Lesson (20) Strip",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/fb68fb16-d523-4524-a500-0bea3c2dedb6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951050.779177,
+        "modified": 1698923990.342723,
+        "id": "6506e68a026497bdef055b20",
+        "modifiedF": "2023-11-02 13:19:50",
+        "hasData": true
+      },
+      "6506e67a4334a06bf2005d46": {
+        "title": "Lesson (19) Translate",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2dd8f7fb-1a92-4fd1-9443-b9af373b1101?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951034.509233,
+        "modified": 1698923981.089448,
+        "id": "6506e67a4334a06bf2005d46",
+        "modifiedF": "2023-11-02 13:19:41",
+        "hasData": true
+      },
+      "6506e67790c33182590c24e0": {
+        "title": "Lesson (18) String 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3082b574-902d-448a-a645-d16d160d4bb0?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694951031.643117,
+        "modified": 1698923969.229351,
+        "id": "6506e67790c33182590c24e0",
+        "modifiedF": "2023-11-02 13:19:29",
+        "hasData": true
+      },
+      "6506e63b17387b1cf40cbd44": {
+        "title": "Lesson (17) String 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_working_with_strings",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4181355e-c71d-43a9-ad84-63c3a524c4ed?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950971.260023,
+        "modified": 1698923963.776667,
+        "id": "6506e63b17387b1cf40cbd44",
+        "modifiedF": "2023-11-02 13:19:23",
+        "hasData": true
+      },
+      "6506e645c8901f3ebe037d37": {
+        "title": "Lesson (16) Random",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_mathematical_and_random_operations",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/319ba2e3-308a-4ebe-a3c2-e15e354e9170?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950981.225797,
+        "modified": 1698923943.08077,
+        "id": "6506e645c8901f3ebe037d37",
+        "modifiedF": "2023-11-02 13:19:03",
+        "hasData": true
+      },
+      "6506e6294ec5d14ddd0929dc": {
+        "title": "Lesson (15) Import Math",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_mathematical_and_random_operations",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c72db7cc-0bc8-4d15-8b84-49b803eecf65?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950953.032897,
+        "modified": 1698923916.61522,
+        "id": "6506e6294ec5d14ddd0929dc",
+        "modifiedF": "2023-11-02 13:18:36",
+        "hasData": true
+      },
+      "6506e60f72690aab23002ad6": {
+        "title": "Lesson (14) Tuple",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/37dca087-ae53-420a-ae82-3b1153e98160?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950927.826378,
+        "modified": 1698923881.690459,
+        "id": "6506e60f72690aab23002ad6",
+        "modifiedF": "2023-11-02 13:18:01",
+        "hasData": true
+      },
+      "6506e614b05a7a5d740b230e": {
+        "title": "Lesson (13) List 4",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/de913d39-bbfc-4c6d-a643-54f541eec6ff?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950932.019143,
+        "modified": 1698923876.638579,
+        "id": "6506e614b05a7a5d740b230e",
+        "modifiedF": "2023-11-02 13:17:56",
+        "hasData": true
+      },
+      "6506e5e6c9d8a183b802812d": {
+        "title": "Lesson (12) List 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b41eb649-b582-43eb-95e5-7253db3db4e9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950886.846489,
+        "modified": 1698923870.717456,
+        "id": "6506e5e6c9d8a183b802812d",
+        "modifiedF": "2023-11-02 13:17:50",
+        "hasData": true
+      },
+      "6506e5eac0d9f6dd8008d064": {
+        "title": "Lesson (11) List 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a127bf2f-fcac-4ea8-9cc6-7d240681519e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950890.349926,
+        "modified": 1698923866.262762,
+        "id": "6506e5eac0d9f6dd8008d064",
+        "modifiedF": "2023-11-02 13:17:46",
+        "hasData": true
+      },
+      "6506e5dda67ed55073061630": {
+        "title": "Lesson (10) List 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__lists_and_tuples",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2d21671f-8f70-4be2-b2c7-5ac8868b507a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950877.065201,
+        "modified": 1698923861.811195,
+        "id": "6506e5dda67ed55073061630",
+        "modifiedF": "2023-11-02 13:17:41",
+        "hasData": true
+      },
+      "6506e5d44334a06bf2005d3a": {
+        "title": "Lesson (9) Input",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/75d23a15-2986-4943-a40f-90a870f3f30d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950868.909306,
+        "modified": 1698923833.6411,
+        "id": "6506e5d44334a06bf2005d3a",
+        "modifiedF": "2023-11-02 13:17:13",
+        "hasData": true
+      },
+      "6506e5bfc126f5c063001945": {
+        "title": "Lesson (8) While Loop",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/38e5197b-ef1c-401e-ac6f-41b589360833?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950847.002833,
+        "modified": 1698923827.718449,
+        "id": "6506e5bfc126f5c063001945",
+        "modifiedF": "2023-11-02 13:17:07",
+        "hasData": true
+      },
+      "6506e5bf37e6fe38f60501c2": {
+        "title": "Lesson (7) For Loop",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f629d990-b5ec-467a-a2d7-a78b57c94ff5?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950847.157656,
+        "modified": 1698923822.466302,
+        "id": "6506e5bf37e6fe38f60501c2",
+        "modifiedF": "2023-11-02 13:17:02",
+        "hasData": true
+      },
+      "6506e59009a75b2ff6093747": {
+        "title": "Lesson (6) If Statement",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho_control_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/de1e0ce8-9629-43e2-9080-4c9346cd0982?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950800.76102,
+        "modified": 1698923814.829927,
+        "id": "6506e59009a75b2ff6093747",
+        "modifiedF": "2023-11-02 13:16:54",
+        "hasData": true
+      },
+      "6506e5923590603d230604d2": {
+        "title": "Lesson (5) More About Operators",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/55789038-f137-4d7d-b40d-c6ad51330815?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950802.78373,
+        "modified": 1698923666.273742,
+        "id": "6506e5923590603d230604d2",
+        "modifiedF": "2023-11-02 13:14:26",
+        "hasData": true
+      },
+      "6506e594a4a25fccf60a7d5d": {
+        "title": "Lesson (4) Operators",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6f6eab0c-4e4e-4ad8-b800-c538ed76ebc8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950804.590864,
+        "modified": 1698923659.221246,
+        "id": "6506e594a4a25fccf60a7d5d",
+        "modifiedF": "2023-11-02 13:14:19",
+        "hasData": true
+      },
+      "6506e59643c326e69b04a1e0": {
+        "title": "Lesson (3) More About Variables",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3d9ebabf-9345-426f-8a84-61ea811fff78?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950806.315626,
+        "modified": 1698923654.302449,
+        "id": "6506e59643c326e69b04a1e0",
+        "modifiedF": "2023-11-02 13:14:14",
+        "hasData": true
+      },
+      "6506e598029d8c48610d73ca": {
+        "title": "Lesson (2) Variables",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/db2a78df-2c11-4f58-a822-8bbec4387055?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950808.48816,
+        "modified": 1698923648.765061,
+        "id": "6506e598029d8c48610d73ca",
+        "modifiedF": "2023-11-02 13:14:08",
+        "hasData": true
+      },
+      "6506e56db03270f93f0331a0": {
+        "title": "Lesson (1) Print",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__python_basics",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/90fee7b6-a5cf-4fc9-9421-7f7a4f07cffb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950765.33224,
+        "modified": 1698923642.287626,
+        "id": "6506e56db03270f93f0331a0",
+        "modifiedF": "2023-11-02 13:14:02",
+        "hasData": true
+      },
+      "6506e4fce23b6d22a40299a0": {
+        "title": "Introduction to Python",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "python",
+        "courseSection": "pytho__course_introduction",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bd4204dc-17e4-4144-8992-959273ce05c9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694950652.833359,
+        "modified": 1695027800.629287,
+        "id": "6506e4fce23b6d22a40299a0",
+        "modifiedF": "2023-09-18 12:03:20",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

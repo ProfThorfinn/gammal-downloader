@@ -1,0 +1,1128 @@
+{
+  "course": {
+    "title": "UI & UX Design",
+    "titleId": "ui-ux-design",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal designer with our comprehensive UI &amp; UX Design course on Gammal Tech. Learn essential skills for creating user-friendly and visually appealing interfaces, focusing on user experience and design principles. This course is designed to equip you with the knowledge and confidence to enhance your design skills and build professional, intuitive digital products. Don\u2019t miss the opportunity to elevate your career and turn your design aspirations into reality. Enroll now and start your journey to becoming a skilled UI &amp; UX designer!",
+    "goals": null,
+    "points": null,
+    "authors": [],
+    "quotes": null,
+    "order": 6,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/bf87b48ec02f44973ac4b386358e72e4.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/bf87b48ec02f44973ac4b386358e72e4.jpeg",
+      "name": "\/bf87b48ec02f44973ac4b386358e72e4.jpeg"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 634,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/6eUFMAWDGohAUJ9Z8",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "ui_ux_design",
+      "apple_store_id": "ui_ux_design",
+      "slug": "ui-ux-design"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505861.800997,
+    "modified": 1730737364.070303,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "d8f66c5398464779123c8753b7080d83e745de22a9807cf453d8a37008a2844f",
+    "id": "65001b8586e88c616106897c",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=ui-ux-design&unit=6506dcaa1a44157af605440aUnit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "ui-ux_course_introduction": {
+        "title": "Course Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506dcaa1a44157af605440a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Syntax",
+            "courseTitle": "CSS",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "ui-ux_course_introduction",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "ui-ux_understanding_ux__ui_design_fundamentals": {
+        "title": "Understanding UX & UI Design Fundamentals",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506dce5c405ad0a170304a6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dcfe7d09df8ef00a3450",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dd129774db1ae3066b62",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dd152ef307ebc8064673",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "ui-ux_understanding_ux__ui_design_fundamentals",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "ui-ux_practical_application_of_ux__ui_design": {
+        "title": "Practical Application of UX & UI Design",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506dcf9f5b1aecd0d0bb083",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dd45b59a099ff00df672",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dd4e03896660f30c50be",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dd4a72cf0b7bf601054c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dd4877eac88b5a071658",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dda79381cb403a0b62f7",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506dda4860d9c10a103eb17",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "ui-ux_practical_application_of_ux__ui_design",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "ui-ux_creating_design_structures": {
+        "title": "Creating Design Structures",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506de6023c1e57bf80617a8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506de7b99f0a9a55d0b2e16",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506de79a5bc7bb340022a24",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506de773f063513cb099b23",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "ui-ux_creating_design_structures",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "ui-ux_putting_it_all_together": {
+        "title": "Putting it All Together",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506de76fcc492ae7405f360",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506deae746ac862cf0a3633",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "KeywordsUI Design Part 1",
+            "courseTitle": "UI & UX Design",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "ui-ux_putting_it_all_together",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "ui-ux__course_summary": {
+        "title": " Course Summary",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506debb76b757d56208a0c0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "KeywordsUI Design Part 1",
+            "courseTitle": "UI & UX Design",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c703a373c70019e04d756",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "ui-ux__course_summary",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 20,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c703a373c70019e04d755": {
+        "title": "UI & UX Design",
+        "type": "usage_course",
+        "unitId": "661c703a373c70019e04d756",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "ui-ux-design",
+        "courseImage": "\/bf87b48ec02f44973ac4b386358e72e4.jpeg",
+        "id": "ui-ux-design"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "661c703a373c70019e04d756": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux__course_summary",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c703a373c70019e04d755",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139770.375266,
+        "modified": 1713139770.375266,
+        "id": "661c703a373c70019e04d756",
+        "modifiedF": "2024-04-15 02:09:30",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "6506debb76b757d56208a0c0": {
+        "title": "UI & UX Summary",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux__course_summary",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/82cecc8b-8d8b-4894-bf1b-0bf469cc09e6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694949051.387154,
+        "modified": 1699183121.984248,
+        "id": "6506debb76b757d56208a0c0",
+        "modifiedF": "2023-11-05 13:18:41",
+        "hasData": true
+      },
+      "6506deae746ac862cf0a3633": {
+        "title": "Lesson (17) KeywordsUI Design Part 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_putting_it_all_together",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/285e598c-653c-4668-9073-165285ed8e5b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694949038.715942,
+        "modified": 1699182930.702022,
+        "id": "6506deae746ac862cf0a3633",
+        "modifiedF": "2023-11-05 13:15:30",
+        "hasData": true
+      },
+      "6506de76fcc492ae7405f360": {
+        "title": "Lesson (16) KeywordsUI Design Part 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_putting_it_all_together",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4eb8600c-0025-4b8a-a55a-2fb9409e1608?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948982.026825,
+        "modified": 1699182927.070811,
+        "id": "6506de76fcc492ae7405f360",
+        "modifiedF": "2023-11-05 13:15:27",
+        "hasData": true
+      },
+      "6506de773f063513cb099b23": {
+        "title": "Lesson (15) UI Styles",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_creating_design_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d70c77e4-4e89-4663-9818-4a0c0d6b94a2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948983.886232,
+        "modified": 1699182920.882919,
+        "id": "6506de773f063513cb099b23",
+        "modifiedF": "2023-11-05 13:15:20",
+        "hasData": true
+      },
+      "6506de79a5bc7bb340022a24": {
+        "title": "Lesson (14) Prototype",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_creating_design_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c229fc0c-8917-48f8-930c-82e2479d69f1?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948985.667931,
+        "modified": 1699182917.039282,
+        "id": "6506de79a5bc7bb340022a24",
+        "modifiedF": "2023-11-05 13:15:17",
+        "hasData": true
+      },
+      "6506de7b99f0a9a55d0b2e16": {
+        "title": "Lesson (13) UI Wireframes 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_creating_design_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8ca0c76a-6d0d-41c9-830a-f641e2cbbcf0?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948987.277551,
+        "modified": 1699182912.548131,
+        "id": "6506de7b99f0a9a55d0b2e16",
+        "modifiedF": "2023-11-05 13:15:12",
+        "hasData": true
+      },
+      "6506de6023c1e57bf80617a8": {
+        "title": "Lesson (12) UI Wireframes 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_creating_design_structures",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9616d692-41e6-41ec-ada1-9905ab81edc3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948960.087592,
+        "modified": 1699182908.221605,
+        "id": "6506de6023c1e57bf80617a8",
+        "modifiedF": "2023-11-05 13:15:08",
+        "hasData": true
+      },
+      "6506dda4860d9c10a103eb17": {
+        "title": "Lesson (11) UI Hand Sketch",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7821e753-86ed-4e36-8425-b1ff83fb588a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948772.545523,
+        "modified": 1699182891.569157,
+        "id": "6506dda4860d9c10a103eb17",
+        "modifiedF": "2023-11-05 13:14:51",
+        "hasData": true
+      },
+      "6506dda79381cb403a0b62f7": {
+        "title": "Lesson (10) UI Components",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ede29f68-8a1c-434f-90bd-23897babb03a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948775.092281,
+        "modified": 1699182886.276126,
+        "id": "6506dda79381cb403a0b62f7",
+        "modifiedF": "2023-11-05 13:14:46",
+        "hasData": true
+      },
+      "6506dd4877eac88b5a071658": {
+        "title": "Lesson (9) Site Map",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e8fd93f8-6f92-42f6-86c7-ee36c83ac9c3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948680.355007,
+        "modified": 1699182881.583628,
+        "id": "6506dd4877eac88b5a071658",
+        "modifiedF": "2023-11-05 13:14:41",
+        "hasData": true
+      },
+      "6506dd4a72cf0b7bf601054c": {
+        "title": "Lesson (8) Figma",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8ab63978-3c3e-41ba-8330-9c53c72aa35c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948682.67686,
+        "modified": 1699182877.44282,
+        "id": "6506dd4a72cf0b7bf601054c",
+        "modifiedF": "2023-11-05 13:14:37",
+        "hasData": true
+      },
+      "6506dd4e03896660f30c50be": {
+        "title": "Lesson (7) User Flow",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9d7015ee-2180-42be-85d4-4e5c56d9bb4f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948686.80663,
+        "modified": 1699182873.189981,
+        "id": "6506dd4e03896660f30c50be",
+        "modifiedF": "2023-11-05 13:14:33",
+        "hasData": true
+      },
+      "6506dd45b59a099ff00df672": {
+        "title": "Lesson (6) Network Effect & MVP",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c524436c-787e-4629-91b7-018ce0de3036?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948677.587498,
+        "modified": 1699182866.863473,
+        "id": "6506dd45b59a099ff00df672",
+        "modifiedF": "2023-11-05 13:14:26",
+        "hasData": true
+      },
+      "6506dcf9f5b1aecd0d0bb083": {
+        "title": "Lesson (5) My Network App",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_practical_application_of_ux__ui_design",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7de0215f-edfe-45ea-86ac-8d8779e66b9a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948601.030786,
+        "modified": 1699182862.632327,
+        "id": "6506dcf9f5b1aecd0d0bb083",
+        "modifiedF": "2023-11-05 13:14:22",
+        "hasData": true
+      },
+      "6506dd152ef307ebc8064673": {
+        "title": "Lesson (4) Planning",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_understanding_ux__ui_design_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/954ee18d-1c39-4493-9080-2ff4650c0557?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948629.452181,
+        "modified": 1699182850.355881,
+        "id": "6506dd152ef307ebc8064673",
+        "modifiedF": "2023-11-05 13:14:10",
+        "hasData": true
+      },
+      "6506dd129774db1ae3066b62": {
+        "title": "Lesson (3) User Personas",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_understanding_ux__ui_design_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/754c925f-6ba9-4759-97ee-59554d91276f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948626.231904,
+        "modified": 1699182845.980493,
+        "id": "6506dd129774db1ae3066b62",
+        "modifiedF": "2023-11-05 13:14:05",
+        "hasData": true
+      },
+      "6506dcfe7d09df8ef00a3450": {
+        "title": "Lesson (2) Information Gathering",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_understanding_ux__ui_design_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a7f290f9-acf7-4738-aef1-2ce92ecd7927?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948606.270027,
+        "modified": 1699182841.81401,
+        "id": "6506dcfe7d09df8ef00a3450",
+        "modifiedF": "2023-11-05 13:14:01",
+        "hasData": true
+      },
+      "6506dce5c405ad0a170304a6": {
+        "title": "Lesson (1) Product Life Cycle",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_understanding_ux__ui_design_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4a4aae93-5d25-4c33-88f0-0550345e438b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948581.150101,
+        "modified": 1699182835.163873,
+        "id": "6506dce5c405ad0a170304a6",
+        "modifiedF": "2023-11-05 13:13:55",
+        "hasData": true
+      },
+      "6506dcaa1a44157af605440a": {
+        "title": "Introduction to UI & UX",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "ui-ux-design",
+        "courseSection": "ui-ux_course_introduction",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3f03ccd4-acd9-4cb3-8c62-ac1b5b1e5815?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694948522.690896,
+        "modified": 1695027762.219063,
+        "id": "6506dcaa1a44157af605440a",
+        "modifiedF": "2023-09-18 12:02:42",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

@@ -1,0 +1,5255 @@
+{
+  "course": {
+    "title": "Algorithms",
+    "titleId": "algorithms",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Elevate your programming skills with our Algorithms course on Gammal Tech. Building on the knowledge from our Data Structures course, this advanced training will teach you efficient problem-solving techniques and algorithmic strategies. Mastering algorithms is essential for optimizing code performance and tackling complex challenges in software development. Our expert-led instruction will enhance your coding proficiency and open up new career opportunities in the tech industry. Don\u2019t miss out on this opportunity to become a top-tier programmer. Enroll now and transform your coding capabilities!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 9,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/518e870b9d59561e6e36f539cddc7c77.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/518e870b9d59561e6e36f539cddc7c77.jpeg",
+      "name": "\/518e870b9d59561e6e36f539cddc7c77.jpeg"
+    },
+    "bgcolor": null,
+    "price": 199,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 630,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/kAS1SYZy7FWWQY4h9",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "algorithms",
+      "apple_store_id": "algorithms",
+      "slug": "algorithms"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505742.922804,
+    "modified": 1730897174.023881,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "10efa32109e20a89f61342c1350ab9dcd02dff337d737e39218d61c10ae1e0bf",
+    "id": "65001b0e86e642f0870611db",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=algorithms&unit=650734b5052dea305f021ccfUnit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "algor_course_introduction": {
+        "title": "Course Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650734b5052dea305f021ccf",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction Video",
+            "courseTitle": "C++ Programming",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_course_introduction",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_prime_numbers": {
+        "title": "Prime Numbers",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650734dc48b72d662a028034",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641b9a202e71758490ee322",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650734ed734de6510400c5f8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641b9da741eea69b00f5626",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650734ebd0777f8ed702ec02",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641b9ffabd49d1302086824",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650734ead3c8a3f3cb0a52aa",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641ba1e4c769c36610f0909",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_prime_numbers",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_algorithm_design_and_implementation": {
+        "title": "Algorithm Design and Implementation",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650734e82ad53b74ab0dee14",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641ba40cf5af729c102dbcf",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650734f5affb783c090c3ba8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641ba64adacfa40890ea76f",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_algorithm_design_and_implementation",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_sorting_algorithms": {
+        "title": "Sorting Algorithms",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650734fcf9f39f790f052424",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641ba8c22e3d585b505c8a3",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073505c4c4ac6a7f0b05b6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641baaa56ebddd7f50b3a45",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507351365b613c6be0f23e1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bace434ff3f3d70bddf3",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073511d40c0f57c70cace9",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bcea191dae08490d7d83",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507350f31f6b1c977081960",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bd0a40cb0b8e5e09a2fe",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507350d1f1e946baf08ba10",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bd30d313de05e30bb507",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_sorting_algorithms",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_divide_and_conquer": {
+        "title": "Divide and Conquer",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650735172c8993973e00f6f6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bd720375fb890e02ad2b",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507352037e2ff455305de6c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bd9c648b95e6410b312f",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_divide_and_conquer",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_dynamic_programming": {
+        "title": "Dynamic Programming",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507351eec61705a8b08359c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bdd10c596915700bc8a7",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507354003d3578226089244",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bdf09e346854fd0fed71",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507355c573e5424580dad58",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641be16acff23eee5068c53",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735727a4fb65ab20a5294",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641be3b063a54a3ad04e454",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735708222640ff20e09ae",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641be645412b5aa890b4b82",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507356eb77ec05a9807b538",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641be8a00679faedb0be283",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507356c885eb3dcd20c819a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641beb2ec40c89343082022",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507356a33a00a1a46003876",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bed55c9cd261340d76a3",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073568caa954a767050f0a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bf0034ef8ccf7207f603",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073566b02499ae0a032c6c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bf2375782ddb27049ff3",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735647e4fdbfc8d0c9310",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bf433023049ebf0008f7",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65077b5ac076d29ea803eec0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Fibonacci Memorization",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bf707b843cbf580201e2",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073562b082edb8e604cacc",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bf984854777b9b009955",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507355a73ebe99b4c0f7c38",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641bfe04ad77d58440e4006",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650736f06ef03c08d308727a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c01ef3d7227ba20c9a71",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073701d870a5fcea0be530",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c048cb1c2df0a50d46a7",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650736fd03b3d6d8a000cae0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c22a275bd0f29c00538f",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650736fa8453d5d316023c17",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c24e7a328ab452047602",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650736f8043bec2e1906f496",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c272e2b63de8b5047c6c",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650736f5246273056f07a9a1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "C++ Programming",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c297b9e99cd3e20fe95b",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_dynamic_programming",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor__maze_problem": {
+        "title": " Maze Problem",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "65073596af0b28f7ce0c4120",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c2b8e56b23c77b0f93e2",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073596af0b28f7ce0c411f",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c382725981453a0222db",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073596af0b28f7ce0c411e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c3cf97e2236ee70736ac",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073596af0b28f7ce0c411d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c40235cafcafae06911d",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073596af0b28f7ce0c411c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c423375821cd7d0209e5",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65073596af0b28f7ce0c411b",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c44a0796d645f90d87b2",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor__maze_problem",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_knapsack_problem": {
+        "title": "Knapsack Problem",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c47254fd0025b00f50e4",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f7",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c490e2ac886b99039826",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c4bd9e711927fd04db83",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f5",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c4e13832966a8c0e06b4",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c5031a691ac40b0325b1",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f3",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c53011aaba501306ae3e",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c55bbeea72c6200c47f2",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735a7cdfe4d6f5f01f3f1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c579b6dfceb95d0d9703",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_knapsack_problem",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_other_algorithms": {
+        "title": "Other Algorithms",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650735bc9f3015f63304dab8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c59edde48e65d60f9d8c",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bc9f3015f63304dab7",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c5bf0ef7816e5c0dcfe2",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bc9f3015f63304dab6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c5ee66d40002ba0a39c2",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bc9f3015f63304dab5",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c6170254760b8b0d43a1",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bc9f3015f63304dab4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c650e99ec93df506e75b",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bc9f3015f63304dab3",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c676557453070f0f6b41",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bb9f3015f63304dab2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c69ae0fb6f60d00784b7",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735bb9f3015f63304dab1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c6fce5fda645e20f2fb4",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_other_algorithms",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "algor_graph_theory_and_algorithms": {
+        "title": "Graph Theory and Algorithms",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650735cc347442abf806569a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c71c4d751c760b0efc53",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065699",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c7ae942c5eb86205d09f",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065698",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c7de41265e6b0d05c177",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065696",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c88633bfd8ff430acce1",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065697",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c8ad889ccf534e074a31",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065695",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c8d2f5046723b704a663",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065694",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c9a93277e74eef0d3be7",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065693",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c9ce31d9142cf20a82b0",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650735cc347442abf8065692",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "cout",
+            "courseTitle": "Algorithms",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "6641c9ee2f669c08c70a8bf7",
+            "icon": "pdf",
+            "subtitle": "Algorithms Exercise PDF",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c7147908c43adb303857c",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "algor_graph_theory_and_algorithms",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 132,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c7147908c43adb303857b": {
+        "title": "Algorithms",
+        "type": "usage_course",
+        "unitId": "661c7147908c43adb303857c",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "algorithms",
+        "courseImage": "\/518e870b9d59561e6e36f539cddc7c77.jpeg",
+        "id": "algorithms"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "6641ba8c22e3d585b505c8a3": {
+        "title": "Exercise (Algo7)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-lesson 7.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-lesson 7.pdf",
+          "pdf_name": "1-lesson 7.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583628.65429,
+        "modified": 1730897173.734931,
+        "id": "6641ba8c22e3d585b505c8a3",
+        "modifiedF": "2024-11-06 14:46:13",
+        "hasData": true
+      },
+      "6641c22a275bd0f29c00538f": {
+        "title": "Exercise (Algo31)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/1-lesson 31.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/1-lesson 31.pdf",
+          "pdf_name": "1-lesson 31.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585578.252038,
+        "modified": 1725639704.769983,
+        "id": "6641c22a275bd0f29c00538f",
+        "modifiedF": "2024-09-06 19:21:44",
+        "hasData": true
+      },
+      "6641c9ee2f669c08c70a8bf7": {
+        "title": "Exercise (Algo65)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 65.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 65.pdf",
+          "pdf_name": "lesson 65.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587566.851168,
+        "modified": 1715587595.073852,
+        "id": "6641c9ee2f669c08c70a8bf7",
+        "modifiedF": "2024-05-13 11:06:35",
+        "hasData": true
+      },
+      "6641c9ce31d9142cf20a82b0": {
+        "title": "Exercise (Algo64)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 64.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 64.pdf",
+          "pdf_name": "lesson 64.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587534.489523,
+        "modified": 1715587562.246879,
+        "id": "6641c9ce31d9142cf20a82b0",
+        "modifiedF": "2024-05-13 11:06:02",
+        "hasData": true
+      },
+      "6641c9a93277e74eef0d3be7": {
+        "title": "Exercise (Algo63)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 63.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 63.pdf",
+          "pdf_name": "lesson 63.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587497.151575,
+        "modified": 1715587529.932838,
+        "id": "6641c9a93277e74eef0d3be7",
+        "modifiedF": "2024-05-13 11:05:29",
+        "hasData": true
+      },
+      "6641c8d2f5046723b704a663": {
+        "title": "Exercise (Algo62)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 62.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 62.pdf",
+          "pdf_name": "lesson 62.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587282.918613,
+        "modified": 1715587490.596451,
+        "id": "6641c8d2f5046723b704a663",
+        "modifiedF": "2024-05-13 11:04:50",
+        "hasData": true
+      },
+      "6641c8ad889ccf534e074a31": {
+        "title": "Exercise (Algo61)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 61.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 61.pdf",
+          "pdf_name": "lesson 61.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587245.054594,
+        "modified": 1715587277.81022,
+        "id": "6641c8ad889ccf534e074a31",
+        "modifiedF": "2024-05-13 11:01:17",
+        "hasData": true
+      },
+      "6641c88633bfd8ff430acce1": {
+        "title": "Exercise (Algo60)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 60.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 60.pdf",
+          "pdf_name": "lesson 60.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587206.080589,
+        "modified": 1715587240.144339,
+        "id": "6641c88633bfd8ff430acce1",
+        "modifiedF": "2024-05-13 11:00:40",
+        "hasData": true
+      },
+      "6641c7de41265e6b0d05c177": {
+        "title": "Exercise (Algo59)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/2-lesson 59.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/2-lesson 59.pdf",
+          "pdf_name": "2-lesson 59.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715587038.326314,
+        "modified": 1715587200.458546,
+        "id": "6641c7de41265e6b0d05c177",
+        "modifiedF": "2024-05-13 11:00:00",
+        "hasData": true
+      },
+      "6641c7ae942c5eb86205d09f": {
+        "title": "Exercise (Algo58)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 58.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 58.pdf",
+          "pdf_name": "lesson 58.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586990.092824,
+        "modified": 1715587031.762363,
+        "id": "6641c7ae942c5eb86205d09f",
+        "modifiedF": "2024-05-13 10:57:11",
+        "hasData": true
+      },
+      "6641c71c4d751c760b0efc53": {
+        "title": "Exercise (Algo57)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 57.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 57.pdf",
+          "pdf_name": "lesson 57.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586844.773458,
+        "modified": 1715586898.442915,
+        "id": "6641c71c4d751c760b0efc53",
+        "modifiedF": "2024-05-13 10:54:58",
+        "hasData": true
+      },
+      "6641c6fce5fda645e20f2fb4": {
+        "title": "Exercise (Algo56)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 56.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 56.pdf",
+          "pdf_name": "lesson 56.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586812.276615,
+        "modified": 1715586838.39562,
+        "id": "6641c6fce5fda645e20f2fb4",
+        "modifiedF": "2024-05-13 10:53:58",
+        "hasData": true
+      },
+      "6641c69ae0fb6f60d00784b7": {
+        "title": "Exercise (Algo55)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 55.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 55.pdf",
+          "pdf_name": "lesson 55.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586714.663564,
+        "modified": 1715586807.32495,
+        "id": "6641c69ae0fb6f60d00784b7",
+        "modifiedF": "2024-05-13 10:53:27",
+        "hasData": true
+      },
+      "6641c676557453070f0f6b41": {
+        "title": "Exercise (Algo54)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 54.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 54.pdf",
+          "pdf_name": "lesson 54.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586678.427509,
+        "modified": 1715586709.366817,
+        "id": "6641c676557453070f0f6b41",
+        "modifiedF": "2024-05-13 10:51:49",
+        "hasData": true
+      },
+      "6641c650e99ec93df506e75b": {
+        "title": "Exercise (Algo53)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 53.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 53.pdf",
+          "pdf_name": "lesson 53.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586640.472065,
+        "modified": 1715586672.687667,
+        "id": "6641c650e99ec93df506e75b",
+        "modifiedF": "2024-05-13 10:51:12",
+        "hasData": true
+      },
+      "6641c6170254760b8b0d43a1": {
+        "title": "Exercise (Algo52)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 52.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 52.pdf",
+          "pdf_name": "lesson 52.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586583.874119,
+        "modified": 1715586613.419901,
+        "id": "6641c6170254760b8b0d43a1",
+        "modifiedF": "2024-05-13 10:50:13",
+        "hasData": true
+      },
+      "6641c5ee66d40002ba0a39c2": {
+        "title": "Exercise (Algo51)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 51.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 51.pdf",
+          "pdf_name": "lesson 51.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586542.832465,
+        "modified": 1715586577.909569,
+        "id": "6641c5ee66d40002ba0a39c2",
+        "modifiedF": "2024-05-13 10:49:37",
+        "hasData": true
+      },
+      "6641c5bf0ef7816e5c0dcfe2": {
+        "title": "Exercise (Algo50)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 50.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 50.pdf",
+          "pdf_name": "lesson 50.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586495.775291,
+        "modified": 1715586536.753297,
+        "id": "6641c5bf0ef7816e5c0dcfe2",
+        "modifiedF": "2024-05-13 10:48:56",
+        "hasData": true
+      },
+      "6641c59edde48e65d60f9d8c": {
+        "title": "Exercise (Algo49)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 49.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 49.pdf",
+          "pdf_name": "lesson 49.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586462.01226,
+        "modified": 1715586490.000109,
+        "id": "6641c59edde48e65d60f9d8c",
+        "modifiedF": "2024-05-13 10:48:10",
+        "hasData": true
+      },
+      "6641c579b6dfceb95d0d9703": {
+        "title": "Exercise (Algo48)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 48.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 48.pdf",
+          "pdf_name": "lesson 48.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586425.798751,
+        "modified": 1715586451.568211,
+        "id": "6641c579b6dfceb95d0d9703",
+        "modifiedF": "2024-05-13 10:47:31",
+        "hasData": true
+      },
+      "6641c55bbeea72c6200c47f2": {
+        "title": "Exercise (Algo47)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 47.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 47.pdf",
+          "pdf_name": "lesson 47.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586395.088453,
+        "modified": 1715586419.567798,
+        "id": "6641c55bbeea72c6200c47f2",
+        "modifiedF": "2024-05-13 10:46:59",
+        "hasData": true
+      },
+      "6641c53011aaba501306ae3e": {
+        "title": "Exercise (Algo46)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 46.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 46.pdf",
+          "pdf_name": "lesson 46.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586352.615772,
+        "modified": 1715586389.331653,
+        "id": "6641c53011aaba501306ae3e",
+        "modifiedF": "2024-05-13 10:46:29",
+        "hasData": true
+      },
+      "6641c5031a691ac40b0325b1": {
+        "title": "Exercise (Algo45)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 45.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 45.pdf",
+          "pdf_name": "lesson 45.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586307.775888,
+        "modified": 1715586346.927317,
+        "id": "6641c5031a691ac40b0325b1",
+        "modifiedF": "2024-05-13 10:45:46",
+        "hasData": true
+      },
+      "6641c4e13832966a8c0e06b4": {
+        "title": "Exercise (Algo44)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 44.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 44.pdf",
+          "pdf_name": "lesson 44.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586273.610741,
+        "modified": 1715586302.267399,
+        "id": "6641c4e13832966a8c0e06b4",
+        "modifiedF": "2024-05-13 10:45:02",
+        "hasData": true
+      },
+      "6641c4bd9e711927fd04db83": {
+        "title": "Exercise (Algo43)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 43.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 43.pdf",
+          "pdf_name": "lesson 43.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586237.151829,
+        "modified": 1715586268.3182,
+        "id": "6641c4bd9e711927fd04db83",
+        "modifiedF": "2024-05-13 10:44:28",
+        "hasData": true
+      },
+      "6641c490e2ac886b99039826": {
+        "title": "Exercise (Algo42)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 42.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 42.pdf",
+          "pdf_name": "lesson 42.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586192.503044,
+        "modified": 1715586232.461486,
+        "id": "6641c490e2ac886b99039826",
+        "modifiedF": "2024-05-13 10:43:52",
+        "hasData": true
+      },
+      "6641c47254fd0025b00f50e4": {
+        "title": "Exercise (Algo41)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 41.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 41.pdf",
+          "pdf_name": "lesson 41.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586162.201369,
+        "modified": 1715586186.848386,
+        "id": "6641c47254fd0025b00f50e4",
+        "modifiedF": "2024-05-13 10:43:06",
+        "hasData": true
+      },
+      "6641c44a0796d645f90d87b2": {
+        "title": "Exercise (Algo40)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 40.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 40.pdf",
+          "pdf_name": "lesson 40.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586122.259454,
+        "modified": 1715586153.327935,
+        "id": "6641c44a0796d645f90d87b2",
+        "modifiedF": "2024-05-13 10:42:33",
+        "hasData": true
+      },
+      "6641c423375821cd7d0209e5": {
+        "title": "Exercise (Algo39)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 39.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 39.pdf",
+          "pdf_name": "lesson 39.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586083.376146,
+        "modified": 1715586112.502814,
+        "id": "6641c423375821cd7d0209e5",
+        "modifiedF": "2024-05-13 10:41:52",
+        "hasData": true
+      },
+      "6641c40235cafcafae06911d": {
+        "title": "Exercise (Algo38)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 38.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 38.pdf",
+          "pdf_name": "lesson 38.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715586050.230062,
+        "modified": 1715586078.476879,
+        "id": "6641c40235cafcafae06911d",
+        "modifiedF": "2024-05-13 10:41:18",
+        "hasData": true
+      },
+      "6641c3cf97e2236ee70736ac": {
+        "title": "Exercise (Algo37)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 37.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 37.pdf",
+          "pdf_name": "lesson 37.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585999.35799,
+        "modified": 1715586044.415847,
+        "id": "6641c3cf97e2236ee70736ac",
+        "modifiedF": "2024-05-13 10:40:44",
+        "hasData": true
+      },
+      "6641c382725981453a0222db": {
+        "title": "Exercise (Algo36)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 36.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 36.pdf",
+          "pdf_name": "lesson 36.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585922.599848,
+        "modified": 1715585949.560778,
+        "id": "6641c382725981453a0222db",
+        "modifiedF": "2024-05-13 10:39:09",
+        "hasData": true
+      },
+      "6641c2b8e56b23c77b0f93e2": {
+        "title": "Exercise (Algo35)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 35.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 35.pdf",
+          "pdf_name": "lesson 35.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585720.170008,
+        "modified": 1715585750.169822,
+        "id": "6641c2b8e56b23c77b0f93e2",
+        "modifiedF": "2024-05-13 10:35:50",
+        "hasData": true
+      },
+      "6641c297b9e99cd3e20fe95b": {
+        "title": "Exercise (Algo34)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 34.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 34.pdf",
+          "pdf_name": "lesson 34.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585687.806005,
+        "modified": 1715585712.819819,
+        "id": "6641c297b9e99cd3e20fe95b",
+        "modifiedF": "2024-05-13 10:35:12",
+        "hasData": true
+      },
+      "6641c272e2b63de8b5047c6c": {
+        "title": "Exercise (Algo33)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 33.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 33.pdf",
+          "pdf_name": "lesson 33.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585650.541883,
+        "modified": 1715585680.979293,
+        "id": "6641c272e2b63de8b5047c6c",
+        "modifiedF": "2024-05-13 10:34:40",
+        "hasData": true
+      },
+      "6641c24e7a328ab452047602": {
+        "title": "Exercise (Algo32)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 32.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 32.pdf",
+          "pdf_name": "lesson 32.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585614.032608,
+        "modified": 1715585642.981324,
+        "id": "6641c24e7a328ab452047602",
+        "modifiedF": "2024-05-13 10:34:02",
+        "hasData": true
+      },
+      "6641c048cb1c2df0a50d46a7": {
+        "title": "Exercise (Algo30)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 30.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 30.pdf",
+          "pdf_name": "lesson 30.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585096.702509,
+        "modified": 1715585126.882846,
+        "id": "6641c048cb1c2df0a50d46a7",
+        "modifiedF": "2024-05-13 10:25:26",
+        "hasData": true
+      },
+      "6641c01ef3d7227ba20c9a71": {
+        "title": "Exercise (Algo29)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 29.pdf",
+          "pages": "8",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 29.pdf",
+          "pdf_name": "lesson 29.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715585054.656447,
+        "modified": 1715585090.023597,
+        "id": "6641c01ef3d7227ba20c9a71",
+        "modifiedF": "2024-05-13 10:24:50",
+        "hasData": true
+      },
+      "6641bfe04ad77d58440e4006": {
+        "title": "Exercise (Algo28)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 28.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 28.pdf",
+          "pdf_name": "lesson 28.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584992.577046,
+        "modified": 1715585047.362154,
+        "id": "6641bfe04ad77d58440e4006",
+        "modifiedF": "2024-05-13 10:24:07",
+        "hasData": true
+      },
+      "6641bf984854777b9b009955": {
+        "title": "Exercise (Algo27)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 27.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 27.pdf",
+          "pdf_name": "lesson 27.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584920.03555,
+        "modified": 1715585026.986948,
+        "id": "6641bf984854777b9b009955",
+        "modifiedF": "2024-05-13 10:23:46",
+        "hasData": true
+      },
+      "6641bf707b843cbf580201e2": {
+        "title": "Exercise (Algo26)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 26.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 26.pdf",
+          "pdf_name": "lesson 26.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584880.47013,
+        "modified": 1715584905.550608,
+        "id": "6641bf707b843cbf580201e2",
+        "modifiedF": "2024-05-13 10:21:45",
+        "hasData": true
+      },
+      "6641bf433023049ebf0008f7": {
+        "title": "Exercise (Algo25)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 25.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 25.pdf",
+          "pdf_name": "lesson 25.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584835.244635,
+        "modified": 1715584865.774397,
+        "id": "6641bf433023049ebf0008f7",
+        "modifiedF": "2024-05-13 10:21:05",
+        "hasData": true
+      },
+      "6641bf2375782ddb27049ff3": {
+        "title": "Exercise (Algo24)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 24.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 24.pdf",
+          "pdf_name": "lesson 24.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584803.893804,
+        "modified": 1715584828.551629,
+        "id": "6641bf2375782ddb27049ff3",
+        "modifiedF": "2024-05-13 10:20:28",
+        "hasData": true
+      },
+      "6641bf0034ef8ccf7207f603": {
+        "title": "Exercise (Algo23)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 23.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 23.pdf",
+          "pdf_name": "lesson 23.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584768.015756,
+        "modified": 1715584793.109534,
+        "id": "6641bf0034ef8ccf7207f603",
+        "modifiedF": "2024-05-13 10:19:53",
+        "hasData": true
+      },
+      "6641bed55c9cd261340d76a3": {
+        "title": "Exercise (Algo22)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 22.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 22.pdf",
+          "pdf_name": "lesson 22.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584725.221133,
+        "modified": 1715584762.235258,
+        "id": "6641bed55c9cd261340d76a3",
+        "modifiedF": "2024-05-13 10:19:22",
+        "hasData": true
+      },
+      "6641beb2ec40c89343082022": {
+        "title": "Exercise (Algo21)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 21.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 21.pdf",
+          "pdf_name": "lesson 21.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584690.446196,
+        "modified": 1715584718.113095,
+        "id": "6641beb2ec40c89343082022",
+        "modifiedF": "2024-05-13 10:18:38",
+        "hasData": true
+      },
+      "6641be8a00679faedb0be283": {
+        "title": "Exercise (Algo20)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 20.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 20.pdf",
+          "pdf_name": "lesson 20.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584650.5306,
+        "modified": 1715584681.060173,
+        "id": "6641be8a00679faedb0be283",
+        "modifiedF": "2024-05-13 10:18:01",
+        "hasData": true
+      },
+      "6641be645412b5aa890b4b82": {
+        "title": "Exercise (Algo19)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 19.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 19.pdf",
+          "pdf_name": "lesson 19.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584612.388502,
+        "modified": 1715584643.677786,
+        "id": "6641be645412b5aa890b4b82",
+        "modifiedF": "2024-05-13 10:17:23",
+        "hasData": true
+      },
+      "6641be3b063a54a3ad04e454": {
+        "title": "Exercise (Algo18)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 18.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 18.pdf",
+          "pdf_name": "lesson 18.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584571.951031,
+        "modified": 1715584608.299101,
+        "id": "6641be3b063a54a3ad04e454",
+        "modifiedF": "2024-05-13 10:16:48",
+        "hasData": true
+      },
+      "6641be16acff23eee5068c53": {
+        "title": "Exercise (Algo17)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 17.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 17.pdf",
+          "pdf_name": "lesson 17.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584534.65435,
+        "modified": 1715584566.793777,
+        "id": "6641be16acff23eee5068c53",
+        "modifiedF": "2024-05-13 10:16:06",
+        "hasData": true
+      },
+      "6641bdf09e346854fd0fed71": {
+        "title": "Exercise (Algo16)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 16.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 16.pdf",
+          "pdf_name": "lesson 16.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584496.819933,
+        "modified": 1715584528.532985,
+        "id": "6641bdf09e346854fd0fed71",
+        "modifiedF": "2024-05-13 10:15:28",
+        "hasData": true
+      },
+      "6641bdd10c596915700bc8a7": {
+        "title": "Exercise (Algo15)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 15.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 15.pdf",
+          "pdf_name": "lesson 15.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584465.316521,
+        "modified": 1715584490.559578,
+        "id": "6641bdd10c596915700bc8a7",
+        "modifiedF": "2024-05-13 10:14:50",
+        "hasData": true
+      },
+      "6641bd9c648b95e6410b312f": {
+        "title": "Exercise (Algo14)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_divide_and_conquer",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 14.pdf",
+          "pages": "21",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 14.pdf",
+          "pdf_name": "lesson 14.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584412.521809,
+        "modified": 1715584456.970882,
+        "id": "6641bd9c648b95e6410b312f",
+        "modifiedF": "2024-05-13 10:14:16",
+        "hasData": true
+      },
+      "6641bd720375fb890e02ad2b": {
+        "title": "Exercise (Algo13)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_divide_and_conquer",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 13.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 13.pdf",
+          "pdf_name": "lesson 13.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584370.270539,
+        "modified": 1715584400.700232,
+        "id": "6641bd720375fb890e02ad2b",
+        "modifiedF": "2024-05-13 10:13:20",
+        "hasData": true
+      },
+      "6641bd30d313de05e30bb507": {
+        "title": "Exercise (Algo12)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 12.pdf",
+          "pages": "19",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 12.pdf",
+          "pdf_name": "lesson 12.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584304.777246,
+        "modified": 1715584349.16652,
+        "id": "6641bd30d313de05e30bb507",
+        "modifiedF": "2024-05-13 10:12:29",
+        "hasData": true
+      },
+      "6641bd0a40cb0b8e5e09a2fe": {
+        "title": "Exercise (Algo11)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 11.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 11.pdf",
+          "pdf_name": "lesson 11.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584266.302314,
+        "modified": 1715584299.242449,
+        "id": "6641bd0a40cb0b8e5e09a2fe",
+        "modifiedF": "2024-05-13 10:11:39",
+        "hasData": true
+      },
+      "6641bcea191dae08490d7d83": {
+        "title": "Exercise (Algo10)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 10.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 10.pdf",
+          "pdf_name": "lesson 10.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715584234.455354,
+        "modified": 1715584258.318304,
+        "id": "6641bcea191dae08490d7d83",
+        "modifiedF": "2024-05-13 10:10:58",
+        "hasData": true
+      },
+      "6641bace434ff3f3d70bddf3": {
+        "title": "Exercise (Algo9)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 9.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 9.pdf",
+          "pdf_name": "lesson 9.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583694.249982,
+        "modified": 1715583722.891833,
+        "id": "6641bace434ff3f3d70bddf3",
+        "modifiedF": "2024-05-13 10:02:02",
+        "hasData": true
+      },
+      "6641baaa56ebddd7f50b3a45": {
+        "title": "Exercise (Algo8)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 8.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 8.pdf",
+          "pdf_name": "lesson 8.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583658.442611,
+        "modified": 1715583685.754168,
+        "id": "6641baaa56ebddd7f50b3a45",
+        "modifiedF": "2024-05-13 10:01:25",
+        "hasData": true
+      },
+      "6641ba64adacfa40890ea76f": {
+        "title": "Exercise (Algo6)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_algorithm_design_and_implementation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 6.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 6.pdf",
+          "pdf_name": "lesson 6.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583588.082608,
+        "modified": 1715583621.113342,
+        "id": "6641ba64adacfa40890ea76f",
+        "modifiedF": "2024-05-13 10:00:21",
+        "hasData": true
+      },
+      "6641ba40cf5af729c102dbcf": {
+        "title": "Exercise (Algo5)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_algorithm_design_and_implementation",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 5.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 5.pdf",
+          "pdf_name": "lesson 5.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583552.955607,
+        "modified": 1715583580.726556,
+        "id": "6641ba40cf5af729c102dbcf",
+        "modifiedF": "2024-05-13 09:59:40",
+        "hasData": true
+      },
+      "6641ba1e4c769c36610f0909": {
+        "title": "Exercise (Algo4)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 4.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 4.pdf",
+          "pdf_name": "lesson 4.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583518.686386,
+        "modified": 1715583541.323323,
+        "id": "6641ba1e4c769c36610f0909",
+        "modifiedF": "2024-05-13 09:59:01",
+        "hasData": true
+      },
+      "6641b9ffabd49d1302086824": {
+        "title": "Exercise (Algo3)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 3.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 3.pdf",
+          "pdf_name": "lesson 3.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583487.359651,
+        "modified": 1715583513.217519,
+        "id": "6641b9ffabd49d1302086824",
+        "modifiedF": "2024-05-13 09:58:33",
+        "hasData": true
+      },
+      "6641b9da741eea69b00f5626": {
+        "title": "Exercise (Algo2)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 2.pdf",
+          "pages": "10",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 2.pdf",
+          "pdf_name": "lesson 2.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583450.467881,
+        "modified": 1715583475.541449,
+        "id": "6641b9da741eea69b00f5626",
+        "modifiedF": "2024-05-13 09:57:55",
+        "hasData": true
+      },
+      "6641b9a202e71758490ee322": {
+        "title": "Exercise (Algo1)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/lesson 1.pdf",
+          "pages": "11",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/lesson 1.pdf",
+          "pdf_name": "lesson 1.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1715583394.203214,
+        "modified": 1715583444.139538,
+        "id": "6641b9a202e71758490ee322",
+        "modifiedF": "2024-05-13 09:57:24",
+        "hasData": true
+      },
+      "661c7147908c43adb303857c": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c7147908c43adb303857b",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713140039.526086,
+        "modified": 1713140039.526086,
+        "id": "661c7147908c43adb303857c",
+        "modifiedF": "2024-04-15 02:13:59",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "650735172c8993973e00f6f6": {
+        "title": "Lesson (13) Divide and Conquer",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_divide_and_conquer",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ae1694c8-1490-4236-9636-2b2fe42d76bd?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971159.494197,
+        "modified": 1701099307.117851,
+        "id": "650735172c8993973e00f6f6",
+        "modifiedF": "2023-11-27 17:35:07",
+        "hasData": true
+      },
+      "650735cc347442abf8065692": {
+        "title": "Lesson (65) Floyd-Warshall Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/3fae1353-f6ff-40a9-9202-9d1090b9f350?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.112288,
+        "modified": 1698925895.242749,
+        "id": "650735cc347442abf8065692",
+        "modifiedF": "2023-11-02 13:51:35",
+        "hasData": true
+      },
+      "650735cc347442abf8065693": {
+        "title": "Lesson (64) All-Pair Shortest Path Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/350780c9-bde3-43c4-bcb4-bdb1dd6d03c2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.162845,
+        "modified": 1698925887.446214,
+        "id": "650735cc347442abf8065693",
+        "modifiedF": "2023-11-02 13:51:27",
+        "hasData": true
+      },
+      "650735cc347442abf8065694": {
+        "title": "Lesson (63) Single-Source Shortest Path Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/fa16f741-c278-4b73-beff-80cc3835ec1f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.23934,
+        "modified": 1698925879.501869,
+        "id": "650735cc347442abf8065694",
+        "modifiedF": "2023-11-02 13:51:19",
+        "hasData": true
+      },
+      "650735cc347442abf8065695": {
+        "title": "Lesson (62) Bellman-Ford Algorithm Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bbdcea26-eff0-4267-becd-ee45c294a6a7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.286626,
+        "modified": 1698925870.88595,
+        "id": "650735cc347442abf8065695",
+        "modifiedF": "2023-11-02 13:51:10",
+        "hasData": true
+      },
+      "650735cc347442abf8065697": {
+        "title": "Lesson (61) Bellman-Ford Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/647e09fc-2f0b-40f0-a54c-cc686a79b20f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.359686,
+        "modified": 1698925865.242777,
+        "id": "650735cc347442abf8065697",
+        "modifiedF": "2023-11-02 13:51:05",
+        "hasData": true
+      },
+      "650735cc347442abf8065696": {
+        "title": "Lesson (60) Dijkstra Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e3dac00b-5e7a-404a-9c67-849061bb0fc0?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.325971,
+        "modified": 1698925742.580898,
+        "id": "650735cc347442abf8065696",
+        "modifiedF": "2023-11-02 13:49:02",
+        "hasData": true
+      },
+      "650735cc347442abf8065698": {
+        "title": "Lesson (59) Dijkstra's Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/af2475d7-609e-481a-857c-a62f085eca9f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.399839,
+        "modified": 1698925736.180507,
+        "id": "650735cc347442abf8065698",
+        "modifiedF": "2023-11-02 13:48:56",
+        "hasData": true
+      },
+      "650735cc347442abf8065699": {
+        "title": "Lesson (58) Graph Theory",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5750df4f-2780-4541-85de-567467577208?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.443342,
+        "modified": 1698925730.219168,
+        "id": "650735cc347442abf8065699",
+        "modifiedF": "2023-11-02 13:48:50",
+        "hasData": true
+      },
+      "650735cc347442abf806569a": {
+        "title": "Lesson (57) Graph Representations",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_graph_theory_and_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/de3ff09a-1171-4cef-87f8-77db375b38d4?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971340.480676,
+        "modified": 1698925722.875489,
+        "id": "650735cc347442abf806569a",
+        "modifiedF": "2023-11-02 13:48:42",
+        "hasData": true
+      },
+      "650735bb9f3015f63304dab1": {
+        "title": "Lesson (56) Bit Masking Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d6b4d3ce-e6f9-488f-b18b-337942100138?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971323.936534,
+        "modified": 1698925674.857295,
+        "id": "650735bb9f3015f63304dab1",
+        "modifiedF": "2023-11-02 13:47:54",
+        "hasData": true
+      },
+      "650735bb9f3015f63304dab2": {
+        "title": "Lesson (55) Bit Masking",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/948759d3-6db4-40cf-917f-ce6486969de4?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971323.969533,
+        "modified": 1698925666.460221,
+        "id": "650735bb9f3015f63304dab2",
+        "modifiedF": "2023-11-02 13:47:46",
+        "hasData": true
+      },
+      "650735bc9f3015f63304dab3": {
+        "title": "Lesson (54) Binary Search Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f746a90a-e1cc-4962-b4b6-f7e5c2e7acb1?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971324.001782,
+        "modified": 1698925656.719861,
+        "id": "650735bc9f3015f63304dab3",
+        "modifiedF": "2023-11-02 13:47:36",
+        "hasData": true
+      },
+      "650735bc9f3015f63304dab4": {
+        "title": "Lesson (53) Binary Search",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/dd08b848-bd16-44be-b58e-c9a5de2b8eb4?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971324.037205,
+        "modified": 1698925650.664874,
+        "id": "650735bc9f3015f63304dab4",
+        "modifiedF": "2023-11-02 13:47:30",
+        "hasData": true
+      },
+      "650735bc9f3015f63304dab5": {
+        "title": "Lesson (52) Fractional Knapsack",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e28e316e-6aca-4dfb-9fdd-8d2aebd0901a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971324.091231,
+        "modified": 1698925641.039523,
+        "id": "650735bc9f3015f63304dab5",
+        "modifiedF": "2023-11-02 13:47:21",
+        "hasData": true
+      },
+      "650735bc9f3015f63304dab6": {
+        "title": "Lesson (51) Greedy Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7f4a247a-3e46-49d2-af1d-857a3d0db860?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971324.126233,
+        "modified": 1698925634.772635,
+        "id": "650735bc9f3015f63304dab6",
+        "modifiedF": "2023-11-02 13:47:14",
+        "hasData": true
+      },
+      "650735bc9f3015f63304dab7": {
+        "title": "Lesson (50) Insertion Sort Algorithm Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2ab6e249-e7c7-46f3-a728-e429435f65ab?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971324.168751,
+        "modified": 1698925627.134638,
+        "id": "650735bc9f3015f63304dab7",
+        "modifiedF": "2023-11-02 13:47:07",
+        "hasData": true
+      },
+      "650735bc9f3015f63304dab8": {
+        "title": "Lesson (49) Insertion Sort Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_other_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5e0545a2-bb1c-47e7-894c-84f43a3e10c3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971324.214521,
+        "modified": 1698925621.029339,
+        "id": "650735bc9f3015f63304dab8",
+        "modifiedF": "2023-11-02 13:47:01",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f1": {
+        "title": "Lesson (48) Knapsack DP Optimization Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0601c1ca-1e4a-4dad-a7be-ca954a8b0c76?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.028031,
+        "modified": 1698925582.712106,
+        "id": "650735a7cdfe4d6f5f01f3f1",
+        "modifiedF": "2023-11-02 13:46:22",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f2": {
+        "title": "Lesson (47) Knapsack DP Optimization",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ecf0fb6a-1bce-4f70-86b4-acec22403603?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.058929,
+        "modified": 1698925576.53817,
+        "id": "650735a7cdfe4d6f5f01f3f2",
+        "modifiedF": "2023-11-02 13:46:16",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f3": {
+        "title": "Lesson (46) Knapsack DP Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/488e5449-2c53-4667-a7a2-896e6243b423?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.08969,
+        "modified": 1698925569.93843,
+        "id": "650735a7cdfe4d6f5f01f3f3",
+        "modifiedF": "2023-11-02 13:46:09",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f4": {
+        "title": "Lesson (45) Knapsack Dynamic Programming",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/de43cdef-2efb-4efe-bc5a-a197129491aa?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.121625,
+        "modified": 1698925560.054082,
+        "id": "650735a7cdfe4d6f5f01f3f4",
+        "modifiedF": "2023-11-02 13:46:00",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f5": {
+        "title": "Lesson (44) Knapsack Memoization Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/153bb19e-3407-43da-bef2-54989613d0ad?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.156198,
+        "modified": 1698925550.584873,
+        "id": "650735a7cdfe4d6f5f01f3f5",
+        "modifiedF": "2023-11-02 13:45:50",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f6": {
+        "title": "Lesson (43) Knapsack Memoization",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1217b41b-aa8e-4116-996c-97d3a231114f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.186246,
+        "modified": 1698925539.53116,
+        "id": "650735a7cdfe4d6f5f01f3f6",
+        "modifiedF": "2023-11-02 13:45:39",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f7": {
+        "title": "Lesson (42) Knapsack Recursion",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/aec1e454-5738-4dc3-a5cc-6af344ab3c5c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.216856,
+        "modified": 1698925531.614961,
+        "id": "650735a7cdfe4d6f5f01f3f7",
+        "modifiedF": "2023-11-02 13:45:31",
+        "hasData": true
+      },
+      "650735a7cdfe4d6f5f01f3f8": {
+        "title": "Lesson (41) Knapsack Problem",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_knapsack_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/eb7ded74-3ec0-44e8-bb4d-b680b74570cd?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971303.247102,
+        "modified": 1698925522.33218,
+        "id": "650735a7cdfe4d6f5f01f3f8",
+        "modifiedF": "2023-11-02 13:45:22",
+        "hasData": true
+      },
+      "65073596af0b28f7ce0c411b": {
+        "title": "Lesson (40) Maze DP Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8c3bb102-70dd-4e7c-b067-7ecb868974c2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971286.193217,
+        "modified": 1698925494.649665,
+        "id": "65073596af0b28f7ce0c411b",
+        "modifiedF": "2023-11-02 13:44:54",
+        "hasData": true
+      },
+      "65073596af0b28f7ce0c411c": {
+        "title": "Lesson (39) Maze Dynamic Programming",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4a3bc435-10bf-4ccc-9781-ec8ba6cf7f2a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971286.227686,
+        "modified": 1698925488.444984,
+        "id": "65073596af0b28f7ce0c411c",
+        "modifiedF": "2023-11-02 13:44:48",
+        "hasData": true
+      },
+      "65073596af0b28f7ce0c411d": {
+        "title": "Lesson (38) Maze Memoization Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d977645e-c7e1-47e9-b896-eae6b6a72946?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971286.257826,
+        "modified": 1698925478.751322,
+        "id": "65073596af0b28f7ce0c411d",
+        "modifiedF": "2023-11-02 13:44:38",
+        "hasData": true
+      },
+      "65073596af0b28f7ce0c411e": {
+        "title": "Lesson (37) Maze Memoization",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5efb4ea1-dcdc-4b64-9930-0efa2f56139b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971286.294569,
+        "modified": 1698925396.19877,
+        "id": "65073596af0b28f7ce0c411e",
+        "modifiedF": "2023-11-02 13:43:16",
+        "hasData": true
+      },
+      "65073596af0b28f7ce0c411f": {
+        "title": "Lesson (36) Maze Recursion code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/88285127-e0a1-40d7-8eea-e8173911c493?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971286.330323,
+        "modified": 1698925386.223497,
+        "id": "65073596af0b28f7ce0c411f",
+        "modifiedF": "2023-11-02 13:43:06",
+        "hasData": true
+      },
+      "65073596af0b28f7ce0c4120": {
+        "title": "Lesson (35) Maze Recursion",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor__maze_problem",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b93a2e4c-f437-4f49-970f-a35aca3076cc?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971286.365251,
+        "modified": 1698925380.600028,
+        "id": "65073596af0b28f7ce0c4120",
+        "modifiedF": "2023-11-02 13:43:00",
+        "hasData": true
+      },
+      "650736f5246273056f07a9a1": {
+        "title": "Lesson (34) Math Equation 4",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9ee3d5f4-37e5-4323-b92c-240a7cb1ba65?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971637.591614,
+        "modified": 1698925327.418036,
+        "id": "650736f5246273056f07a9a1",
+        "modifiedF": "2023-11-02 13:42:07",
+        "hasData": true
+      },
+      "650736f8043bec2e1906f496": {
+        "title": "Lesson (33) Math Equation 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c8dfbaf6-a6b3-400e-b1ee-df7fd5b84a4a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971640.38407,
+        "modified": 1698925321.582013,
+        "id": "650736f8043bec2e1906f496",
+        "modifiedF": "2023-11-02 13:42:01",
+        "hasData": true
+      },
+      "650736fa8453d5d316023c17": {
+        "title": "Lesson (32) Math Equation 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8133757a-4d42-490e-8984-e2267b708d12?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971642.677956,
+        "modified": 1698925316.551039,
+        "id": "650736fa8453d5d316023c17",
+        "modifiedF": "2023-11-02 13:41:56",
+        "hasData": true
+      },
+      "650736fd03b3d6d8a000cae0": {
+        "title": "Lesson (31) Math Equation 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/cd30ac03-6346-4067-97dc-6028e4402fba?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971645.449342,
+        "modified": 1698925312.257831,
+        "id": "650736fd03b3d6d8a000cae0",
+        "modifiedF": "2023-11-02 13:41:52",
+        "hasData": true
+      },
+      "65073701d870a5fcea0be530": {
+        "title": "Lesson (30) Fibonacci DP Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/06c1848b-f349-4a8d-bc35-6184e10ec7f2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971649.132125,
+        "modified": 1698925308.686654,
+        "id": "65073701d870a5fcea0be530",
+        "modifiedF": "2023-11-02 13:41:48",
+        "hasData": true
+      },
+      "650736f06ef03c08d308727a": {
+        "title": "Lesson (29) Fibonacci DP",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0e621867-9533-44d3-b7f7-3681324d4ebc?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971632.853061,
+        "modified": 1698925304.645229,
+        "id": "650736f06ef03c08d308727a",
+        "modifiedF": "2023-11-02 13:41:44",
+        "hasData": true
+      },
+      "6507355a73ebe99b4c0f7c38": {
+        "title": "Lesson (28) Fibonacci Memorization Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/faf0abe7-440d-4120-b583-f655d920bb95?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971226.10683,
+        "modified": 1698925298.603453,
+        "id": "6507355a73ebe99b4c0f7c38",
+        "modifiedF": "2023-11-02 13:41:38",
+        "hasData": true
+      },
+      "65073562b082edb8e604cacc": {
+        "title": "Lesson (27) Fibonacci Memorization",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ade59f7f-0d01-4662-a0b0-8acb1969c2ce?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971234.124923,
+        "modified": 1698925267.502191,
+        "id": "65073562b082edb8e604cacc",
+        "modifiedF": "2023-11-02 13:41:07",
+        "hasData": true
+      },
+      "65077b5ac076d29ea803eec0": {
+        "title": "Lesson (26) Fibonacci Recursion",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/df7dca7c-7d69-4b50-a163-aff724b608ae?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694989146.892082,
+        "modified": 1698925261.966757,
+        "id": "65077b5ac076d29ea803eec0",
+        "modifiedF": "2023-11-02 13:41:01",
+        "hasData": true
+      },
+      "650735647e4fdbfc8d0c9310": {
+        "title": "Lesson (25) DP Optimization Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9baa5bcb-77a0-4094-8a85-89eb89966c64?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971236.651602,
+        "modified": 1698925255.867647,
+        "id": "650735647e4fdbfc8d0c9310",
+        "modifiedF": "2023-11-02 13:40:55",
+        "hasData": true
+      },
+      "65073566b02499ae0a032c6c": {
+        "title": "Lesson (24) DP Optimization",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b2ae1d23-0997-4400-b816-2703288cd893?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971238.817271,
+        "modified": 1698925249.118004,
+        "id": "65073566b02499ae0a032c6c",
+        "modifiedF": "2023-11-02 13:40:49",
+        "hasData": true
+      },
+      "65073568caa954a767050f0a": {
+        "title": "Lesson (23) Dynamic Programming code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/742ba87e-c43a-4790-b05d-5ee5438799f3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971240.858111,
+        "modified": 1698925223.980477,
+        "id": "65073568caa954a767050f0a",
+        "modifiedF": "2023-11-02 13:40:23",
+        "hasData": true
+      },
+      "6507356a33a00a1a46003876": {
+        "title": "Lesson (22) Dynamic Programming DP2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/627a5c8c-f300-43ee-b0d7-aa72ee74800b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971242.945242,
+        "modified": 1698925218.182077,
+        "id": "6507356a33a00a1a46003876",
+        "modifiedF": "2023-11-02 13:40:18",
+        "hasData": true
+      },
+      "6507356c885eb3dcd20c819a": {
+        "title": "Lesson (21) Dynamic Programming DP1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2f395734-f9d4-42d6-98e9-41fecef877d8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971244.860393,
+        "modified": 1698925213.835747,
+        "id": "6507356c885eb3dcd20c819a",
+        "modifiedF": "2023-11-02 13:40:13",
+        "hasData": true
+      },
+      "6507356eb77ec05a9807b538": {
+        "title": "Lesson (20) ATM (Memoization Code)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7c07b8ce-fdad-47e0-8a49-40f93c19874c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971246.832619,
+        "modified": 1698925208.602053,
+        "id": "6507356eb77ec05a9807b538",
+        "modifiedF": "2023-11-02 13:40:08",
+        "hasData": true
+      },
+      "650735708222640ff20e09ae": {
+        "title": "Lesson (19) ATM (Memoization)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c8c2e952-e1d8-4ed0-bacb-67645a5150c1?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971248.62191,
+        "modified": 1698925202.197026,
+        "id": "650735708222640ff20e09ae",
+        "modifiedF": "2023-11-02 13:40:02",
+        "hasData": true
+      },
+      "650735727a4fb65ab20a5294": {
+        "title": "Lesson (18) ATM (Advanced Recursion)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d0cb3019-8df3-476c-92ec-3e64b6c239e8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971250.665167,
+        "modified": 1698925197.276595,
+        "id": "650735727a4fb65ab20a5294",
+        "modifiedF": "2023-11-02 13:39:57",
+        "hasData": true
+      },
+      "6507355c573e5424580dad58": {
+        "title": "Lesson (17) ATM (Advanced)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d3c1d71e-fc8a-4ba7-b62e-64dde0d1f9e6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971228.177514,
+        "modified": 1698925191.875971,
+        "id": "6507355c573e5424580dad58",
+        "modifiedF": "2023-11-02 13:39:51",
+        "hasData": true
+      },
+      "6507354003d3578226089244": {
+        "title": "Lesson (16) ATM (Basic Recursion)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7ab95ff2-0560-4730-9cce-31c718d6f6e4?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971200.743841,
+        "modified": 1698925187.076147,
+        "id": "6507354003d3578226089244",
+        "modifiedF": "2023-11-02 13:39:47",
+        "hasData": true
+      },
+      "6507351eec61705a8b08359c": {
+        "title": "Lesson (15) ATM (Basic Problem)",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_dynamic_programming",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/859c16fa-a8bc-40bb-9faf-30ed40aec48a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971166.760964,
+        "modified": 1698925180.435294,
+        "id": "6507351eec61705a8b08359c",
+        "modifiedF": "2023-11-02 13:39:40",
+        "hasData": true
+      },
+      "6507352037e2ff455305de6c": {
+        "title": "Lesson (14) Divide and Conquer Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_divide_and_conquer",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/112edaad-2345-406f-b6c4-8f5bad4f678d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971168.725626,
+        "modified": 1698925162.182499,
+        "id": "6507352037e2ff455305de6c",
+        "modifiedF": "2023-11-02 13:39:22",
+        "hasData": true
+      },
+      "6507350d1f1e946baf08ba10": {
+        "title": "Lesson (12) Merge Sort Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5ce8496d-efc6-4dff-9535-9163042018d4?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971149.344372,
+        "modified": 1698925149.536161,
+        "id": "6507350d1f1e946baf08ba10",
+        "modifiedF": "2023-11-02 13:39:09",
+        "hasData": true
+      },
+      "6507350f31f6b1c977081960": {
+        "title": "Lesson (11) Merge Sort",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e6049111-684b-4507-9ae8-d25f2ff7c4ab?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971151.4467,
+        "modified": 1698925143.885761,
+        "id": "6507350f31f6b1c977081960",
+        "modifiedF": "2023-11-02 13:39:03",
+        "hasData": true
+      },
+      "65073511d40c0f57c70cace9": {
+        "title": "Lesson (10) Selection Sort Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8df07eef-2ea3-4e65-be7f-174ef2682e63?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971153.204691,
+        "modified": 1698925139.354053,
+        "id": "65073511d40c0f57c70cace9",
+        "modifiedF": "2023-11-02 13:38:59",
+        "hasData": true
+      },
+      "6507351365b613c6be0f23e1": {
+        "title": "Lesson (9) Selection Sort",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/35457309-5238-4bc0-b2b6-620f35090d41?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971155.336219,
+        "modified": 1698925134.017687,
+        "id": "6507351365b613c6be0f23e1",
+        "modifiedF": "2023-11-02 13:38:54",
+        "hasData": true
+      },
+      "65073505c4c4ac6a7f0b05b6": {
+        "title": "Lesson (8) Bubble Sort Code",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/bd167d5a-cb26-4d55-a9d6-475c41f7f748?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971141.713069,
+        "modified": 1698925129.485211,
+        "id": "65073505c4c4ac6a7f0b05b6",
+        "modifiedF": "2023-11-02 13:38:49",
+        "hasData": true
+      },
+      "650734fcf9f39f790f052424": {
+        "title": "Lesson (7) Bubble Sort",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_sorting_algorithms",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b7451c15-2bff-4c49-919f-4abdc6c743ff?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971132.616981,
+        "modified": 1698925124.716576,
+        "id": "650734fcf9f39f790f052424",
+        "modifiedF": "2023-11-02 13:38:44",
+        "hasData": true
+      },
+      "650734f5affb783c090c3ba8": {
+        "title": "Lesson (6) Implementation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_algorithm_design_and_implementation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/16091fcd-1dd8-40bd-b8cd-cac822b0cae9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971125.878339,
+        "modified": 1698925110.94296,
+        "id": "650734f5affb783c090c3ba8",
+        "modifiedF": "2023-11-02 13:38:30",
+        "hasData": true
+      },
+      "650734e82ad53b74ab0dee14": {
+        "title": "Lesson (5) Design Algorithm",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_algorithm_design_and_implementation",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/537192d2-18fe-4653-b2d6-222a77358313?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971112.217195,
+        "modified": 1698925105.486979,
+        "id": "650734e82ad53b74ab0dee14",
+        "modifiedF": "2023-11-02 13:38:25",
+        "hasData": true
+      },
+      "650734ead3c8a3f3cb0a52aa": {
+        "title": "Lesson (4) Sieve Implementation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/341e55b3-6d67-4719-9ef1-00313f799270?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971114.111375,
+        "modified": 1698925099.658484,
+        "id": "650734ead3c8a3f3cb0a52aa",
+        "modifiedF": "2023-11-02 13:38:19",
+        "hasData": true
+      },
+      "650734ebd0777f8ed702ec02": {
+        "title": "Lesson (3) Sieve of Eratosthenes",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/0770016d-4ab5-470d-b62b-f20a8f9f5f82?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971115.764187,
+        "modified": 1698925095.302984,
+        "id": "650734ebd0777f8ed702ec02",
+        "modifiedF": "2023-11-02 13:38:15",
+        "hasData": true
+      },
+      "650734ed734de6510400c5f8": {
+        "title": "Lesson (2) Prime 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/59a90663-ebdb-4a6a-b327-685b6fbd1934\n?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971117.710111,
+        "modified": 1698925090.609239,
+        "id": "650734ed734de6510400c5f8",
+        "modifiedF": "2023-11-02 13:38:10",
+        "hasData": true
+      },
+      "650734dc48b72d662a028034": {
+        "title": "Lesson (1) Prime 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_prime_numbers",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5e0b2a7c-7229-4e4e-a379-20098f1303b8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971100.59871,
+        "modified": 1698925086.410522,
+        "id": "650734dc48b72d662a028034",
+        "modifiedF": "2023-11-02 13:38:06",
+        "hasData": true
+      },
+      "650734b5052dea305f021ccf": {
+        "title": "Introduction Video",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "algorithms",
+        "courseSection": "algor_course_introduction",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1ed03cae-ae64-4315-8f6e-e744f50f0837?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694971061.565353,
+        "modified": 1695025028.258301,
+        "id": "650734b5052dea305f021ccf",
+        "modifiedF": "2023-09-18 11:17:08",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

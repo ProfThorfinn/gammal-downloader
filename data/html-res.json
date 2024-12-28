@@ -1,0 +1,1186 @@
+{
+  "course": {
+    "title": "HTML",
+    "titleId": "html",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal web developer with our comprehensive HTML course on Gammal Tech. Learn the foundational skills of web development, including creating and structuring web pages with HTML. This course is designed to equip you with the knowledge and confidence to build engaging and professional websites. Don\u2019t miss the opportunity to enhance your career and turn your web development aspirations into reality. Enroll now and start your journey to becoming a skilled web developer!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 3,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/4210b8de895d4f3cacaf0fee85193291.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/4210b8de895d4f3cacaf0fee85193291.jpeg",
+      "name": "\/4210b8de895d4f3cacaf0fee85193291.jpeg"
+    },
+    "bgcolor": null,
+    "price": 77,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 632,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/SJenmag5bBgTbG2m9",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "html",
+      "apple_store_id": "html",
+      "slug": "gt-html"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505921.285243,
+    "modified": 1730928079.215371,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "a1f12322e1fb3e91e9ab92ac4308ed33f2fe8b9bab920363e7d4abf2353bae47",
+    "id": "65001bc11a11e77cdf0ae03c",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=html&unit=6502faa21f82e028d10f36b2Unit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "html_introduction_": {
+        "title": "HTML Introduction ",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6502faa21f82e028d10f36b2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "html_introduction_",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "html_basic_html_elements": {
+        "title": "Basic HTML Elements",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6502fb0a6277fc185909d3d9",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6503006520efb6f2f0066133",
+            "icon": "video",
+            "subtitle": "Embed",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Heading",
+            "courseTitle": "HTML",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65030067ce6895ccf80b1c66",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Heading",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65030063e7e4890cd206d5ba",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Heading",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65030060216bac42d008b918",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Heading",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6503019a8d073664320b144e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650300c15249446f940e278a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Hypertext",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650300cd566f7ccf90083fc2",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Hypertext",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "html_basic_html_elements",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "html_document_structure": {
+        "title": "Document Structure",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6503010d45cb653232042988",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6503015c001a035d5b0800e6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Table",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301635ab8a787080a7f02",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Table",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301600139aa0f070fd72e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Table",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "html_document_structure",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "html_working_with_multimedia": {
+        "title": "Working with Multimedia",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650301aa8f3eab365006f4e1",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Pictures",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301a8e5f48d6e730f8b38",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Pictures",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "html_working_with_multimedia",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "html_advanced_html": {
+        "title": "Advanced HTML",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650301c8831ac5ff5b007291",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301df1750a6b89008e122",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Semantics",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301e67e416855cf0bd022",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Semantics",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301e1e07c0c2dbc006488",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Semantics",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650301dbb2094c258f045b00",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Semantics",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650302282e72e5165a0f46d6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Semantics",
+            "courseTitle": "HTML",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c6e283267250657023734",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "html_advanced_html",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 22,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c6e273267250657023733": {
+        "title": "HTML",
+        "type": "usage_course",
+        "unitId": "661c6e283267250657023734",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "html",
+        "courseImage": "\/4210b8de895d4f3cacaf0fee85193291.jpeg",
+        "id": "html"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "6503010d45cb653232042988": {
+        "title": "Lesson (9) Table",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_document_structure",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/cdca3025-5eb0-48da-b685-26574c99e801?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695693.803182,
+        "modified": 1728761165.317156,
+        "id": "6503010d45cb653232042988",
+        "modifiedF": "2024-10-12 22:26:05",
+        "hasData": true
+      },
+      "661c6e283267250657023734": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c6e273267250657023733",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139240.065148,
+        "modified": 1713139240.065148,
+        "id": "661c6e283267250657023734",
+        "modifiedF": "2024-04-15 02:00:40",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "650302282e72e5165a0f46d6": {
+        "title": "Lesson (20) Building Gammal Tech website",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6834308e-0c81-47b7-bf5b-d95f64fa9e7e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695976.677336,
+        "modified": 1699185629.380181,
+        "id": "650302282e72e5165a0f46d6",
+        "modifiedF": "2023-11-05 14:00:29",
+        "hasData": true
+      },
+      "650301dbb2094c258f045b00": {
+        "title": "Lesson (19) Radio Buttons and Checkboxes",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d6809513-d0d7-4bbd-8913-691b0ad1cb5d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695899.813202,
+        "modified": 1699185618.582455,
+        "id": "650301dbb2094c258f045b00",
+        "modifiedF": "2023-11-05 14:00:18",
+        "hasData": true
+      },
+      "650301e1e07c0c2dbc006488": {
+        "title": "Lesson (18) Advanced Form Techniques",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8e60de70-e194-481f-b591-3cd3136e8411?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695905.951697,
+        "modified": 1699185612.217003,
+        "id": "650301e1e07c0c2dbc006488",
+        "modifiedF": "2023-11-05 14:00:12",
+        "hasData": true
+      },
+      "650301e67e416855cf0bd022": {
+        "title": "Lesson (17) Building Basic Forms",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1d9e6e82-9039-444b-9ed6-76db3afdaaa9?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695910.673378,
+        "modified": 1699185605.493553,
+        "id": "650301e67e416855cf0bd022",
+        "modifiedF": "2023-11-05 14:00:05",
+        "hasData": true
+      },
+      "650301df1750a6b89008e122": {
+        "title": "Lesson (16) Creating HTML Forms",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e0b63147-b834-4d4e-9a78-3bf5fd71c7ed?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695903.289838,
+        "modified": 1699185601.081792,
+        "id": "650301df1750a6b89008e122",
+        "modifiedF": "2023-11-05 14:00:01",
+        "hasData": true
+      },
+      "650301c8831ac5ff5b007291": {
+        "title": "Lesson (15) Semantics",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_advanced_html",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b96b8199-1dff-4569-844a-5a3da5b1696f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695880.780279,
+        "modified": 1699185590.865956,
+        "id": "650301c8831ac5ff5b007291",
+        "modifiedF": "2023-11-05 13:59:50",
+        "hasData": true
+      },
+      "650301a8e5f48d6e730f8b38": {
+        "title": "Lesson (14) Audio",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_working_with_multimedia",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2db4d53b-9613-4770-8db1-abcaa8982dbd?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695848.054197,
+        "modified": 1699185585.492128,
+        "id": "650301a8e5f48d6e730f8b38",
+        "modifiedF": "2023-11-05 13:59:45",
+        "hasData": true
+      },
+      "650301aa8f3eab365006f4e1": {
+        "title": "Lesson (13) Video",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_working_with_multimedia",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/badfc466-c204-4576-b7d2-3f6011b93a9c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695850.388191,
+        "modified": 1699185580.492314,
+        "id": "650301aa8f3eab365006f4e1",
+        "modifiedF": "2023-11-05 13:59:40",
+        "hasData": true
+      },
+      "650301600139aa0f070fd72e": {
+        "title": "Lesson (12) Lists",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_document_structure",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/6843aa33-d4b0-41f4-929e-0f3ba7d4d52e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695776.667143,
+        "modified": 1699185574.899047,
+        "id": "650301600139aa0f070fd72e",
+        "modifiedF": "2023-11-05 13:59:34",
+        "hasData": true
+      },
+      "650301635ab8a787080a7f02": {
+        "title": "Lesson (11) Caption",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_document_structure",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1c4e0a82-9eef-4bfd-b67d-03cf54fd9478?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695779.977878,
+        "modified": 1699185565.56461,
+        "id": "650301635ab8a787080a7f02",
+        "modifiedF": "2023-11-05 13:59:25",
+        "hasData": true
+      },
+      "6503015c001a035d5b0800e6": {
+        "title": "Lesson (10) Merge",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_document_structure",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/f5bdd885-d6c4-4dcb-b953-752a45138eeb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695772.191949,
+        "modified": 1699185560.694857,
+        "id": "6503015c001a035d5b0800e6",
+        "modifiedF": "2023-11-05 13:59:20",
+        "hasData": true
+      },
+      "650300cd566f7ccf90083fc2": {
+        "title": "Lesson (8) Head",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/4eb7c3e2-3daa-4452-ad28-c9b37324e1e7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695629.970917,
+        "modified": 1699185433.962282,
+        "id": "650300cd566f7ccf90083fc2",
+        "modifiedF": "2023-11-05 13:57:13",
+        "hasData": true
+      },
+      "650300c15249446f940e278a": {
+        "title": "Lesson (7) index.html",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8091458c-2119-4fb0-ae49-8c2432c103a2?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695617.614923,
+        "modified": 1699185430.372443,
+        "id": "650300c15249446f940e278a",
+        "modifiedF": "2023-11-05 13:57:10",
+        "hasData": true
+      },
+      "6503019a8d073664320b144e": {
+        "title": "Lesson (6) Pictures",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/092f61ef-a055-400d-b07d-8cbe99cfd729?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695834.328536,
+        "modified": 1699185426.364434,
+        "id": "6503019a8d073664320b144e",
+        "modifiedF": "2023-11-05 13:57:06",
+        "hasData": true
+      },
+      "65030060216bac42d008b918": {
+        "title": "Lesson (5) Hypertext",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/87734cd7-b7e7-4b81-b4c3-462923bcecc1?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695520.899023,
+        "modified": 1699185421.81267,
+        "id": "65030060216bac42d008b918",
+        "modifiedF": "2023-11-05 13:57:01",
+        "hasData": true
+      },
+      "65030063e7e4890cd206d5ba": {
+        "title": "Lesson (4) Text",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/58cdbdf2-d5da-41ea-8d64-00aeea5de38e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695523.255455,
+        "modified": 1699185417.296194,
+        "id": "65030063e7e4890cd206d5ba",
+        "modifiedF": "2023-11-05 13:56:57",
+        "hasData": true
+      },
+      "65030067ce6895ccf80b1c66": {
+        "title": "Lesson (3) Paragraph",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e159f97a-4051-4820-963c-ec391fbfc6f7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695527.642793,
+        "modified": 1699185411.052903,
+        "id": "65030067ce6895ccf80b1c66",
+        "modifiedF": "2023-11-05 13:56:51",
+        "hasData": true
+      },
+      "6503006520efb6f2f0066133": {
+        "title": "Lesson (2) Heading",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/14e354f7-d709-47fb-812e-634976cacb02?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694695525.327221,
+        "modified": 1699185406.240541,
+        "id": "6503006520efb6f2f0066133",
+        "modifiedF": "2023-11-05 13:56:46",
+        "hasData": true
+      },
+      "6502fb0a6277fc185909d3d9": {
+        "title": "Lesson (1) Tags",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_basic_html_elements",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/05050493-d209-4a8a-b7dc-6739874eecae?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694694154.721117,
+        "modified": 1699185402.049654,
+        "id": "6502fb0a6277fc185909d3d9",
+        "modifiedF": "2023-11-05 13:56:42",
+        "hasData": true
+      },
+      "6502faa21f82e028d10f36b2": {
+        "title": "Introduction to HTML",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "html",
+        "courseSection": "html_introduction_",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/96a6c907-edc5-4f0c-a797-36ffafd4622f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694694050.031096,
+        "modified": 1694935067.519359,
+        "id": "6502faa21f82e028d10f36b2",
+        "modifiedF": "2023-09-17 10:17:47",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

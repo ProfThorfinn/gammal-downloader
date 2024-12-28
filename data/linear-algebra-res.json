@@ -1,0 +1,1919 @@
+{
+  "course": {
+    "title": "Linear Algebra \u0627\u0644\u062c\u0628\u0631 \u0627\u0644\u062e\u0637\u064a",
+    "titleId": "linear-algebra",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "\u0627\u0644\u062c\u0628\u0631 \u0627\u0644\u062e\u0637\u064a \u0647\u0648 \u0641\u0631\u0639 \u0645\u0646 \u0627\u0644\u0631\u064a\u0627\u0636\u064a\u0627\u062a\u060c \u064a\u064f\u0633\u062a\u062e\u062f\u0645 \u0627\u0644\u062c\u0628\u0631 \u0627\u0644\u062e\u0637\u064a \u0628\u0634\u0643\u0644 \u0648\u0627\u0633\u0639 \u0641\u064a \u0645\u0639\u0627\u0644\u062c\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u062a\u062d\u0644\u064a\u0644\u0647\u0627\u060c \u0648\u062e\u0627\u0635\u0629 \u0641\u064a \u062a\u0637\u0648\u064a\u0631 \u0627\u0644\u062e\u0648\u0627\u0631\u0632\u0645\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u0639\u0644\u0642\u0629 \u0628\u0627\u0644\u062a\u0639\u0644\u0645 \u0627\u0644\u0622\u0644\u064a \u0648\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a. \u064a\u062a\u064a\u062d \u0627\u0644\u062c\u0628\u0631 \u0627\u0644\u062e\u0637\u064a \u0644\u0644\u0645\u0628\u0631\u0645\u062c\u064a\u0646 \u0627\u0644\u062a\u0639\u0627\u0645\u0644 \u0645\u0639 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0628\u0643\u0641\u0627\u0621\u0629 \u0645\u0646 \u062e\u0644\u0627\u0644 \u0627\u0644\u0639\u0645\u0644\u064a\u0627\u062a \u0627\u0644\u062d\u0633\u0627\u0628\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u0645\u0635\u0641\u0648\u0641\u0627\u062a \u0648\u0627\u0644\u0645\u062a\u062c\u0647\u0627\u062a.",
+    "goals": null,
+    "points": null,
+    "authors": [],
+    "quotes": null,
+    "order": null,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/430bd108e311b663dcb1ff12adccf724.png?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/430bd108e311b663dcb1ff12adccf724.png",
+      "name": "\/430bd108e311b663dcb1ff12adccf724.png"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 590,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/cRg1v6A89gFpeRqU7",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "free",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": false,
+      "wrappedSectionTitles": false,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      }
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "linear_algebra",
+      "apple_store_id": "linear_algebra",
+      "slug": "linear-algebra"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1725391053.319526,
+    "modified": 1732205361.426871,
+    "customMetadata": null,
+    "user": {
+      "id": "64feadd69c9acdc9870a67ba",
+      "username": "AbdurRahman ElGammal"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "13c033d15383d7304a85e18a1ab0c260eb92a63eb9a89dadfe10d4e5d7e06b38",
+    "id": "66d760cd757a37ac6103bc33",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=linear-algebra&unit=66d77339da68a5aac7052c37Unit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "linea_intro": {
+        "title": "Intro",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d77339da68a5aac7052c37",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "672b657ba85d497c5d0f728b",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_intro",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_getting_started": {
+        "title": "Getting Started",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d7737a4f8bcd2f7000d463",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "672b65edc4f07cc2b60812d4",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d7739cdaa14cd0170446a0",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "673568bfddcbfa6077057162",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d773b9754670732503f607",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "673f5a8a373a88c89d061db8",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d773d88803189f3e00e1e7",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "673569503e60812921092df5",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d773f51cdb76a112067293",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "673f09c6fc738786e70d6744",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d7741c21e91b83ce087e2d",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "673f5adef575db1a340c4f7e",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d7743a0eee90bd46032a94",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "pdf",
+            "id": "673f5b0ad1a4e5d241044ee4",
+            "icon": "pdf",
+            "subtitle": "pdf",
+            "attachments": false,
+            "image": "",
+            "unitTitle": "Untitled",
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_getting_started",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_vector_intro": {
+        "title": "Vectors Intro",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d77480959bc1850a0bab73",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_vector_intro",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_vectors": {
+        "title": "Vectors",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d775709b0b03a67a06e87f",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d775b1b3accca68d042515",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d775cc4972b958d50c4072",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_vectors",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_determinants_intro": {
+        "title": "Determinants Intro",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d77627bc02cb06690954ac",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_determinants_intro",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_determinants": {
+        "title": "Determinants",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d77654683727ef5905b86d",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d776997393bee6da0e19c3",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d776d6bcd047020207b109",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded64161f18e9a8e0da481",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded68c6eeaffb5080edcb7",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded69887298705a904eb22",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded6a55f4b4e4f2c09ade6",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded6b106703d6b820ce812",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded6be55ed8a7c2d054fc2",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded6ced08b3fcd10023a72",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66ded6d966c004f1a40e7a3d",
+            "icon": "video",
+            "subtitle": "video",
+            "image": "",
+            "unitTitle": "Untitled",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_determinants",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_more_about_vectors": {
+        "title": "More about Vectors",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "ivideo",
+            "id": "66d777e655e1aa89f507a3d7",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d77816718d5082200a0e85",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d7785ee2038fb1a9023524",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "ivideo",
+            "id": "66d7789d70c2bbdaca02bd4b",
+            "icon": "video",
+            "subtitle": "video",
+            "attachments": false,
+            "image": "",
+            "isPrerequisite": false,
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_more_about_vectors",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "linea_certification": {
+        "title": "Certification",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "certificateCompletion_v2",
+            "id": "66fd9083760da7da310fdbeb",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "linea_certification",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 37,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "66fd9083760da7da310fdbea": {
+        "title": "Linear Algebra \u0627\u0644\u062c\u0628\u0631 \u0627\u0644\u062e\u0637\u064a",
+        "type": "usage_course",
+        "unitId": "66fd9083760da7da310fdbeb",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "linear-algebra",
+        "courseImage": "\/430bd108e311b663dcb1ff12adccf724.png",
+        "id": "linear-algebra"
+      }
+    },
+    "videos": {
+      "66ded64161f18e9a8e0da481": {
+        "title": "NxN Matrix Determinant",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1850,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94ea71a84f0f9089ad3",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725879873.380105,
+        "modified": 1725881663.773803,
+        "id": "66ded64161f18e9a8e0da481",
+        "modifiedF": "2024-09-09 14:34:23",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded6d966c004f1a40e7a3d": {
+        "title": "Inverse of an NxN Matrix 2 (Code)",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1982,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94e89effcfd38097023",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725880025.30989,
+        "modified": 1725881638.928501,
+        "id": "66ded6d966c004f1a40e7a3d",
+        "modifiedF": "2024-09-09 14:33:58",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded6ced08b3fcd10023a72": {
+        "title": "Inverse of an NxN Matrix 2",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1249,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94e30c0cc920905b530",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725880014.072159,
+        "modified": 1725881623.403362,
+        "id": "66ded6ced08b3fcd10023a72",
+        "modifiedF": "2024-09-09 14:33:43",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded6be55ed8a7c2d054fc2": {
+        "title": "Algorithm Advanced Determinant Method",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 479,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94e1d76619fbd04914b",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725879998.923809,
+        "modified": 1725881609.083385,
+        "id": "66ded6be55ed8a7c2d054fc2",
+        "modifiedF": "2024-09-09 14:33:29",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded6b106703d6b820ce812": {
+        "title": "Advanced Determinant Method",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 704,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94ea68ab94d660e35bb",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725879985.797451,
+        "modified": 1725881592.129646,
+        "id": "66ded6b106703d6b820ce812",
+        "modifiedF": "2024-09-09 14:33:12",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded6a55f4b4e4f2c09ade6": {
+        "title": "Algorithm NxN Matrix Inverse",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 920,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94e1eff0b22fb06aaf3",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725879973.806887,
+        "modified": 1725881576.077287,
+        "id": "66ded6a55f4b4e4f2c09ade6",
+        "modifiedF": "2024-09-09 14:32:56",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded69887298705a904eb22": {
+        "title": "Inverse of NxN Matrix",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1010,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94ecd855bea5301c259",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725879960.79636,
+        "modified": 1725881554.151273,
+        "id": "66ded69887298705a904eb22",
+        "modifiedF": "2024-09-09 14:32:34",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66ded68c6eeaffb5080edcb7": {
+        "title": "Algorithm NxN Matrix Determinant",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1824,
+        "videoebookLink": null,
+        "videoLibraryId": "66dec94e97f060ca6e02982b",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725879948.217505,
+        "modified": 1725881460.507977,
+        "id": "66ded68c6eeaffb5080edcb7",
+        "modifiedF": "2024-09-09 14:31:00",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d7789d70c2bbdaca02bd4b": {
+        "title": "Basis",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 357,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c3606848f3f8805bcf4",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725397149.285018,
+        "modified": 1725397162.465521,
+        "id": "66d7789d70c2bbdaca02bd4b",
+        "modifiedF": "2024-09-03 23:59:22",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d7785ee2038fb1a9023524": {
+        "title": "Write the C++ Code",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 534,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c362503f004a00d7624",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725397086.032637,
+        "modified": 1725397093.009275,
+        "id": "66d7785ee2038fb1a9023524",
+        "modifiedF": "2024-09-03 23:58:13",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d77816718d5082200a0e85": {
+        "title": "Span",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1295,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c36d3d7f5bee902c5a2",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725397014.68606,
+        "modified": 1725397021.580386,
+        "id": "66d77816718d5082200a0e85",
+        "modifiedF": "2024-09-03 23:57:01",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d777e655e1aa89f507a3d7": {
+        "title": "Vector Space",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 864,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c3654fd28df6505fa33",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396966.80491,
+        "modified": 1725396974.696919,
+        "id": "66d777e655e1aa89f507a3d7",
+        "modifiedF": "2024-09-03 23:56:14",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d776d6bcd047020207b109": {
+        "title": "Matrix Inverse",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1222,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c1074732b90ea0704f3",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396694.096514,
+        "modified": 1725396712.426026,
+        "id": "66d776d6bcd047020207b109",
+        "modifiedF": "2024-09-03 23:51:52",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d77654683727ef5905b86d": {
+        "title": "2x2 Determinants",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 537,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c104a1446879c00b116",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396564.544095,
+        "modified": 1725396664.098104,
+        "id": "66d77654683727ef5905b86d",
+        "modifiedF": "2024-09-03 23:51:04",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d776997393bee6da0e19c3": {
+        "title": "Algorithm 2x2 Determinants",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 333,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c10ce23cd8b5a02067e",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396633.233901,
+        "modified": 1725396642.874341,
+        "id": "66d776997393bee6da0e19c3",
+        "modifiedF": "2024-09-03 23:50:42",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d77627bc02cb06690954ac": {
+        "title": "Introduction to Determinants",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 844,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76c106437db138109dcbe",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396519.473086,
+        "modified": 1725396526.902807,
+        "id": "66d77627bc02cb06690954ac",
+        "modifiedF": "2024-09-03 23:48:46",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d775cc4972b958d50c4072": {
+        "title": "Matrices As Linear Transformation",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1054,
+        "videoebookLink": null,
+        "videoLibraryId": "66d766914801d9990a00d632",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396428.465587,
+        "modified": 1725396438.104074,
+        "id": "66d775cc4972b958d50c4072",
+        "modifiedF": "2024-09-03 23:47:18",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d775b1b3accca68d042515": {
+        "title": "Vectors In R3",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1380,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76691f702544517032c22",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396401.947626,
+        "modified": 1725396410.470612,
+        "id": "66d775b1b3accca68d042515",
+        "modifiedF": "2024-09-03 23:46:50",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d775709b0b03a67a06e87f": {
+        "title": "Vectors In R2",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 2253,
+        "videoebookLink": null,
+        "videoLibraryId": "66d76691a366a2648d0b23ae",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396336.74113,
+        "modified": 1725396348.719647,
+        "id": "66d775709b0b03a67a06e87f",
+        "modifiedF": "2024-09-03 23:45:48",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d77480959bc1850a0bab73": {
+        "title": "Introduction to Vectors",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 545,
+        "videoebookLink": null,
+        "videoLibraryId": "66d7669188f172a71f0c3ff4",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396096.277433,
+        "modified": 1725396115.997828,
+        "id": "66d77480959bc1850a0bab73",
+        "modifiedF": "2024-09-03 23:41:55",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d7743a0eee90bd46032a94": {
+        "title": "Algorithm Matrix Operations",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 945,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ed6274dc17ce035603",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725396026.368499,
+        "modified": 1725396036.755662,
+        "id": "66d7743a0eee90bd46032a94",
+        "modifiedF": "2024-09-03 23:40:36",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d7741c21e91b83ce087e2d": {
+        "title": "Matrix Operations",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1736,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760edd465a0620f0cf7b2",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395996.651749,
+        "modified": 1725396011.164,
+        "id": "66d7741c21e91b83ce087e2d",
+        "modifiedF": "2024-09-03 23:40:11",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d773f51cdb76a112067293": {
+        "title": "Algorithm Gauss Jorden Elimination",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 488,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ed79c30a7ccb025bf6",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395957.265722,
+        "modified": 1725395976.227897,
+        "id": "66d773f51cdb76a112067293",
+        "modifiedF": "2024-09-03 23:39:36",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d773d88803189f3e00e1e7": {
+        "title": "Gauss Jorden Elimination",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 1070,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ed7f76b025f9079e79",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395928.792254,
+        "modified": 1725395937.43336,
+        "id": "66d773d88803189f3e00e1e7",
+        "modifiedF": "2024-09-03 23:38:57",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d773b9754670732503f607": {
+        "title": "Algorithm-Gaussian Elimination",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 753,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ed96f63ef33d011454",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395897.965643,
+        "modified": 1725395909.57202,
+        "id": "66d773b9754670732503f607",
+        "modifiedF": "2024-09-03 23:38:29",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d7739cdaa14cd0170446a0": {
+        "title": "Gaussian Elimination",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 2434,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ede451006481008555",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395868.252729,
+        "modified": 1725395879.523107,
+        "id": "66d7739cdaa14cd0170446a0",
+        "modifiedF": "2024-09-03 23:37:59",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d7737a4f8bcd2f7000d463": {
+        "title": "What Is Linear System?",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 2237,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ec2604baed260f3c67",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395834.930535,
+        "modified": 1725395849.707572,
+        "id": "66d7737a4f8bcd2f7000d463",
+        "modifiedF": "2024-09-03 23:37:29",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      },
+      "66d77339da68a5aac7052c37": {
+        "title": "Introduction",
+        "courseId": "66d760cd757a37ac6103bc33",
+        "description": "",
+        "image": null,
+        "fonts": null,
+        "videoHeadings": null,
+        "vimeoid": "",
+        "sourceid": "",
+        "duration": 235,
+        "videoebookLink": null,
+        "videoLibraryId": "66d760ec4d32467d690ccb2d",
+        "courseLibraryVideoId": "",
+        "disablePlayer": null,
+        "access": "public",
+        "type": "wistia",
+        "disableWatermark": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1725395769.27691,
+        "modified": 1725395783.165242,
+        "id": "66d77339da68a5aac7052c37",
+        "modifiedF": "2024-09-03 23:36:23",
+        "objectType": "ivideo",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false
+      }
+    },
+    "ebooks": [],
+    "objects": {
+      "673f5b0ad1a4e5d241044ee4": {
+        "title": "Arabic Documentation (Algorithm Matrix Operations)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Algorithm Matrix operations.pdf",
+          "pages": "5",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Algorithm Matrix operations.pdf",
+          "pdf_name": "Algorithm Matrix operations.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1732205322.238539,
+        "modified": 1732205360.44679,
+        "id": "673f5b0ad1a4e5d241044ee4",
+        "modifiedF": "2024-11-21 18:09:20",
+        "hasData": true
+      },
+      "673f5adef575db1a340c4f7e": {
+        "title": "Arabic Documentation (Matrix Operations)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Matrix Operations.pdf",
+          "pages": "9",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Matrix Operations.pdf",
+          "pdf_name": "Matrix Operations.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1732205278.404695,
+        "modified": 1732205314.797973,
+        "id": "673f5adef575db1a340c4f7e",
+        "modifiedF": "2024-11-21 18:08:34",
+        "hasData": true
+      },
+      "673f5a8a373a88c89d061db8": {
+        "title": "Arabic Documentation (Algorithm Gaussian Elimination)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Algorithm-Gaussian Elimination.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Algorithm-Gaussian Elimination.pdf",
+          "pdf_name": "Algorithm-Gaussian Elimination.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1732205194.774694,
+        "modified": 1732205233.127608,
+        "id": "673f5a8a373a88c89d061db8",
+        "modifiedF": "2024-11-21 18:07:13",
+        "hasData": true
+      },
+      "673f09c6fc738786e70d6744": {
+        "title": "Arabic Documentation (Algorithm Gauss Jorden Elimination)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Algorithm Gauss Jorden Elimination.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Algorithm Gauss Jorden Elimination.pdf",
+          "pdf_name": "Algorithm Gauss Jorden Elimination.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1732184518.31497,
+        "modified": 1732184554.140378,
+        "id": "673f09c6fc738786e70d6744",
+        "modifiedF": "2024-11-21 12:22:34",
+        "hasData": true
+      },
+      "673569503e60812921092df5": {
+        "title": "Arabic Documentation (Gauss Jorden Elimination)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Gauss Jorden Elimination.pdf",
+          "pages": "6",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Gauss Jorden Elimination.pdf",
+          "pdf_name": "Gauss Jorden Elimination.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1731553616.699538,
+        "modified": 1731553654.875826,
+        "id": "673569503e60812921092df5",
+        "modifiedF": "2024-11-14 05:07:34",
+        "hasData": true
+      },
+      "673568bfddcbfa6077057162": {
+        "title": "Arabic Documentation (Gaussian Elimination)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Arabic Documentation Gaussian Elimination.pdf",
+          "pages": "12",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Arabic Documentation Gaussian Elimination.pdf",
+          "pdf_name": "Arabic Documentation Gaussian Elimination.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1731553471.475847,
+        "modified": 1731553513.532021,
+        "id": "673568bfddcbfa6077057162",
+        "modifiedF": "2024-11-14 05:05:13",
+        "hasData": true
+      },
+      "672b65edc4f07cc2b60812d4": {
+        "title": "Arabic Documentation (What is Linear System?)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_getting_started",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Arabic Document what is linear system.pdf",
+          "pages": "16",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Arabic Document what is linear system.pdf",
+          "pdf_name": "Arabic Document what is linear system.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1730897389.20297,
+        "modified": 1730897425.822126,
+        "id": "672b65edc4f07cc2b60812d4",
+        "modifiedF": "2024-11-06 14:50:25",
+        "hasData": true
+      },
+      "672b657ba85d497c5d0f728b": {
+        "title": "Arabic Documentation (Introduction)",
+        "model": null,
+        "objectType": "pdf",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_intro",
+        "description": "",
+        "image": null,
+        "data": {
+          "pdf": "pdf\/Arabic Document Introduction.pdf",
+          "pages": "3",
+          "default": true,
+          "pdf_full": "https:\/\/api.us-e2.learnworlds.com\/unlock\/file?lw_client=64f9d95d01ac55bf5644ea7a&access_token=gEyuuP1LWJEVv0haeLZ62aNJ1PRtODAlyXFKMzcY&file=pdf\/Arabic Document Introduction.pdf",
+          "pdf_name": "Arabic Document Introduction.pdf"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1730897275.677889,
+        "modified": 1730897292.096491,
+        "id": "672b657ba85d497c5d0f728b",
+        "modifiedF": "2024-11-06 14:48:12",
+        "hasData": true
+      },
+      "66fd9083760da7da310fdbeb": {
+        "title": "Certificate of Compilation",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "linear-algebra",
+        "courseSection": "linea_certification",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "66fd9083760da7da310fdbea",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1727893635.506411,
+        "modified": 1727893635.506411,
+        "id": "66fd9083760da7da310fdbeb",
+        "modifiedF": "2024-10-02 21:27:15",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

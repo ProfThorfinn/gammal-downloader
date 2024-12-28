@@ -1,0 +1,1473 @@
+{
+  "course": {
+    "title": "Entrepreneurship",
+    "titleId": "entrepreneurship",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Discover your internal entrepreneurial potential with our transformative Entrepreneurship course on Gammal Tech. Learn essential business skills, innovative strategies, and practical insights needed to start and grow your own successful business. This course is designed to empower you with the knowledge and confidence to become a visionary leader in the business world. Don\u2019t miss the opportunity to elevate your career and turn your entrepreneurial dreams into reality. Enroll now and embark on your journey to success!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 7,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/d48941df917138b3e4cf01d2092d7486.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/d48941df917138b3e4cf01d2092d7486.jpeg",
+      "name": "\/d48941df917138b3e4cf01d2092d7486.jpeg"
+    },
+    "bgcolor": null,
+    "price": 9,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 632,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/nYiq1EjLynHAMTvc8",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": false,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "entrepreneurship",
+      "apple_store_id": "entrepreneurship",
+      "slug": "entrepreneurship"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505819.533037,
+    "modified": 1733662022.818879,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "0374e9fc2a3aaaa304675cb35ee6a81f01b78158e1b3a8626bbafe3263ec80f3",
+    "id": "65001b5b37795384d40aa348",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=entrepreneurship&unit=650706b6b6ad0a4b3005aceeUnit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "entre_introduction_to_entrepreneurship": {
+        "title": "Introduction to Entrepreneurship",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650706b6b6ad0a4b3005acee",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "entre_introduction_to_entrepreneurship",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "entre_mindset_and_technology": {
+        "title": "Mindset and Technology",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650706e55e61a5b56303553e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070912608a953be80f606c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070708df66124d2408cf8e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507070d54fca1dcea0ff8e0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507070bce7159e15201c6a6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "entre_mindset_and_technology",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "entre_mentoring_and_challenges": {
+        "title": "Mentoring and Challenges",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507072d1469ed0e1c055672",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070758ea114626ea04b4fc",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507073806266fc74d01c4c0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "entre_mentoring_and_challenges",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "entre__longterm_success": {
+        "title": " Long-Term Success",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "65070737239befd19a0d939e",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507077dcb0aa2231208d3e6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070780bbe0c21f470302d5",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650707d922ed9a8ba705fca6",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650707d7aacc30c03f03a579",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650707e05f30a8df29001742",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "entre__longterm_success",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "entre_entrepreneurship_steps": {
+        "title": "Entrepreneurship Steps",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "650707fcfd35953ac004a7ac",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650708096c49eb0d1009ab4a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070819406feab3bc0d0932",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070816288703c42706c8f8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070813b708598e8206ad9c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507080dbd1283c7c309cdb8",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "entre_entrepreneurship_steps",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "entre_entrepreneurship_qa": {
+        "title": "Entrepreneurship Q&A",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6507083f832b8c0a350f5940",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507085370b752143702df3c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650708565416eacf3706ec40",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6507085dd41a1533c00bb095",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070860ef8ba9c7fe0392aa",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070864c6a80bd86b047242",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "65070859fc0f2e9b66021b50",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "650708852b27c5dcec0f61d0",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to Python",
+            "courseTitle": "Python",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c709c7bf2bfb7cc0580f6",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "entre_entrepreneurship_qa",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 30,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c709c7bf2bfb7cc0580f5": {
+        "title": "Entrepreneurship",
+        "type": "usage_course",
+        "unitId": "661c709c7bf2bfb7cc0580f6",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "entrepreneurship",
+        "courseImage": "\/d48941df917138b3e4cf01d2092d7486.jpeg",
+        "id": "entrepreneurship"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "661c709c7bf2bfb7cc0580f6": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c709c7bf2bfb7cc0580f5",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139868.539201,
+        "modified": 1713139868.539201,
+        "id": "661c709c7bf2bfb7cc0580f6",
+        "modifiedF": "2024-04-15 02:11:08",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "650708852b27c5dcec0f61d0": {
+        "title": "Lesson (29) Entrepreneurship Q&A 7",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/31d7b325-c1c2-41a6-b01c-53cc4cb6ea1a?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959749.094333,
+        "modified": 1699182396.536112,
+        "id": "650708852b27c5dcec0f61d0",
+        "modifiedF": "2023-11-05 13:06:36",
+        "hasData": true
+      },
+      "65070859fc0f2e9b66021b50": {
+        "title": "Lesson (28) Entrepreneurship Q&A 6",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/aaa642e0-4ddf-4149-982f-16ca48f657bb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959705.826268,
+        "modified": 1699182391.455598,
+        "id": "65070859fc0f2e9b66021b50",
+        "modifiedF": "2023-11-05 13:06:31",
+        "hasData": true
+      },
+      "65070864c6a80bd86b047242": {
+        "title": "Lesson (27) Entrepreneurship Q&A 5",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/cd1610de-451f-4ee3-892e-bef0fa67b0b7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959716.768854,
+        "modified": 1699182387.420464,
+        "id": "65070864c6a80bd86b047242",
+        "modifiedF": "2023-11-05 13:06:27",
+        "hasData": true
+      },
+      "65070860ef8ba9c7fe0392aa": {
+        "title": "Lesson (26) Entrepreneurship Q&A 4",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c701dbec-1e20-4428-8851-0f75fb165eef?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959712.97821,
+        "modified": 1699182382.513961,
+        "id": "65070860ef8ba9c7fe0392aa",
+        "modifiedF": "2023-11-05 13:06:22",
+        "hasData": true
+      },
+      "6507085dd41a1533c00bb095": {
+        "title": "Lesson (25) Entrepreneurship Q&A 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c9d49fc8-4e88-47b7-a3a8-01b08b0a4c74?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959709.024612,
+        "modified": 1699182378.939676,
+        "id": "6507085dd41a1533c00bb095",
+        "modifiedF": "2023-11-05 13:06:18",
+        "hasData": true
+      },
+      "650708565416eacf3706ec40": {
+        "title": "Lesson (24) Entrepreneurship Q&A 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7440db3d-7588-408f-86c7-04a95fae8a51?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959702.489729,
+        "modified": 1699182373.043606,
+        "id": "650708565416eacf3706ec40",
+        "modifiedF": "2023-11-05 13:06:13",
+        "hasData": true
+      },
+      "6507085370b752143702df3c": {
+        "title": "Lesson (23) Entrepreneurship Q&A 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/76238034-a2a2-4098-8ff4-b895a286d0d8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959699.448249,
+        "modified": 1699182368.232522,
+        "id": "6507085370b752143702df3c",
+        "modifiedF": "2023-11-05 13:06:08",
+        "hasData": true
+      },
+      "6507083f832b8c0a350f5940": {
+        "title": "Lesson (22) Entrepreneurship Q&A Intro",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_qa",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/9bd15af0-f4f7-41dc-9e36-e24d438f894d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959679.831147,
+        "modified": 1699182363.079354,
+        "id": "6507083f832b8c0a350f5940",
+        "modifiedF": "2023-11-05 13:06:03",
+        "hasData": true
+      },
+      "6507080dbd1283c7c309cdb8": {
+        "title": "Lesson (21) Entrepreneurship Summary",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_steps",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/50f2c637-a515-4b1a-ad14-a58bf2510894?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959629.984776,
+        "modified": 1699182350.252465,
+        "id": "6507080dbd1283c7c309cdb8",
+        "modifiedF": "2023-11-05 13:05:50",
+        "hasData": true
+      },
+      "65070813b708598e8206ad9c": {
+        "title": "Lesson (20) Entrepreneurship Step 5",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_steps",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e4baeb7a-62eb-4262-bc37-873c0185483e?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959635.473187,
+        "modified": 1699182337.074746,
+        "id": "65070813b708598e8206ad9c",
+        "modifiedF": "2023-11-05 13:05:37",
+        "hasData": true
+      },
+      "65070816288703c42706c8f8": {
+        "title": "Lesson (19) Entrepreneurship Step 4",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_steps",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e840de8f-725c-4ac2-9d62-443039a727d6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959638.670582,
+        "modified": 1699182332.008722,
+        "id": "65070816288703c42706c8f8",
+        "modifiedF": "2023-11-05 13:05:32",
+        "hasData": true
+      },
+      "65070819406feab3bc0d0932": {
+        "title": "Lesson (18) Entrepreneurship Step 3",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_steps",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/22238562-0c66-4794-8b25-c02bb2c5fd2b?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959641.383112,
+        "modified": 1699182328.611837,
+        "id": "65070819406feab3bc0d0932",
+        "modifiedF": "2023-11-05 13:05:28",
+        "hasData": true
+      },
+      "650708096c49eb0d1009ab4a": {
+        "title": "Lesson (17) Entrepreneurship Step 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_steps",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c467a7b9-fcc0-4583-8998-0fdd54428754?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959625.076628,
+        "modified": 1699182323.838558,
+        "id": "650708096c49eb0d1009ab4a",
+        "modifiedF": "2023-11-05 13:05:23",
+        "hasData": true
+      },
+      "650707fcfd35953ac004a7ac": {
+        "title": "Lesson (16) Entrepreneurship Step 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_entrepreneurship_steps",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/35faff24-caaa-4cdc-86d4-7edf19b27656?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959612.702494,
+        "modified": 1699182317.025409,
+        "id": "650707fcfd35953ac004a7ac",
+        "modifiedF": "2023-11-05 13:05:17",
+        "hasData": true
+      },
+      "650707e05f30a8df29001742": {
+        "title": "Lesson (15) Salaries",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre__longterm_success",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/7721a252-4525-4c68-a930-c8f40a8d9d22?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959584.661241,
+        "modified": 1699182301.30378,
+        "id": "650707e05f30a8df29001742",
+        "modifiedF": "2023-11-05 13:05:01",
+        "hasData": true
+      },
+      "650707d7aacc30c03f03a579": {
+        "title": "Lesson (14) Trend",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre__longterm_success",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/e8900309-c9f9-4392-bebd-e37d5bc2c31f?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959575.3507,
+        "modified": 1699182295.717332,
+        "id": "650707d7aacc30c03f03a579",
+        "modifiedF": "2023-11-05 13:04:55",
+        "hasData": true
+      },
+      "650707d922ed9a8ba705fca6": {
+        "title": "Lesson (13) Last Forever",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre__longterm_success",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/899c0bc0-6892-4e12-bc21-4857678f464c?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959577.502058,
+        "modified": 1699182290.45174,
+        "id": "650707d922ed9a8ba705fca6",
+        "modifiedF": "2023-11-05 13:04:50",
+        "hasData": true
+      },
+      "65070780bbe0c21f470302d5": {
+        "title": "Lesson (12) Protect Your Name",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre__longterm_success",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/49ca333d-e900-4438-a2d5-15bcea4dfb76?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959488.607628,
+        "modified": 1699182285.948014,
+        "id": "65070780bbe0c21f470302d5",
+        "modifiedF": "2023-11-05 13:04:45",
+        "hasData": true
+      },
+      "6507077dcb0aa2231208d3e6": {
+        "title": "Lesson (11) Success First, Money Second",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre__longterm_success",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/50ea7655-ecec-41c1-aa84-56364a08bc90?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959485.835481,
+        "modified": 1699182278.182507,
+        "id": "6507077dcb0aa2231208d3e6",
+        "modifiedF": "2023-11-05 13:04:38",
+        "hasData": true
+      },
+      "65070737239befd19a0d939e": {
+        "title": "Lesson (10) Plan for the Long Term",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre__longterm_success",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/eb55c163-5e7f-47d2-9450-e633e867b767?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959415.926994,
+        "modified": 1699182273.161643,
+        "id": "65070737239befd19a0d939e",
+        "modifiedF": "2023-11-05 13:04:33",
+        "hasData": true
+      },
+      "6507073806266fc74d01c4c0": {
+        "title": "Lesson (9) Greed",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mentoring_and_challenges",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/8b4c237a-fc33-412e-b4ed-c76ed9cb1250?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959416.103022,
+        "modified": 1699182267.38237,
+        "id": "6507073806266fc74d01c4c0",
+        "modifiedF": "2023-11-05 13:04:27",
+        "hasData": true
+      },
+      "65070758ea114626ea04b4fc": {
+        "title": "Lesson (8) Enemies",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mentoring_and_challenges",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1a09e1fb-d8bf-4c6a-b2a5-d3f1ecd322d8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959448.737681,
+        "modified": 1699182262.817194,
+        "id": "65070758ea114626ea04b4fc",
+        "modifiedF": "2023-11-05 13:04:22",
+        "hasData": true
+      },
+      "6507072d1469ed0e1c055672": {
+        "title": "Lesson (7) How to Find a Mentor",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mentoring_and_challenges",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/ee12ab95-73b2-4067-934e-e6a25248a8e6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959405.991535,
+        "modified": 1699182257.169427,
+        "id": "6507072d1469ed0e1c055672",
+        "modifiedF": "2023-11-05 13:04:17",
+        "hasData": true
+      },
+      "6507070bce7159e15201c6a6": {
+        "title": "Lesson (6) Tech Planet",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mindset_and_technology",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b52c6043-f961-4b12-a3d2-7500a7ff8a21?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959371.259458,
+        "modified": 1699182244.023363,
+        "id": "6507070bce7159e15201c6a6",
+        "modifiedF": "2023-11-05 13:04:04",
+        "hasData": true
+      },
+      "6507070d54fca1dcea0ff8e0": {
+        "title": "Lesson (5) Mindset Part 2",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mindset_and_technology",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/72af5a08-6a03-4bfd-bd3c-689202120b68?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959373.918798,
+        "modified": 1699182239.131981,
+        "id": "6507070d54fca1dcea0ff8e0",
+        "modifiedF": "2023-11-05 13:03:59",
+        "hasData": true
+      },
+      "65070708df66124d2408cf8e": {
+        "title": "Lesson (4) Mindset Part 1",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mindset_and_technology",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/af0807fc-8de0-44e8-8a1a-4ca5d7086c33?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959368.619782,
+        "modified": 1699182235.588815,
+        "id": "65070708df66124d2408cf8e",
+        "modifiedF": "2023-11-05 13:03:55",
+        "hasData": true
+      },
+      "65070912608a953be80f606c": {
+        "title": "Lesson (3) Mindset Intro",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mindset_and_technology",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/65a1e565-e2db-415e-8588-02bef23e1e94?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959890.738734,
+        "modified": 1699182230.867016,
+        "id": "65070912608a953be80f606c",
+        "modifiedF": "2023-11-05 13:03:50",
+        "hasData": true
+      },
+      "650706e55e61a5b56303553e": {
+        "title": "Lesson (2) Information Technology",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_mindset_and_technology",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/15986a13-9947-4db7-b225-c584589015d0?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959333.765894,
+        "modified": 1699182227.048173,
+        "id": "650706e55e61a5b56303553e",
+        "modifiedF": "2023-11-05 13:03:47",
+        "hasData": true
+      },
+      "650706b6b6ad0a4b3005acee": {
+        "title": "Lesson (1) Introduction to Entrepreneurship",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "entrepreneurship",
+        "courseSection": "entre_introduction_to_entrepreneurship",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/2e18fe75-2c9c-4877-be55-ff7fba6b21d5?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694959286.850293,
+        "modified": 1699182222.822255,
+        "id": "650706b6b6ad0a4b3005acee",
+        "modifiedF": "2023-11-05 13:03:42",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}

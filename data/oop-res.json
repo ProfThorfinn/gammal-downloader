@@ -1,0 +1,869 @@
+{
+  "course": {
+    "title": "OOP",
+    "titleId": "oop",
+    "courseType": "path",
+    "status": "paid",
+    "tags": [],
+    "description": null,
+    "keywords": "Master Object-Oriented Programming (OOP) with our in-depth course on Gammal Tech. Building on the foundation of our C++ Programming course, this advanced training will teach you essential OOP concepts and techniques. OOP is critical for creating modular, scalable, and maintainable software, making it a cornerstone of modern software development. Our expert-led instruction will significantly enhance your development skills and open up new career opportunities in the tech industry. Don\u2019t miss this chance to elevate your programming prowess. Enroll now and become an expert in OOP!",
+    "goals": null,
+    "points": null,
+    "authors": [
+      {
+        "name": "AbdurRahman ElGammal \u0639\u0628\u062f\u0627\u0644\u0631\u062d\u0645\u0646 \u0627\u0644\u062c\u0645\u0627\u0644",
+        "image": {
+          "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=500&height=0",
+          "url_small": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/117c406e2bbce13438c231a220007059.png?client_id=64f9d95d01ac55bf5644ea7a&width=68&height=0",
+          "name": "\/117c406e2bbce13438c231a220007059.png"
+        }
+      }
+    ],
+    "quotes": null,
+    "order": 8,
+    "courseImage": {
+      "url": "https:\/\/api.us-e2.learnworlds.com\/imagefile\/https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/6c365a63709c832d6ac5e9231fc61ea1.jpeg?client_id=64f9d95d01ac55bf5644ea7a&width=400&height=0",
+      "uncompressedUrl": "https:\/\/lwfiles.mycourse.app\/64f9d95d01ac55bf5644ea7a-public\/6c365a63709c832d6ac5e9231fc61ea1.jpeg",
+      "name": "\/6c365a63709c832d6ac5e9231fc61ea1.jpeg"
+    },
+    "bgcolor": null,
+    "price": 22,
+    "discountFlag": false,
+    "discountPrice": null,
+    "introVideoImage": {
+      "url": null,
+      "name": "\/"
+    },
+    "introVideoVimeoId": null,
+    "knowledgeBadges": null,
+    "dripFeed": false,
+    "goalTotal": null,
+    "numVideos": null,
+    "numPages": null,
+    "difficulty": null,
+    "prerequisites": null,
+    "socialMedia": null,
+    "access": "public",
+    "registeredUsers": 631,
+    "inProducts": {
+      "subscriptions": [
+        "monthly-subscription",
+        "yearly-subscription",
+        "monthly-subscription-v2",
+        "yearly-subscription-v2"
+      ]
+    },
+    "expires": 4,
+    "expiresType": "months",
+    "short_url": "https:\/\/mycourse.app\/bZML9qpjsQGwynok8",
+    "afterPurchase": {
+      "type": "course",
+      "settings": {
+        "page": null,
+        "url": null
+      }
+    },
+    "enrollButtonAllOptions": null,
+    "courseCompletion": {
+      "how": "allUnits"
+    },
+    "courseNavigation": "sequential",
+    "coursePlayerSettings": {
+      "coursePlayerSkin": "legacy-gray",
+      "sectionNumbers": true,
+      "ebooksTimeDisplay": false,
+      "wrappedUnitTitles": true,
+      "wrappedSectionTitles": true,
+      "sectionsVisibleOnLoad": false,
+      "courseProgressBarDisplay": true,
+      "courseTitleDisplay": true,
+      "backToCourseDisplay": true,
+      "learnersTabDisplay": true,
+      "previousButtonText": "previous",
+      "nextButtonText": "next",
+      "videoAutoProgress": false,
+      "communityTabDisplay": true,
+      "sideNavigationDisabled": false,
+      "replaceTopNavigationWithUnitTitle": false,
+      "backButtonProps": {
+        "type": "courseLayout",
+        "url": "",
+        "page": {
+          "title": "After Login",
+          "slug": "start",
+          "type": "start"
+        }
+      },
+      "sectionNumberingStartAtZero": true
+    },
+    "unitCompletion": null,
+    "unitCompletion_v2": {
+      "ivideo": {
+        "type": "visited",
+        "default": true
+      },
+      "ebook": {
+        "type": "visited",
+        "default": true
+      },
+      "pbEbook": {
+        "type": "visited",
+        "default": true
+      },
+      "pdf": {
+        "type": "visited",
+        "default": true
+      },
+      "scorm": {
+        "type": "visited",
+        "default": true
+      },
+      "youtube": {
+        "type": "visited",
+        "default": true
+      },
+      "soundcloud": {
+        "type": "visited",
+        "default": true
+      },
+      "audio": {
+        "type": "visited",
+        "default": true
+      },
+      "embed": {
+        "type": "secondsAfterLoad",
+        "value": 30,
+        "default": false
+      },
+      "slideshare": {
+        "type": "visited",
+        "default": true
+      },
+      "slideshow": {
+        "type": "visited",
+        "default": true
+      },
+      "url": {
+        "type": "visited",
+        "default": true
+      },
+      "quizInformal": {
+        "type": "visited",
+        "default": true
+      },
+      "selfAssessment": {
+        "type": "visited",
+        "default": true
+      },
+      "zoomMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "zoomWebinar": {
+        "type": "joined",
+        "default": true
+      },
+      "webexMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "teamsMeeting": {
+        "type": "joined",
+        "default": true
+      },
+      "oneOnOneSession": {
+        "type": "joined",
+        "default": true
+      },
+      "groupSession": {
+        "type": "joined",
+        "default": true
+      },
+      "assessment": {
+        "type": "pass",
+        "default": true
+      },
+      "scormGraded": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate_v2": {
+        "type": "pass",
+        "default": true
+      },
+      "certificate": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFormal": {
+        "type": "pass",
+        "default": true
+      },
+      "quizWritten": {
+        "type": "pass",
+        "default": true
+      },
+      "quizFiles": {
+        "type": "pass",
+        "default": true
+      },
+      "certificateCompletion_v2": {
+        "type": "claim",
+        "default": true
+      },
+      "certificateCompletion": {
+        "type": "claim",
+        "default": true
+      },
+      "newSurvey": {
+        "type": "submit",
+        "default": true
+      }
+    },
+    "disablePathPlayer": null,
+    "identifiers": {
+      "google_store_id": "oop",
+      "apple_store_id": "oop",
+      "slug": "oop"
+    },
+    "courseNotificationSettings": {
+      "mode": "generic-rules",
+      "onEnrollFreeCourse": true,
+      "onEnrollPaidCourse": true,
+      "onCourseComplete": true,
+      "onAwardCertificate": true,
+      "onUserPaymentPlanStarted": true,
+      "onUserPaymentPlanPaymentPayed": true,
+      "onUserPaymentPlanPaymentFailed": true,
+      "onUserPaymentPlanCompleted": true,
+      "onUserPaymentPlanFailed": true
+    },
+    "denormalizedUnitDataMap": null,
+    "trialLimitExceeded": null,
+    "created": 1694505768.350137,
+    "modified": 1730737363.811598,
+    "customMetadata": null,
+    "user": {
+      "id": "64f9d95d01ac55bf5644ea7b",
+      "username": "Boss (old Ahmed account)"
+    },
+    "readOnlyLocks": [],
+    "contentHash": "1b2e401ab080a60fcdf387b652717b3be004e95916336660ea86005081e42ab6",
+    "id": "65001b28d1a69678e3082bd3",
+    "containsLegacyUnits": false,
+    "containsLiveSessions": false,
+    "firstFreeUnitPathPlayerUrl": "https:\/\/new.gammal.tech\/path-player?courseid=oop&unit=6506d81ce42dc745a80c7eceUnit",
+    "subscriptions": [
+      {
+        "title": "Monthly Subscription",
+        "titleId": "monthly-subscription-v2",
+        "price": 59,
+        "description": "Access to all Gammal Tech courses for one month.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "month",
+        "currency": "$"
+      },
+      {
+        "title": "Yearly Subscription",
+        "titleId": "yearly-subscription-v2",
+        "price": 590,
+        "description": "Access all Gammal Tech courses for one year.",
+        "courses": [
+          "c-programming",
+          "cpp",
+          "data-structures",
+          "algorithms",
+          "oop",
+          "entrepreneurship",
+          "ui-ux-design",
+          "dart",
+          "flutter",
+          "html",
+          "python",
+          "css",
+          "gtk",
+          "javascript",
+          "linear-algebra",
+          "masterclass",
+          "intrapreneurship"
+        ],
+        "interval": 1,
+        "interval_type": "year",
+        "currency": "$"
+      }
+    ],
+    "paymentPlans": [],
+    "bundles": [],
+    "sections": {
+      "oop_course_introduction": {
+        "title": "Course Introduction",
+        "image": "",
+        "description": "",
+        "access": "public",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d81ce42dc745a80c7ece",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Simple Selector",
+            "courseTitle": "CSS",
+            "attachments": false,
+            "isPrerequisite": false,
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "oop_course_introduction",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "oop_oop_fundamentals": {
+        "title": "OOP Fundamentals",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d869a0c3f23e1904907c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Introduction to OOP",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d8b9794f82eb400fe088",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d8c62501fbb55a099e49",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "oop_oop_fundamentals",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "oop_inheritance": {
+        "title": "Inheritance",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d8c434a65938cb0a1e2c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d97011b3cb9c510b473d",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d96e5c3ce52a7007f153",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "oop_inheritance",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      },
+      "oop_abstraction_and_polymorphism": {
+        "title": "Abstraction and Polymorphism",
+        "image": "",
+        "description": "",
+        "access": "premium",
+        "learningPath": [
+          {
+            "type": "embed",
+            "id": "6506d98ef931d4627b057e6c",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d9ecaa225027e80b5be4",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d9ea15175683580b3362",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d9e8db0a3b45b4071f7a",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "embed",
+            "id": "6506d9e628dd75f6db0e2406",
+            "icon": "video",
+            "subtitle": "Embed",
+            "image": "",
+            "unitTitle": "Keywords",
+            "courseTitle": "OOP",
+            "syncedModelGroupId": null
+          },
+          {
+            "type": "certificateCompletion_v2",
+            "id": "661c71102a4c4fbd4a0bf5c4",
+            "icon": "certification2",
+            "subtitle": "Certificate of completion",
+            "image": "",
+            "unitTitle": "Untitled",
+            "syncedModelGroupId": null
+          }
+        ],
+        "titleId": "oop_abstraction_and_polymorphism",
+        "syncedModelGroupId": null,
+        "syncedModelPeerCount": "0",
+        "isEditBlockedDueToSync": false,
+        "containsLegacyUnits": false,
+        "containsLiveSessions": false
+      }
+    },
+    "weeksDripFeedDividedServerSide": false,
+    "premium": true,
+    "me": {
+      "registered": false,
+      "premium": false,
+      "unitProgress": [],
+      "courseProgress": {
+        "unitsTotal": 13,
+        "unitsCompleted": 0
+      },
+      "courseCompleted": false,
+      "courseStartedAnalytics": false,
+      "courseCompletedAnalytics": false,
+      "expires": 4,
+      "expiresType": "months",
+      "expires_t": false,
+      "notes_val": 0,
+      "favs_val": 0,
+      "hits": []
+    },
+    "assessments": {
+      "661c71102a4c4fbd4a0bf5c3": {
+        "title": "OOP",
+        "type": "usage_course",
+        "unitId": "661c71102a4c4fbd4a0bf5c4",
+        "objectType": "certificateCompletion_v2",
+        "isGraded": true,
+        "courseTitleId": "oop",
+        "courseImage": "\/6c365a63709c832d6ac5e9231fc61ea1.jpeg",
+        "id": "oop"
+      }
+    },
+    "videos": [],
+    "ebooks": [],
+    "objects": {
+      "661c71102a4c4fbd4a0bf5c4": {
+        "title": "Certificate of Completion",
+        "model": null,
+        "objectType": "certificateCompletion_v2",
+        "courseTitleId": "oop",
+        "courseSection": "oop_abstraction_and_polymorphism",
+        "description": "",
+        "image": null,
+        "data": {
+          "assessmentId": "661c71102a4c4fbd4a0bf5c3",
+          "default": true,
+          "constraints": [
+            "gateway"
+          ],
+          "constraint": "Q"
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1713139984.290753,
+        "modified": 1713139984.290753,
+        "id": "661c71102a4c4fbd4a0bf5c4",
+        "modifiedF": "2024-04-15 02:13:04",
+        "hasData": true,
+        "questionsCount": 0,
+        "assessmentSubmissions": []
+      },
+      "6506d9e628dd75f6db0e2406": {
+        "title": "Lesson (11) Polymorphism",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_abstraction_and_polymorphism",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/94e9de11-b078-406d-98f1-8d1ef4091dd8?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947814.319079,
+        "modified": 1699182167.558371,
+        "id": "6506d9e628dd75f6db0e2406",
+        "modifiedF": "2023-11-05 13:02:47",
+        "hasData": true
+      },
+      "6506d9e8db0a3b45b4071f7a": {
+        "title": "Lesson (10) Friend Class",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_abstraction_and_polymorphism",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/20efa726-75c9-47f1-b4f9-4eab6955fa37?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947816.106679,
+        "modified": 1699182164.044549,
+        "id": "6506d9e8db0a3b45b4071f7a",
+        "modifiedF": "2023-11-05 13:02:44",
+        "hasData": true
+      },
+      "6506d9ea15175683580b3362": {
+        "title": "Lesson (9) Default Arguments",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_abstraction_and_polymorphism",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1e15c028-7989-4b03-91d4-c0a8b7badb75?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947818.145644,
+        "modified": 1699182159.476573,
+        "id": "6506d9ea15175683580b3362",
+        "modifiedF": "2023-11-05 13:02:39",
+        "hasData": true
+      },
+      "6506d9ecaa225027e80b5be4": {
+        "title": "Lesson (8) Abstract Class",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_abstraction_and_polymorphism",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/d8ca334b-4423-40ca-9f73-b016bf032b12?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947820.083571,
+        "modified": 1699182150.200151,
+        "id": "6506d9ecaa225027e80b5be4",
+        "modifiedF": "2023-11-05 13:02:30",
+        "hasData": true
+      },
+      "6506d98ef931d4627b057e6c": {
+        "title": "Lesson (7) Abstraction",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_abstraction_and_polymorphism",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b56b7850-7239-4d18-b38b-e8f3d93bc7eb?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947726.113325,
+        "modified": 1699182144.291865,
+        "id": "6506d98ef931d4627b057e6c",
+        "modifiedF": "2023-11-05 13:02:24",
+        "hasData": true
+      },
+      "6506d96e5c3ce52a7007f153": {
+        "title": "Lesson (6) Virtual Function",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_inheritance",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/5dc5b5af-9627-4ca1-89fa-be83e7b2a67d?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947694.450907,
+        "modified": 1699182134.8208,
+        "id": "6506d96e5c3ce52a7007f153",
+        "modifiedF": "2023-11-05 13:02:14",
+        "hasData": true
+      },
+      "6506d97011b3cb9c510b473d": {
+        "title": "Lesson (5) More About Inheritance",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_inheritance",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/a073390d-79c1-4a05-9aca-d875d5b2edf3?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947696.323521,
+        "modified": 1699182130.693717,
+        "id": "6506d97011b3cb9c510b473d",
+        "modifiedF": "2023-11-05 13:02:10",
+        "hasData": true
+      },
+      "6506d8c434a65938cb0a1e2c": {
+        "title": "Lesson (4) Multiple Inheritance",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_inheritance",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/de0a9109-f33c-448a-a6f6-1fb4d7543855?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947524.09449,
+        "modified": 1699182126.882056,
+        "id": "6506d8c434a65938cb0a1e2c",
+        "modifiedF": "2023-11-05 13:02:06",
+        "hasData": true
+      },
+      "6506d8c62501fbb55a099e49": {
+        "title": "Lesson (3) Encapsulation",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_oop_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/b00e26f8-54b7-41ae-a0e1-230be3b99df6?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947526.14627,
+        "modified": 1699182117.676769,
+        "id": "6506d8c62501fbb55a099e49",
+        "modifiedF": "2023-11-05 13:01:57",
+        "hasData": true
+      },
+      "6506d8b9794f82eb400fe088": {
+        "title": "Lesson (2) Protected",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_oop_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/1bebbf59-7b82-4513-b764-ef875d6c5f40?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947513.14896,
+        "modified": 1699182110.542508,
+        "id": "6506d8b9794f82eb400fe088",
+        "modifiedF": "2023-11-05 13:01:50",
+        "hasData": true
+      },
+      "6506d869a0c3f23e1904907c": {
+        "title": "Lesson (1) Keywords",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_oop_fundamentals",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/102e64a4-658f-40c3-bc9c-d46978b1eb46?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947433.276509,
+        "modified": 1699182094.940631,
+        "id": "6506d869a0c3f23e1904907c",
+        "modifiedF": "2023-11-05 13:01:34",
+        "hasData": true
+      },
+      "6506d81ce42dc745a80c7ece": {
+        "title": "Introduction to OOP",
+        "model": null,
+        "objectType": "embed",
+        "courseTitleId": "oop",
+        "courseSection": "oop_course_introduction",
+        "description": "",
+        "image": null,
+        "data": {
+          "embed": "<iframe src=\"https:\/\/iframe.mediadelivery.net\/embed\/23222\/c23bdf9d-1536-468c-8bf4-2c615c08fcf7?autoplay=false\" loading=\"lazy\" style=\"border: none; position: absolute; top: 0; height: 100%; width: 100%;\" allow=\"accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"><\/iframe>",
+          "default": true
+        },
+        "tags": [],
+        "access": "public",
+        "migratedTo": null,
+        "passwordProtection": {
+          "enabled": false
+        },
+        "created": 1694947356.247497,
+        "modified": 1695027722.564965,
+        "id": "6506d81ce42dc745a80c7ece",
+        "modifiedF": "2023-09-18 12:02:02",
+        "hasData": true
+      }
+    },
+    "postsCount": "0",
+    "currency": "$",
+    "syncedModelGroupId": null,
+    "syncedModelPeerCount": "0",
+    "isEditBlockedDueToSync": false,
+    "pageSyncedModelGroupId": null,
+    "submissionsPendingReviewCount": 0
+  },
+  "errors": [],
+  "success": true
+}
