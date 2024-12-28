@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 
 void main() async {
-  final res = jsonDecode(File('./c-programming-res.json').readAsStringSync());
+  final res = jsonDecode(File('./data/c-programming-res.json').readAsStringSync());
   final content = res['course']['objects'];
   final keys = content.keys.toList().reversed.take(100);
   final dir = '${Directory.current.path}/content';
